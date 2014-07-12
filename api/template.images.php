@@ -7,6 +7,8 @@ $response = $curl -> get('https://api.flickr.com/services/rest/',
 		'tags' => $tag, 
 		'per_page' => $maxresults, 
 		'format' => 'json', 
+		'licenses' => '1,2,3,4,5,6,7,8', //@see https://www.flickr.com/services/api/flickr.photos.licenses.getInfo.html
+		'sort' => 'relevance',
 		'nojsoncallback' => '1'));
 
 $photos = $response -> photos -> photo;

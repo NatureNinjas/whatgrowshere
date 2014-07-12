@@ -26,15 +26,19 @@ $template = htmlspecialchars($_GET["template"]);
 //maxresults: optional 
 $maxresults = (!empty($_GET["maxresults"]) && (int) $_GET["maxresults"] > 0) ? $_GET["maxresults"] : $maxresults;
 
+/**
+ * Set CORS headers
+ */
+Config::setRequestHeaders();
 
 /**
- * get APU
- * @TODO: template param as comma separated string -> array
+ * Call templates
  */
-$templateFile = 'template.'.$template.'.php';
-
-if(!file_exists($templateFile)){
-	die('Error: template not found.');
-}
-require_once($templateFile);
-
+$templatesSplit = explode(',', $template);
+foreach($templatesSplit as $templateSingle){
+	$templateFile = 'template.'.$templateSingle.'.php';
+	if(!file_exists($templateFile)){
+		die('Error: template not found.');
+	}
+	require($templateFile);
+}//foreach
