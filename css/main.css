@@ -279,3 +279,10 @@ a.pure-button-primary {
         font-size: 300%;
     }
 }
+
+/**
+ * 	
+ */
+.circle {
+	border-radius: 50%;
+}

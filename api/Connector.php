@@ -1,5 +1,5 @@
 <?php
-/**
+/** 
  * example:
 require_once('./Connector.php');
 
@@ -9,13 +9,13 @@ $result = $curl->get(
 	 array(
 	 	'method' => 'flickr.photos.search',
 	 	'api_key' => Api_Key,
-	 	'text' => 'test',
+	 	'tags' => 'test',
 	 	'format' => 'json',
 	 	'nojsoncallback' => '1'
 	 )
 	 
 );
- */
+*/
 require_once ('../apiConfig.php');
 
 class Connector {

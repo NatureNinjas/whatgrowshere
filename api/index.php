@@ -1,41 +1,47 @@
 <?php
-@include_once('../apiConfig.php');
+
+@include_once ('Connector.php');
 
 $error = true;
 $tag = '';
 $maxresults = 5;
 
-if(isset($_GET["bname"])) {
+if (isset($_GET["bname"])) {
 	$tag = htmlspecialchars($_GET["bname"]);
-	$error =false;
+	$error = false;
 }
-if(isset($_GET["maxresults"])) {
-	if(is_int($_GET["maxresults"])) {
+if (isset($_GET["maxresults"])) {
+	if ((int)$_GET["maxresults"] >= 0) {
 		$maxresults = $_GET["maxresults"];
-	}else{
+	} else {
 		//TODO: or just fall-back to default?
 		$error = true;
 	}
-} 
+}
 
-if($error) {
+if ($error) {
 	die('Invalid parameters');
 }
 
-$url = 'https://api.flickr.com/services/rest/?method=flickr.photos.search';
-$url.= '&api_key='.Api_Key;
-$url.= '&tags='.$tag;
-$url.= '&per_page='.$maxresults;
-$url.= '&format=json';
-$url.= '&nojsoncallback=1';
- 
-$response = json_decode(file_get_contents($url));
-$photo_array = $response->photos->photo;
+/**
+ $url = 'https://api.flickr.com/services/rest/?method=flickr.photos.search';
+ $url.= '&api_key='.Api_Key;
+ $url.= '&tags='.$tag;
+ $url.= '&per_page='.$maxresults;
+ $url.= '&format=json';
+ $url.= '&nojsoncallback=1';
+
+ $response = json_decode(file_get_contents($url));
+ */
+
+$curl = new Connector();
+$response = $curl -> get('https://api.flickr.com/services/rest/', array('method' => 'flickr.photos.search', 'api_key' => Api_Key, 'tags' => $tag, 'per_page' => $maxresults, 'format' => 'json', 'nojsoncallback' => '1'));
+
+$photo_array = $response -> photos -> photo;
 
 //print ("<pre>");
 //print_r($response);
 //print ("</pre>");
- 
 ?>
 
 <!DOCTYPE html>
@@ -59,7 +65,7 @@ $photo_array = $response->photos->photo;
 		<link rel="stylesheet" href="http://yui.yahooapis.com/pure/0.5.0/grids-responsive-min.css">
 		<!--<![endif]-->
 		<link rel="stylesheet" href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
-		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
+		<script src="../js/vendor/modernizr-2.6.2.min.js"></script>
 </head>
 <body>
 	<!--[if lt IE 7]>
@@ -78,7 +84,7 @@ $photo_array = $response->photos->photo;
 	<div class="content-wrapper">
 		<div class="content">
 			<h2 class="content-head is-center"><?php echo "Search Terms: " . $tag; ?></h2>
-			<div class="pure-g">
+			<div class="pure-g circles">
 			<?php
 				foreach($photo_array as $single_photo){
 					$farm_id = $single_photo->farm;
@@ -92,14 +98,23 @@ $photo_array = $response->photos->photo;
 					$photo_url = 'http://farm'.$farm_id.'.staticflickr.com/'.$server_id.'/'.$photo_id.'_'.$secret_id.'_'.$size.'.'.'jpg';
 				 
 			?>
-				<div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+				<div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4 circle">
 					<h3 class="content-subhead"><?php echo $title; ?></h3>
-					<img class="pure-img-responsive" alt="<?php echo $title;?>" src="<?php echo $photo_url;?>">
+					<img class="pure-img-responsive FlickrImage" alt="<?php echo $title; ?>" src="<?php echo $photo_url; ?>" data-owner="<?php echo $single_photo -> owner; ?>">
 				</div>
 			
 			<?php } ?>
 			</div> <!-- .pure-g -->
 		</div> <!-- .content -->
 	</div> <!-- .content -->
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<script>
+		window.jQuery || document.write('<script src="../js/vendor/jquery-1.11.0.min.js"><\/script>')
+	</script>
+	
+	<script src="../js/plugins.js"></script>
+	<script src="../js/main.js"></script>
+
 </body>
 </html>
