@@ -1,7 +1,9 @@
 <?php 
 /**
  * https://www.flickr.com/services/api/flickr.people.getInfo.html
+ * url, license, owner
  */
+ die(3);
 require_once('../Connector.php');
 
 $error = true;
