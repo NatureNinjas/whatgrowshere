@@ -9,9 +9,6 @@ dk grey = #333 = h4
 black = #000 = h5/p
 lt grey = #bbb = cite
 */
-.brand {
-    color: ;
-}
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -129,6 +126,9 @@ a.pure-button-primary {
     color: white;
     font-weight: 400;
     font-size: 120%;
+}
+.home-menu .pure-menu-heading.brand {
+    color: #3E8DDD;
 }
 
 .home-menu .pure-menu-selected a {
