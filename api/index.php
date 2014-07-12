@@ -1,6 +1,4 @@
 <?php
-DEFINE('DEBUG', false);
-
 @include_once('../apiConfig.php');
 
 $error = true;
@@ -34,11 +32,9 @@ $url.= '&nojsoncallback=1';
 $response = json_decode(file_get_contents($url));
 $photo_array = $response->photos->photo;
 
-if(DEBUG) {
-	print ("<pre>");
-	print_r($response);
-	print ("</pre>");
-}
+//print ("<pre>");
+//print_r($response);
+//print ("</pre>");
  
 ?>
 
@@ -70,39 +66,40 @@ if(DEBUG) {
 		<p class="browsehappy">Your browser is slightly outdated. You can <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
 
-		<div class="header">
-			<div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
-				<a class="pure-menu-heading" href="">What grows here?</a>
-				<ul>
-					<li><?php echo "SearchTerms: " . $tag ?></li>
-				</ul>
-			</div>
+	<div class="header">
+		<div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
+			<a class="pure-menu-heading" href="">What grows here?</a>
+			<ul>
+				<li></li>
+			</ul>
 		</div>
+	</div>
 
-		<?php
-			foreach($photo_array as $single_photo){
-				$farm_id = $single_photo->farm;
-				$server_id = $single_photo->server;
-				$photo_id = $single_photo->id;
-				$secret_id = $single_photo->secret;
-				$size = 'm';
+	<div class="content-wrapper">
+		<div class="content">
+			<h2 class="content-head is-center"><?php echo "Search Terms: " . $tag; ?></h2>
+			<div class="pure-g">
+			<?php
+				foreach($photo_array as $single_photo){
+					$farm_id = $single_photo->farm;
+					$server_id = $single_photo->server;
+					$photo_id = $single_photo->id;
+					$secret_id = $single_photo->secret;
+					$size = 'm';
+					 
+					$title = $single_photo->title;
+					 
+					$photo_url = 'http://farm'.$farm_id.'.staticflickr.com/'.$server_id.'/'.$photo_id.'_'.$secret_id.'_'.$size.'.'.'jpg';
 				 
-				$title = $single_photo->title;
-				 
-				$photo_url = 'http://farm'.$farm_id.'.staticflickr.com/'.$server_id.'/'.$photo_id.'_'.$secret_id.'_'.$size.'.'.'jpg';
-			 
-		?>
-
-		<div class="ribbon l-box-lrg pure-g">
-			<div class="l-box-lrg is-center pure-u-1 pure-u-md-1-2 pure-u-lg-2-5">
-				<img class="pure-img-responsive" alt="<?php echo $title;?>" src="<?php echo $photo_url;?>">
-			</div>
-			<div class="pure-u-1 pure-u-md-1-2 pure-u-lg-3-5">
-
-				<h2 class="content-head content-head-ribbon"><?php echo $title; ?></h2>
-			</div>
-		</div>
-
+			?>
+				<div class="l-box pure-u-1 pure-u-md-1-2 pure-u-lg-1-4">
+					<h3 class="content-subhead"><?php echo $title; ?></h3>
+					<img class="pure-img-responsive" alt="<?php echo $title;?>" src="<?php echo $photo_url;?>">
+				</div>
+			
 			<?php } ?>
+			</div> <!-- .pure-g -->
+		</div> <!-- .content -->
+	</div> <!-- .content -->
 </body>
 </html>
