@@ -1,11 +1,11 @@
 <?php
- 
-@include_once('../apiConfig.php')
+
+@include_once('../apiConfig.php');
  
 $tag = 'flower,bird,peacock';
 $perPage = 25;
-$url = 'http://api.flickr.com/services/rest/?method=flickr.photos.search';
-$url.= '&api_key='.$Api_Key;
+$url = 'https://api.flickr.com/services/rest/?method=flickr.photos.search';
+$url.= '&api_key='.Api_Key;
 $url.= '&tags='.$tag;
 $url.= '&per_page='.$perPage;
 $url.= '&format=json';
@@ -13,6 +13,7 @@ $url.= '&nojsoncallback=1';
  
 $response = json_decode(file_get_contents($url));
 $photo_array = $response->photos->photo;
+
  
 print ("<pre>");
 print_r($response);
