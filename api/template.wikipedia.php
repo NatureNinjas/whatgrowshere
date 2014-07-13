@@ -13,7 +13,7 @@ $response = (array)$response;
 ?>
 <div class="links wikipedia">
 <?php if(!empty($response[1]) && count($response[1]) >= 1): ?>
-<div class="item-title">Related Wikipedia Articles</div>
+<div class="item-title">Related Wikipedia articles</div>
 <?php endif; ?>
 <?php
 foreach((array) $response[1] as $key => $title){
