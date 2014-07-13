@@ -306,7 +306,6 @@ a.pure-button-primary {
 .circle {
 	border-radius: 50%;
 }
-
 #learn .learningObject {
     margin-left: 25%;
     margin-right: 25%;
@@ -319,4 +318,11 @@ a.pure-button-primary {
 }
 .taxon {
     display: none;
+}
+.as-block,.textarea-block{
+display: inline-block;
+width:100%;
+}
+.textarea-block{
+height:8em;
 }
