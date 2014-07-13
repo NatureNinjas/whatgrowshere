@@ -306,3 +306,11 @@ a.pure-button-primary {
 .circle {
 	border-radius: 50%;
 }
+
+.as-block,.textarea-block{
+display: inline-block;
+width:100%;
+}
+.textarea-block{
+height:8em;
+}
