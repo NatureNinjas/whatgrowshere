@@ -1,5 +1,5 @@
 <?php 
-$pageTitle = "Nature Ninjas | LMS";
+$pageTitle = "Example | LRS";
 include '../includes/headerHtml.php'; 
 ?>
 
@@ -8,11 +8,13 @@ include '../includes/headerHtml.php';
 		<p class="browsehappy">Your browser is slightly outdated. You can <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
 
-	<?php include 'header.html'; ?>
+<?php include 'header.html'; ?>
+	
 
 	<div class="content-wrapper">
 		<div class="content">
-			<h2 class="content-head is-center">Introduction</h2>
+			<h2 class="content-head is-center">Be a Nature Ninja</h2>
+			<h3>Plant Log Book</h3>
 
 		</div> <!-- .content -->
 	</div> <!-- .content-wrapper -->

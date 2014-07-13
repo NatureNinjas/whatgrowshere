@@ -1,5 +1,5 @@
 <?php 
-$pageTitle = "Nature Ninjas | LMS";
+$pageTitle = "Nature Ninjas | LRS";
 include '../includes/headerHtml.php'; 
 ?>
 
@@ -8,25 +8,24 @@ include '../includes/headerHtml.php';
 		<p class="browsehappy">Your browser is slightly outdated. You can <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 		<![endif]-->
 
-	<div class="header">
-		<div class="home-menu pure-menu pure-menu-open pure-menu-horizontal pure-menu-fixed">
-			<a class="pure-menu-heading brand" href="">
-				Learning <span>Resource</span> System!
-			</a>
-				<ul>
-					<li class="pure-menu-selected">
-						<a href="index.php">Home</a>
-					</li>
-					<li>
-						<a href="example.php">Example</a>
-					</li>
-				</ul>
-		</div>
-	</div>
+	<?php include 'header.html'; ?>
 
 	<div class="content-wrapper">
-		<div class="content">
+		<div class="content pure-g">
 			<h2 class="content-head is-center">Introduction</h2>
+
+		    <div class="pure-u-1-2 u-sm-2-3 u-md-1-2">
+		        <img src="http://placehold.it/505x310" class="pure-img-responsive" alt="LRS.">
+		    </div>
+
+		    <div class="content pure-u-1-2 u-md-1-2">
+		        <h3 class="lrs-header">Overview.</h3>
+		        <p>
+		            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus maiores et impedit odit similique nostrum pariatur, cum asperiores nisi minus ea repellat quidem, quam consequatur sunt officia eaque iusto ad.
+		        </p>
+
+		    </div>
+
 
 		</div> <!-- .content -->
 	</div> <!-- .content-wrapper -->
