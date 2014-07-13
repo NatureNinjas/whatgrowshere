@@ -18,7 +18,7 @@ $photos = $response -> photos -> photo;
 ?>
 <div class="images">
 <?php if(count($photos )> 0): ?>
-<div class="item-title">Related Flickr Images</div>
+<div class="item-title">Related Flickr images</div>
 <?php endif; ?>
 <?php
 foreach((array) $photos as $key => $image){
