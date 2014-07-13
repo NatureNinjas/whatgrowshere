@@ -1,6 +1,7 @@
 <?php
 /**
  * Dispatcher
+ * https://www.flickr.com/services/api/explore/flickr.photos.search
  */
 
 @include_once ('Connector.php');
@@ -27,9 +28,12 @@ $template = htmlspecialchars($_GET["template"]);
 $maxresults = (!empty($_GET["maxresults"]) && (int) $_GET["maxresults"] > 0) ? $_GET["maxresults"] : $maxresults;
 
 /**
- * Set CORS headers
+ * Set CORS headers, prepare for future xAPI implementation
  */
-Config::setRequestHeaders();
+header('Access-Control-Allow-Origin: *');
+header('Access-Control-Allow-Methods: GET,HEAD,OPTIONS');
+header('Access-Control-Allow-Headers: Origin,Content-Type,Authorization,Accept,X-Experience-API-Version,If-Match,If-None-Match');
+header('Content-Type: text/html; charset=utf-8');
 
 /**
  * Call templates

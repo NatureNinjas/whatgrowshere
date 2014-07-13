@@ -7,7 +7,7 @@ $curl = new Connector();
 $response = $curl -> get('https://api.flickr.com/services/rest/', 
 	array('method' => 'flickr.photos.search', 
 		'api_key' => Api_Key, 
-		'tags' => $tag, 
+		'machine_tags' => '"taxonomy:binomial=\"'.$tag.'\""', 
 		'per_page' => $maxresults, 
 		'format' => 'json', 
 		'licenses' => '1,2,3,4,5,6,7,8', //@see https://www.flickr.com/services/api/flickr.photos.licenses.getInfo.html
@@ -23,7 +23,6 @@ foreach((array) $photos as $key => $image){
 	$size = 'm';
 	$imageSrc = 'http://farm'.$image->farm.'.staticflickr.com/'.$image->server.'/'.$image->id.'_'.$image->secret.'_'.$size.'.'.'jpg';
 
-
 	//owner
 	$owner = $curl -> get('https://api.flickr.com/services/rest/', 
 	array('method' => 'flickr.people.getInfo', 
@@ -32,11 +31,9 @@ foreach((array) $photos as $key => $image){
 		'format' => 'json', 
 		'nojsoncallback' => '1'));
 
-	//image
 	$owner = Image::renderOwner($owner->person->username->_content, $owner->person->photosurl->_content);
 	echo Image::renderImage($imageSrc, $image->title, $owner);
 
 }
 ?>	
 </div>
-
