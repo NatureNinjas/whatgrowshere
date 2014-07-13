@@ -4,10 +4,9 @@
  * @TODO: GET param
  */
 $species = "Birds";
-$lon = "138.59994";
-$lat = "-34.928726";
+$lon = (!empty($_GET['lon'])) ? $_GET['lon'] : "138.59994";
+$lat = (!empty($_GET['lat'])) ? $_GET['lat'] : "-34.928726";
 $rad = "5"; //km
-
 
 //Theme class
 require_once('./Theme/Image.php');

@@ -14,7 +14,7 @@ include '../includes/headerHtml.php';
 	<div class="content-wrapper">
 		<div class="content">
 			<h2 class="content-head is-center">Be a Nature Ninja</h2>
-			<form class="pure-form">
+			<form id="ObservationSheet" class="pure-form" method="post">
 
 			<div class="pure-g">
 				<div class="pure-u-6-24"></div>
