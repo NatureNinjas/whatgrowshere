@@ -1,4 +1,5 @@
 <?php 
+//hard coded
 $species = "Birds";
 $lon = "138.59994";
 $lat = "-34.928726";
