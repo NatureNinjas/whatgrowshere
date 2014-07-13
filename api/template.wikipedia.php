@@ -12,7 +12,7 @@ $response = $curl -> get('http://en.wikipedia.org/w/api.php',
 $response = (array)$response;
 ?>
 <div class="links wikipedia">
-<?php if(count($response) > 0): ?>
+<?php if(!empty($response[1]) && count($response[1]) >= 1): ?>
 <div class="item-title">Related Wikipedia Articles</div>
 <?php endif; ?>
 <?php
