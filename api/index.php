@@ -40,8 +40,9 @@ header('Content-Type: text/html; charset=utf-8');
  */
 $templatesSplit = explode(',', $template);
 foreach($templatesSplit as $templateSingle){
+	
 	$templateFile = 'template.'.$templateSingle.'.php';
-	if(!file_exists($templateFile)){
+	if(!is_file($templateFile)){
 		die('Error: template not found.');
 	}
 	require($templateFile);

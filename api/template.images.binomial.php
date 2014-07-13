@@ -17,6 +17,9 @@ $response = $curl -> get('https://api.flickr.com/services/rest/',
 $photos = $response -> photos -> photo;
 ?>
 <div class="images">
+<?php if(count($photos )> 0): ?>
+<div class="item-title">Related Flickr Images</div>
+<?php endif; ?>
 <?php
 foreach((array) $photos as $key => $image){
 
