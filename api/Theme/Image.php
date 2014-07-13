@@ -5,8 +5,10 @@ Class Image{
 	 	
 	 }
 	 
-	public static function renderImage($src, $title, $extra = ''){
-	 	return '<div class="imageItem"><img src="'.$src.'" alt="'.$title.'">'.$extra.'</div>';
+	public static function renderImage($src, $title, $extra = '', $url = false){
+		$a1 = ($url) ? '<a href="'.$url.'" target="_blank">' : '';
+		$a2 = ($url) ? '</a>' : '';
+	 	return '<div class="imageItem">'.$a1.'<img src="'.$src.'" alt="'.$title.'">'.$a2.$extra.'</div>';
 	 	
 	 }
 	 public static function renderOwner($name, $link){

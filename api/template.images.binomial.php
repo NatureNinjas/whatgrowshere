@@ -30,9 +30,10 @@ foreach((array) $photos as $key => $image){
 		'user_id' => $image -> owner,
 		'format' => 'json', 
 		'nojsoncallback' => '1'));
-
+		
+	$url = 'https://www.flickr.com/photos/'.$image -> owner.'/'.$image->id;
 	$owner = Image::renderOwner($owner->person->username->_content, $owner->person->photosurl->_content);
-	echo Image::renderImage($imageSrc, $image->title, $owner);
+	echo Image::renderImage($imageSrc, $image->title, $owner, $url);
 
 }
 ?>	
