@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<!--
+ /*
+*
+* © The Nature Ninjas Team
+* as part of #GovHack2014 & #UnleashedADL
+* http://whatgrowshere.com.au
+*
+* Licensed to the Apache Software Foundation (ASF) under one
+* or more contributor license agreements.  See the NOTICE file
+* distributed with this work for additional information
+* regarding copyright ownership.  The ASF licenses this file
+* to you under the Apache License, Version 2.0 (the
+* "License"); you may not use this file except in compliance
+* with the License.  You may obtain a copy of the License at
+*
+* http://www.apache.org/licenses/LICENSE-2.0
+*
+* Unless required by applicable law or agreed to in writing,
+* software distributed under the License is distributed on an
+* "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+* KIND, either express or implied.  See the License for the
+* specific language governing permissions and limitations
+* under the License.
+*/
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <!-- <meta name="format-detection" content="telephone=no" />
+         WARNING: for iOS 7, remove the width=device-width and height=device-height attributes. See https://issues.apache.org/jira/browse/CB-4323 -->
+        <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" /> -->
+        <link rel="stylesheet" type="text/css" href="css/jquery.mobile-1.4.3.min.css" />
+		<link rel="stylesheet" type="text/css" href="css/index.css" />
+        <!-- <meta name="msapplication-tap-highlight" content="no" /> -->
+        <title>What grows here</title>
+    </head>
+    <body>
+
+<div data-role="page" id="one">
+
+	<div data-role="header">
+		<h1 class="logo"><img src="img/logo.png"/></h1>
+		
+		
+	</div><!-- /header -->
+	<div class="ui-grid-a ui-responsive header-nav">
+			
+		<div class="ui-block-a left">
+			<div class="ui-body ui-body-d left">
+				<!-- <a href="#" class="ui-btn ui-icon-refresh ui-btn-icon-notext ui-corner-all">Reset</a> -->
+				<a href="javascript: filter();" class="ui-btn ui-icon-search ui-btn-icon-notext ui-corner-all">Search</a>
+				<!-- <a href="javascript: filter();" class="cbt-search"></a> -->
+			</div>
+		</div>
+		
+		<div class="ui-block-b right">
+			<div class="ui-body ui-body-d right">
+				
+				<a href="#info" data-icon="info" class="ui-btn ui-icon-info ui-btn-icon-notext ui-corner-all" data-rel="dialog" data-transition="pop"></a>
+			</div>
+		</div>
+	</div><!-- /grid-a -->
+
+	<div role="main" class="ui-content">
+		
+		<div class="search-form">
+			<label for="name">Name</label>
+			<input type="text" name="name" id="name" value="">
+			
+			<label for="type" class="select">Type</label>
+			<select name="type" id="type">
+				<option value="">Any</option>
+				<option value="Trees and Shrubs">Trees and Shrubs</option>
+				<option value="Groundcovers">Groundcovers</option>
+				<option value="Climbers">Climbers</option>
+				<option value="Grasses Rushes">Grasses Rushes</option>
+				<option value="Sedges and other Strap-leaved Plants">Sedges and other Strap-leaved Plants</option>
+			</select>
+			<div class="ui-block-a left advance-search">
+				<div class="ui-body ui-body-d left">
+					<a id="advanceSearch" class="ui-btn ui-icon-plus ui-btn-icon-notext ui-corner-all">Advance Search</a>  
+					Advance search
+				</div>
+			</div>
+			<div class="advance-group">
+				<label for="state" class="select">State</label>
+				<select name="state" id="state">
+					<option value="">Any</option>
+					<option value="Q">Queensland</option>
+					<option value="W">Western Australia</option>
+					<option value="N">New South Wales</option>
+					<option value="NT">Northern Territory</option>
+					<option value="V">Victoria</option>
+					<option value="SA">South Australia</option>
+					<option value="T">Tasmania</option>
+				</select>
+			
+				<label for="location" class="select">Region</label>
+				<select name="location" id="location">
+					<option value="">Any</option>
+					<option value="NW">North Western</option>
+					<option value="LE">Lake Eyre</option>
+					<option value="NU">Nullarbor</option>
+					<option value="GT">Gairdner-Torrens</option>
+					<option value="FR">Flinders Ranges</option>
+					<option value="EA">Eastern</option>
+					<option value="EP">Eyre Peninsula</option>
+					<option value="NL">Northern Lofty</option>
+					<option value="MU">Murray</option>
+					<option value="YP">Yorke Peninsula</option>
+					<option value="SL">Southern Lofty</option>
+					<option value="KI">Kangaroo Island</option>
+					<option value="SE">South Eastern</option>
+				</select>
+			
+				<label>Height (m)</label>
+				<div class="min-max-group">
+					<input type="number" name="height1" pattern="[0-9]*" id="height1" value="" placeholder="Min">
+					<input type="number" name="height2" pattern="[0-9]*" id="height2" value="" placeholder="Max">
+				</div>
+				<label>Spread (m)</label>
+				<div class="min-max-group">
+					<input type="number" name="spread1" pattern="[0-9]*" id="spread1" value="" placeholder="Min">
+					<input type="number" name="spread2" pattern="[0-9]*" id="spread2" value="" placeholder="Max">
+				</div>
+				<label for="rain">Rain</label>
+				<input type="number" name="rain" id="rain"  value="">
+				
+				<label for="color" class="select">Flower Colour</label>
+				<select name="color" id="color">
+					<option value="">Any</option>
+					<option value="B">Blue</option>
+					<option value="BR">Brown</option>
+					<option value="R">Red</option>
+					<option value="G">Green</option>
+					<option value="PK">Pink</option>
+					<option value="PU">Purple</option>
+					<option value="BL">Black</option>
+					<option value="BU">Burgundy</option>
+					<option value="CR">Cream</option>
+					<option value="O">Orange</option>
+					<option value="W">White</option>
+					<option value="Y">Yellow/Gold</option>
+					<option value="I">Insignificant</option>
+				</select>
+			
+				<label for="time" class="select">Flower Time</label>
+				<select name="time" id="time">
+					<option value="">Any</option>
+					<option value="SP">Spring</option>
+					<option value="S">Summer</option>
+					<option value="A">Autumn</option>
+					<option value="W">Winter</option>
+					<option value="F">Frequent</option>
+				</select>
+
+				<label for="tubeColour" class="select">Tube Colour</label>
+				<select name="tubeColour" id="tubeColour">
+					<option value="">Any</option>
+					<option value="B">Black Tubes</option>
+					<option value="G">Green Tubes</option>
+				</select>
+					
+				<label for="genus">Genus</label>
+				<input type="text" name="genus" id="genus" value="">
+				
+				<label for="soilTexture" class="select">Soil Texture</label>
+				<select name="soilTexture" id="soilTexture">
+					<option value="">Any</option>
+					<option value="SA">Sand</option>
+					<option value="LO">Loam</option>
+					<option value="CL">Clay</option>
+					<option value="LI">Limestone</option>
+				</select>
+				
+				<label for="soilph" class="select">Soil pH</label>
+				<select name="soilph" id="soilph">
+					<option value="">Any</option>
+					<option value="A">Acid soils with pH less than 7</option>
+					<option value="N">Neutral soils with pH=7</option>
+					<option value="C">Calcareous soils with pH more than 7</option>
+					<option value="AN/C">Soils with pH less than 8</option>
+				</select>
+				
+				<label for="frost" class="select">Frost</label>
+				<select name="frost" id="frost">
+					<option value="">Any</option>
+					<option value="R">Resistant to most frosts</option>
+					<option value="M">Moderately sensitive to frost</option>
+					<option value="S">Sensitive to frost</option>
+				</select>
+				
+				<label for="conservation" class="select">Conservation Status</label>
+				<select name="conservation" id="conservation">
+					<option value="">Any</option>
+					<option value="I">Indigenous</option>
+					<option value="E">Endangered</option>
+					<option value="T">Threatened</option>
+					<option value="R">Rare</option>
+					<option value="V">Vulnerable</option>
+					<option value="X">Extinct</option>
+				</select>
+			</div>
+		</div>
+		
+		<div>
+			<a href="javascript: filter();" class="ui-btn ui-icon-search ui-btn-icon-left ui-shadow-icon custom-button">Search</a>
+		</div>
+	</div><!-- /content -->
+
+	
+</div><!-- /page one -->
+
+<!-- Start of second page: #two -->
+<div data-role="page" id="two" data-theme="a">
+
+	<div data-role="header">
+		<h1 class="logo"><img src="img/logo.png"/></h1>
+		
+		
+	</div><!-- /header -->
+	<div class="ui-grid-a ui-responsive header-nav">
+			
+		<div class="ui-block-a left">
+			<div class="ui-body ui-body-d left">
+				<a href="#one" class="ui-btn ui-icon-back ui-btn-icon-notext ui-corner-all">back</a>
+				<!-- <a href="#one" class="ui-btn ui-icon-search ui-btn-icon-notext ui-corner-all">Search</a> -->
+			</div>
+		</div>
+		
+		<div class="ui-block-b right">
+			<div class="ui-body ui-body-d right">
+				
+				<a href="#info" data-icon="info" class="ui-btn ui-icon-info ui-btn-icon-notext ui-corner-all" data-rel="dialog" data-transition="pop"></a>
+			</div>
+		</div>
+	</div><!-- /grid-a -->
+
+	<div role="main" class="ui-content">
+		<h2 class="result-title" id='searchResultTitle'>Search result</h2>
+		<div id="searchResult">
+			<ul data-role="listview" id="listview" data-filter="true" data-filter-placeholder="Filter..."></ul>
+		</div>
+		
+	</div><!-- /content -->
+
+	
+</div><!-- /page two -->
+
+<!-- Start of second page: #three -->
+<div data-role="page" id="three" data-theme="a">
+
+	<div data-role="header">
+		<h1 class="logo"><img src="img/logo.png"/></h1>
+		
+		
+	</div><!-- /header -->
+	<div class="ui-grid-a ui-responsive header-nav">
+			
+		<div class="ui-block-a left">
+			<div class="ui-body ui-body-d left">
+				<a href="#two" class="ui-btn ui-icon-back ui-btn-icon-notext ui-corner-all">back</a>
+			</div>
+		</div>
+		
+		<div class="ui-block-b right">
+			<div class="ui-body ui-body-d right">
+				<a href="#one" class="ui-btn ui-icon-search ui-btn-icon-notext ui-corner-all">Search</a>
+				<a href="#info" data-icon="info" class="ui-btn ui-icon-info ui-btn-icon-notext ui-corner-all" data-rel="dialog" data-transition="pop"></a>
+			</div>
+		</div>
+	</div><!-- /grid-a -->
+
+	<div role="main" class="ui-content">
+		<h2 id="botanic-detail-title">Botanical_name</h2>
+		<div id="itemdetail"></div>
+		<div id="photo"></div>
+	</div><!-- /content -->
+
+	
+</div><!-- /page two -->
+
+<!-- Start of third page: #popup -->
+<div data-role="page" id="info">
+
+	<div data-role="header" data-theme="b">
+		<h1 class="info-header">Information</h1>
+	</div><!-- /header -->
+
+	<div role="main" class="ui-content">
+		
+		<h2>Concept / Design / Development by Nature Ninjas: </h2>
+		<div>Joerg Boeselt; Leanne Brookes; Samantha Bywaters; Leo Gaggl; John Flackett; Brent Leideritz; David Lindley; Kristen Morgan; Rhys Moult; Katherine Nguyen; James Plummer; Sean Simper; Kenny Tran; Kien Vu; Catriona Ward.</div>
+
+		<p>Developed as part of the 2014 UnleashedADL GovHack weekend using open government datasets offered by Government and business and community including: South Australian State Flora Catalogue and the Atlas of Living Australia Research data.</p>
+		
+		<div>
+			<a href="#" data-rel="back" class="ui-btn ui-icon-delete ui-btn-icon-left ui-shadow-icon custom-button">Close</a>
+		</div>
+	</div><!-- /content -->
+	
+	
+</div><!-- /page popup -->
+<div id="loading"></div>			
+			
+
+        <script type="text/javascript" src="cordova.js"></script>
+        
+		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="js/jquery.mobile-1.4.3.min.js"></script>
+		<script type="text/javascript" src="js/index.js"></script>
+        
+    </body>
+</html>

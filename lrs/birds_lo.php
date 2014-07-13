@@ -2,11 +2,11 @@
 $pageTitle = "Birds Learning Object | LRS";
 include '../includes/headerHtml.php'; 
 
-print_r($_REQUEST);
 //get location
-if(isset($_GET["loc"])) {
-	$location = explode(",", $_GET["loc"]);
+if(isset($_POST["loc"])) {
+	$location = explode(",", $_POST["loc"]);
 }
+
 ?>
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 <script>
@@ -27,7 +27,7 @@ if(isset($_GET["loc"])) {
 				This tests your knowledge of bird names. You will be presented with 5 birds commonly seen in your selected location. Please note down the 'taxon name' of each of the birds presented!
 			</p>
 
-			<form class="pure-form" action="" action="get">
+			<form class="pure-form" action="" method="post">
 				<input type="hidden" value="help!">
 			    <fieldset>
 	                <label for="loc">Select your location</label>
@@ -42,7 +42,7 @@ if(isset($_GET["loc"])) {
 			</form>
 			<?php  
 				if(count($location)==2) {
-					echo file_get_contents("http://whatgrowshere.com.au/api/index.php?bname=Acacia&template=ala.birds");
+					echo file_get_contents("http://whatgrowshere.com.au/api/index.php?bname=Acacia&template=ala.birds&lat=".$location[0]."&lon=".$location[1]);
 				}
 			?>
 				
