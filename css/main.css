@@ -306,3 +306,17 @@ a.pure-button-primary {
 .circle {
 	border-radius: 50%;
 }
+
+#learn .learningObject {
+    margin-left: 25%;
+    margin-right: 25%;
+} 
+#learn .species .item-title {
+
+}
+#learn .species .item-summary {
+
+}
+.taxon {
+    display: none;
+}
