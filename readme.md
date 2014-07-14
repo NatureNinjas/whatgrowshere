@@ -15,5 +15,25 @@ The information available on the app goes further to include what animals are de
 * [Android  App](https://play.google.com/store/apps/details?id=com.brightcookie.whatgrowshere)
 * iPhone App: Coming soon
 * [Website](http://www.whatgrowshere.com.au/)
-* [Video](http://www.youtube.com/watch?v=bDt7SJ1o0gs)
+* [Videos](http://bit.ly/whatgrowshere)
 * [Learning Object](http://www.whatgrowshere.com.au/lrs/birds_lo.php)
+
+## The team
+
+The 'What grows here?' app and learning hub have been designed and developed by the Nature Ninjas team as part of the 2014 UnleashedADL GovHack weekend.
+
+* Leanne Brookes
+* Samantha Bywaters
+* Leo Gaggl
+* Joerg Boeselt
+* John Flackett
+* Brent Leideritz
+* David Lindley
+* Kristen Morgan
+* Rhys Moult
+* Katherine Nguyen
+* James Plummer
+* Sean Simper
+* Kenny Tran
+* Kien Vu
+* Catriona Ward
