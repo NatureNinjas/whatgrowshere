@@ -20,7 +20,7 @@ The information available on the app goes further to include what animals are de
 
 ## The team
 
-The 'What grows here?' app and learning hub have been designed and developed by the Nature Ninjas team as part of the 2014 UnleashedADL GovHack weekend.
+The `What grows here?` app and learning hub have been designed and developed by the Nature Ninjas team as part of the 2014 UnleashedADL GovHack weekend.
 
 * Leanne Brookes
 * Samantha Bywaters
