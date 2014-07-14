@@ -2,9 +2,9 @@
 
 This project is part of the [Adelaide 2014 GovHack Open Data competition](http://www.govhack.org/locations/south-australia/)
 
-* [You can vote for our prject here.](http://hackerspace.govhack.org/content/what-grows-here)
+* [You can vote for our project here.](http://hackerspace.govhack.org/content/what-grows-here)
 
-The Nature Ninjas present:
+## The Nature Ninjas present:
 
 The well-being of all life on this planet is under increasing pressure from the reality of climate change. It has been known for decades that part of the solution lies in repairing our natural environment through tree planting activities and restoring forest to areas that have been cleared.
 
