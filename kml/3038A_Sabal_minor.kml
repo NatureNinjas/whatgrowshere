@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01865">
+			<name>Dwarf Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dwarf Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1868</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3038A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Sabal minor</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Dwarf Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3038A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>USA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3038.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332767548865,-34.96880985742257,0 138.6332756543241,-34.96880991510346,0 138.6332745826494,-34.96881012922514,0 138.6332735724248,-34.96881049328166,0 138.6332726543454,-34.96881099621132,0 138.6332718563067,-34.96881162273284,0 138.6332712025566,-34.96881235380972,0 138.6332707129589,-34.96881316722855,0 138.6332704023899,-34.96881403827402,0 138.6332702802861,-34.96881494047981,0 138.6332703503575,-34.96881584643292,0 138.633270610475,-34.96881672860638,0 138.6332710527351,-34.96881756019582,0 138.6332716637,-34.96881831593379,0 138.6332724248057,-34.96881897285759,0 138.6332733129266,-34.96881951100691,0 138.6332743010775,-34.96881991403036,0 138.6332753592339,-34.96882016968227,0 138.6332764552442,-34.96882027019477,0 138.6332775558068,-34.96882021251389,0 138.6332786274816,-34.96881999839218,0 138.6332796377063,-34.96881963433564,0 138.6332805557857,-34.96881913140595,0 138.6332813538245,-34.96881850488435,0 138.6332820075746,-34.96881777380742,0 138.6332824971721,-34.96881696038852,0 138.633282807741,-34.96881608934304,0 138.6332829298447,-34.96881518713723,0 138.6332828597732,-34.96881428118412,0 138.6332825996556,-34.96881339901066,0 138.6332821573953,-34.96881256742127,0 138.6332815464304,-34.96881181168335,0 138.6332807853246,-34.96881115475959,0 138.6332798972038,-34.96881061661036,0 138.633278909053,-34.96881021358692,0 138.6332778508968,-34.96880995793507,0 138.6332767548865,-34.96880985742257,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

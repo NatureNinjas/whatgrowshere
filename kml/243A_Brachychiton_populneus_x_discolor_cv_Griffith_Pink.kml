@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02014">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2019</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>243A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Brachychiton populneus x discolor cv Griffith Pink</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>243A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>STERCULIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>cultivar</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>243.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6326892394525,-34.96797464916806,0 138.6326882417659,-34.96797470145329,0 138.6326872702659,-34.96797489555744,0 138.6326863544709,-34.96797522558274,0 138.6326855222069,-34.96797568150154,0 138.6326847987619,-34.96797624946098,0 138.6326842061174,-34.96797691220391,0 138.6326837622806,-34.96797764959319,0 138.6326834807371,-34.96797843922371,0 138.6326833700417,-34.96797925710285,0 138.6326834335577,-34.96798007837979,0 138.6326836693552,-34.96798087810051,0 138.6326840702697,-34.96798163196581,0 138.6326846241196,-34.96798231706991,0 138.6326853140763,-34.96798291259631,0 138.632686119176,-34.96798340045016,0 138.6326870149561,-34.96798376580831,0 138.6326879741987,-34.96798399756956,0 138.6326889677578,-34.96798408869191,0 138.6326899654445,-34.96798403640667,0 138.6326909369447,-34.96798384230252,0 138.6326918527398,-34.96798351227719,0 138.6326926850038,-34.96798305635836,0 138.6326934084487,-34.96798248839885,0 138.6326940010933,-34.96798182565588,0 138.63269444493,-34.96798108826655,0 138.6326947264734,-34.96798029863602,0 138.6326948371687,-34.96797948075687,0 138.6326947736525,-34.96797865947991,0 138.6326945378549,-34.96797785975925,0 138.6326941369404,-34.96797710589394,0 138.6326935830905,-34.96797642078989,0 138.6326928931337,-34.96797582526354,0 138.632692088034,-34.96797533740973,0 138.632691192254,-34.96797497205162,0 138.6326902330115,-34.9679747402904,0 138.6326892394525,-34.96797464916806,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

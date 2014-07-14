@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01776">
+			<name>Bermuda Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bermuda Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1779</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3022B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Sabal bermudana ‘Blackburniana’</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Bermuda Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3022B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>cultivar</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1994</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3022.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6334510405888,-34.96870643918591,0 138.6334489983447,-34.96870654622386,0 138.6334470097066,-34.9687069435594,0 138.6334451350981,-34.96870761911969,0 138.6334434314782,-34.96870855237815,0 138.6334419506106,-34.96870971497825,0 138.6334407374906,-34.96871107159494,0 138.6334398289783,-34.96871258100811,0 138.6334392526785,-34.96871419735503,0 138.6334390261016,-34.96871587152385,0 138.6334391561322,-34.96871755264577,0 138.6334396388194,-34.96871918964074,0 138.6334404594969,-34.96872073276952,0 138.6334415932289,-34.9687221351449,0 138.6334430055676,-34.96872335415642,0 138.6334446535998,-34.96872435276501,0 138.6334464872507,-34.96872510062845,0 138.6334484508059,-34.96872557502327,0 138.6334504846037,-34.96872576153524,0 138.6334525268482,-34.96872565449726,0 138.6334545154868,-34.96872525716164,0 138.6334563900956,-34.96872458160124,0 138.6334580937158,-34.96872364834259,0 138.6334595745834,-34.96872248574233,0 138.6334607877032,-34.96872112912543,0 138.6334616962153,-34.96871961971208,0 138.6334622725147,-34.96871800336504,0 138.6334624990911,-34.96871632919616,0 138.63346236906,-34.96871464807424,0 138.6334618863725,-34.96871301107934,0 138.6334610656946,-34.9687114679507,0 138.6334599319623,-34.96871006557549,0 138.6334585196236,-34.96870884656417,0 138.6334568715917,-34.96870784795578,0 138.633455037941,-34.96870710009249,0 138.6334530743861,-34.9687066256978,0 138.6334510405888,-34.96870643918591,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

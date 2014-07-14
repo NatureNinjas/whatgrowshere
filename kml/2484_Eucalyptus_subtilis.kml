@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02000">
+			<name>Narrow-leaved Mallee</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Narrow-leaved Mallee</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2484</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eucalyptus subtilis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Narrow-leaved Mallee</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2484</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>WA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2484</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6291049597173,-34.96503119655091,0 138.6291034033578,-34.96503127807322,0 138.6291018878391,-34.96503158083726,0 138.6291004592096,-34.96503209564364,0 138.6290991608775,-34.96503280685023,0 138.6290980322919,-34.96503369284744,0 138.6290971077443,-34.96503472671465,0 138.6290964153265,-34.96503587703834,0 138.6290959760776,-34.96503710886653,0 138.6290958033436,-34.96503838477074,0 138.6290959023731,-34.96503966598325,0 138.6290962701573,-34.9650409135751,0 138.629096895521,-34.96504208963881,0 138.629097759463,-34.96504315844026,0 138.6290988357328,-34.96504408750452,0 138.6291000916286,-34.96504484860237,0 138.6291014889906,-34.96504541860827,0 138.6291029853605,-34.96504578020286,0 138.6291045352721,-34.96504592239926,0 138.6291060916319,-34.96504584087697,0 138.6291076071508,-34.9650455381129,0 138.6291090357805,-34.96504502330645,0 138.6291103341127,-34.96504431209971,0 138.6291114626984,-34.96504342610241,0 138.629112387246,-34.96504239223508,0 138.6291130796635,-34.96504124191129,0 138.6291135189123,-34.96504001008304,0 138.629113691646,-34.9650387341788,0 138.6291135926161,-34.96503745296628,0 138.6291132248318,-34.96503620537449,0 138.6291125994679,-34.96503502931086,0 138.6291117355258,-34.96503396050949,0 138.6291106592559,-34.96503303144535,0 138.6291094033602,-34.96503227034761,0 138.6291080059984,-34.9650317003418,0 138.6291065096286,-34.96503133874729,0 138.6291049597173,-34.96503119655091,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

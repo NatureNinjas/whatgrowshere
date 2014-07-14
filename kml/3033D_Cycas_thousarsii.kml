@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01862">
+			<name>Cycas</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cycas</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1865</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3033D</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Cycas thousarsii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Cycas</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3033D</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>CYCADACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>E. Africa, Madagascar, Seychelles, Comoros</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3033.4</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6333309861203,-34.9688445252314,0 138.6333301474417,-34.96884456918723,0 138.6333293307769,-34.96884473235798,0 138.63332856094,-34.96884500978581,0 138.633327861322,-34.96884539304122,0 138.6333272531805,-34.96884587047917,0 138.6333267549936,-34.96884642759299,0 138.6333263818983,-34.96884704745504,0 138.633326145231,-34.96884771123111,0 138.6333260521828,-34.96884839875271,0 138.6333261055808,-34.96884908912985,0 138.6333263038027,-34.96884976138578,0 138.6333266408254,-34.96885039509434,0 138.6333271064087,-34.96885097100057,0 138.6333276864063,-34.9688514716059,0 138.633328363195,-34.96885188169971,0 138.6333291162111,-34.96885218882144,0 138.6333299225745,-34.9688523836394,0 138.6333307577843,-34.9688524602341,0 138.6333315964629,-34.9688524162783,0 138.6333324131277,-34.96885225310754,0 138.6333331829647,-34.96885197567969,0 138.6333338825827,-34.96885159242425,0 138.6333344907242,-34.96885111498624,0 138.6333349889111,-34.9688505578724,0 138.6333353620064,-34.96884993801035,0 138.6333355986736,-34.96884927423423,0 138.6333356917217,-34.96884858671261,0 138.6333356383236,-34.96884789633549,0 138.6333354401017,-34.96884722407956,0 138.633335103079,-34.96884659037104,0 138.6333346374955,-34.96884601446483,0 138.633334057498,-34.96884551385951,0 138.6333333807093,-34.96884510376576,0 138.6333326276933,-34.96884479664405,0 138.6333318213299,-34.96884460182611,0 138.6333309861203,-34.9688445252314,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

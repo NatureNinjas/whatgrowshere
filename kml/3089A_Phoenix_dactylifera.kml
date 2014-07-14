@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01829">
+			<name>Date Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Date Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1832</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3089A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Phoenix dactylifera</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Date Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3089A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>W. Asia, N. Africa</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2002</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3089.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6330746633356,-34.96906383128469,0 138.6330705194238,-34.9690640484605,0 138.6330664842806,-34.96906485467589,0 138.6330626805118,-34.96906622543442,0 138.6330592236928,-34.96906811908631,0 138.6330562188573,-34.9690704780939,0 138.6330537573058,-34.96907323078004,0 138.6330519138311,-34.96907629350573,0 138.6330507444465,-34.96907957321168,0 138.6330502846832,-34.96908297024567,0 138.6330505485108,-34.96908638139056,0 138.6330515279133,-34.96908970300046,0 138.633053193132,-34.96909283414989,0 138.6330554935703,-34.96909567970044,0 138.6330583593305,-34.96909815319147,0 138.6330617033379,-34.96910017946721,0 138.6330654239865,-34.96910169696021,0 138.6330694082263,-34.96910265956217,0 138.633073534998,-34.96910303802494,0 138.6330776789118,-34.9691028208491,0 138.6330817140568,-34.96910201463342,0 138.633085517827,-34.96910064387433,0 138.6330889746468,-34.96909875022176,0 138.6330919794824,-34.96909639121335,0 138.6330944410335,-34.96909363852645,0 138.6330962845071,-34.96909057580005,0 138.63309745389,-34.96908729609363,0 138.6330979136515,-34.96908389905936,0 138.6330976498219,-34.96908048791449,0 138.6330966704176,-34.96907716630491,0 138.6330950051974,-34.96907403515601,0 138.6330927047583,-34.96907118960617,0 138.6330898389979,-34.96906871611591,0 138.633086494991,-34.969066689841,0 138.6330827743435,-34.96906517234869,0 138.6330787901054,-34.9690642097472,0 138.6330746633356,-34.96906383128469,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

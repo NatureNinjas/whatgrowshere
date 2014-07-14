@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01833">
+			<name>Sago Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sago Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1836</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3083B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Cycas revoluta</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Sago Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3083B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>CYCADACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>China, Japan</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3083.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6331397077001,-34.96907292175095,0 138.6331384182221,-34.96907298933112,0 138.6331371625903,-34.96907324020517,0 138.6331359789564,-34.96907366675035,0 138.6331349032845,-34.96907425600634,0 138.6331339682583,-34.96907499006888,0 138.633133202288,-34.9690758466339,0 138.6331326286475,-34.96907679967508,0 138.6331322647663,-34.96907782023474,0 138.633132121701,-34.96907887730367,0 138.6331322037983,-34.96907993876342,0 138.633132508564,-34.96908097236204,0 138.6331330267377,-34.96908194669416,0 138.6331337425752,-34.96908283215523,0 138.633134634326,-34.96908360184089,0 138.6331356748948,-34.96908423236467,0 138.6331368326642,-34.96908470456841,0 138.6331380724564,-34.96908500410447,0 138.6331393566005,-34.96908512187155,0 138.6331406460786,-34.96908505429135,0 138.6331419017106,-34.96908480341728,0 138.6331430853446,-34.96908437687205,0 138.6331441610167,-34.96908378761599,0 138.6331450960429,-34.96908305355336,0 138.633145862013,-34.96908219698827,0 138.6331464356535,-34.96908124394704,0 138.6331467995345,-34.96908022338734,0 138.6331469425997,-34.96907916631837,0 138.6331468605021,-34.96907810485864,0 138.6331465557363,-34.96907707126002,0 138.6331460375623,-34.96907609692795,0 138.6331453217248,-34.96907521146696,0 138.633144429974,-34.96907444178137,0 138.6331433894053,-34.96907381125766,0 138.6331422316359,-34.969073339054,0 138.633140991844,-34.96907303951798,0 138.6331397077001,-34.96907292175095,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01639">
+			<name>Brush Apple</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Brush Apple</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1640</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>901</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Mischocarpus pyriformis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Brush Apple</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>901</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>SAPINDACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>901</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>B9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6277107472713,-34.96807618182296,0 138.6277076488366,-34.96807634407291,0 138.6277046317003,-34.96807694675974,0 138.6277017875366,-34.96807797157108,0 138.6276992027639,-34.96807938736863,0 138.6276969559191,-34.96808115113404,0 138.6276951152717,-34.96808320927629,0 138.6276937367486,-34.96808549925972,0 138.6276928622356,-34.96808795150442,0 138.6276925183044,-34.96809049150015,0 138.6276927154053,-34.96809304207045,0 138.6276934475494,-34.96809552571754,0 138.627694692491,-34.96809786697702,0 138.6276964124032,-34.96809999471092,0 138.6276985550274,-34.96810184426906,0 138.627701055261,-34.96810335945359,0 138.6277038371356,-34.96810449422635,0 138.6277068161255,-34.96810521410782,0 138.6277099017154,-34.96810549722476,0 138.6277130001512,-34.9681053349748,0 138.6277160172885,-34.96810473228781,0 138.627718861453,-34.96810370747618,0 138.6277214462262,-34.96810229167823,0 138.627723693071,-34.96810052791236,0 138.6277255337183,-34.96809846976966,0 138.6277269122407,-34.96809617978585,0 138.6277277867528,-34.96809372754089,0 138.6277281306829,-34.968091187545,0 138.627727933581,-34.9680886369747,0 138.6277272014359,-34.9680861533278,0 138.6277259564934,-34.96808381206861,0 138.6277242365808,-34.96808168433511,0 138.6277220939565,-34.9680798347774,0 138.6277195937231,-34.96807831959332,0 138.6277168118491,-34.96807718482096,0 138.6277138328601,-34.96807646493976,0 138.6277107472713,-34.96807618182296,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01806">
+			<name>Mexican Fan Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mexican Fan Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1809</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3120A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Washingtonia robusta</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Mexican Fan Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3120A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3120.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6328234488923,-34.96921069937041,0 138.6328217587085,-34.96921078794644,0 138.6328201128876,-34.96921111677466,0 138.6328185614371,-34.96921167586371,0 138.6328171514969,-34.969212448226,0 138.6328159259073,-34.96921341039368,0 138.6328149219073,-34.96921453313178,0 138.6328141700028,-34.9692157823265,0 138.6328136930402,-34.96921712002166,0 138.6328135055117,-34.96921850557207,0 138.6328136131154,-34.96921989687853,0 138.6328140125816,-34.96922125166687,0 138.6328146917729,-34.96922252877253,0 138.6328156300524,-34.96922368939127,0 138.6328167989109,-34.96922469825831,0 138.6328181628333,-34.96922552471971,0 138.6328196803775,-34.96922614366387,0 138.6328213054337,-34.96922653628446,0 138.6328229886252,-34.96922669065192,0 138.6328246788093,-34.96922660207586,0 138.6328263246304,-34.96922627324761,0 138.6328278760812,-34.96922571415845,0 138.6328292860216,-34.96922494179606,0 138.6328305116112,-34.96922397962823,0 138.6328315156112,-34.96922285688999,0 138.6328322675154,-34.96922160769519,0 138.6328327444777,-34.96922026999995,0 138.6328329320059,-34.96921888444948,0 138.632832824402,-34.96921749314304,0 138.6328324249354,-34.96921613835475,0 138.6328317457439,-34.96921486124918,0 138.6328308074642,-34.96921370063055,0 138.6328296386057,-34.96921269176364,0 138.6328282746834,-34.96921186530236,0 138.6328267571394,-34.96921124635831,0 138.6328251320835,-34.96921085373781,0 138.6328234488923,-34.96921069937041,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

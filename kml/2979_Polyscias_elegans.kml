@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01903">
+			<name>Celery Wood, Silver Basswood</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Celery Wood, Silver Basswood
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1908</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2979</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Polyscias elegans</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Celery Wood, Silver Basswood</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2979</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ARALIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2979</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.633071112771,-34.97012613090627,0 138.633068339113,-34.97012627626587,0 138.6330656382571,-34.97012681588413,0 138.6330630922674,-34.97012773336508,0 138.6330607785027,-34.97012900083148,0 138.6330587672652,-34.97013057977203,0 138.6330571196656,-34.97013242221147,0 138.6330558857654,-34.97013447216819,0 138.6330551030559,-34.97013666735532,0 138.6330547953194,-34.97013894107323,0 138.6330549719064,-34.97014122423615,0 138.6330556274514,-34.97014344747132,0 138.6330567420361,-34.97014554322684,0 138.6330582817944,-34.97014744782429,0 138.6330601999414,-34.97014910339337,0 138.6330624381955,-34.97015045963044,0 138.6330649285481,-34.97015147532694,0 138.6330675953314,-34.97015211962142,0 138.6330703575163,-34.9701523729373,0 138.6330731311752,-34.97015222757768,0 138.6330758320319,-34.97015168795927,0 138.6330783780222,-34.97015077047809,0 138.6330806917873,-34.97014950301136,0 138.6330827030249,-34.97014792407045,0 138.6330843506242,-34.97014608163065,0 138.633085584524,-34.97014403167364,0 138.6330863672328,-34.97014183648626,0 138.6330866749684,-34.97013956276825,0 138.6330864983806,-34.97013727960535,0 138.6330858428347,-34.97013505637029,0 138.6330847282494,-34.97013296061503,0 138.6330831884907,-34.9701310560179,0 138.6330812703435,-34.97012940044917,0 138.6330790320897,-34.97012804421245,0 138.6330765417376,-34.97012702851625,0 138.6330738749551,-34.97012638422201,0 138.633071112771,-34.97012613090627,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

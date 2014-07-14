@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01643">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1644</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>783</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Citharexylum fruticosum</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>783</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>VERBENACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>W. Ind.</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1929</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>783</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>C6</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.628169392904,-34.96677599570229,0 138.6281635342499,-34.96677630252233,0 138.6281578293238,-34.9667774421522,0 138.6281524514669,-34.96677937996488,0 138.6281475640825,-34.96678205708091,0 138.6281433156711,-34.96678539215761,0 138.6281398353188,-34.96678928386037,0 138.6281372287741,-34.9667936139419,0 138.6281355752358,-34.96679825083488,0 138.6281349249459,-34.96680305364973,0 138.6281352976633,-34.96680787645536,0 138.6281366820634,-34.96681257271327,0 138.628139036082,-34.96681699973002,0 138.6281422881937,-34.96682102299285,0 138.6281463395846,-34.96682452025696,0 138.6281510671554,-34.96682738525964,0 138.6281563272612,-34.96682953094918,0 138.6281619600762,-34.9668308921298,0 138.6281677944501,-34.96683142744269,0 138.6281736531081,-34.96683112062262,0 138.6281793580378,-34.96682998099213,0 138.6281847358975,-34.96682804317839,0 138.6281896232836,-34.96682536606092,0 138.6281938716953,-34.96682203098262,0 138.6281973520467,-34.96681813927829,0 138.6281999585892,-34.96681380919539,0 138.6282016121243,-34.96680917230142,0 138.6282022624103,-34.96680436948605,0 138.628201889689,-34.96679954668046,0 138.6282005052853,-34.96679485042314,0 138.6281981512638,-34.9667904234075,0 138.6281948991505,-34.96678640014606,0 138.6281908477591,-34.96678290288353,0 138.6281861201894,-34.96678003788245,0 138.6281808600858,-34.96677789219428,0 138.628175227274,-34.96677653101468,0 138.628169392904,-34.96677599570229,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

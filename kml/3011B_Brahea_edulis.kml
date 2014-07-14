@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01767">
+			<name>Guadalupe Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Guadalupe Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1770</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3011B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Brahea edulis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Guadalupe Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3011B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Mexico</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1994</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3011.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6334899916785,-34.96879527551498,0 138.6334889203451,-34.96879533166589,0 138.6334878771327,-34.96879554010277,0 138.6334868937388,-34.9687958944924,0 138.6334860000432,-34.96879638406679,0 138.6334852232006,-34.96879699395053,0 138.6334845868146,-34.96879770561259,0 138.6334841102219,-34.96879849742948,0 138.6334838079033,-34.96879934534223,0 138.6334836890446,-34.96880022358745,0 138.6334837572573,-34.96880110548011,0 138.6334840104688,-34.96880196422435,0 138.6334844409854,-34.96880277372766,0 138.6334850357261,-34.96880350939368,0 138.6334857766199,-34.96880414886957,0 138.6334866411553,-34.9688046727252,0 138.6334876030636,-34.96880506504345,0 138.633488633118,-34.96880531390394,0 138.6334897000205,-34.96880541174514,0 138.633490771354,-34.96880535559425,0 138.6334918145665,-34.96880514715735,0 138.6334927979605,-34.96880479276767,0 138.6334936916561,-34.96880430319322,0 138.6334944684988,-34.96880369330943,0 138.6334951048846,-34.96880298164732,0 138.6334955814774,-34.9688021898304,0 138.6334958837959,-34.96880134191761,0 138.6334960026545,-34.96880046367239,0 138.6334959344416,-34.96879958177971,0 138.63349568123,-34.96879872303549,0 138.6334952507133,-34.96879791353222,0 138.6334946559726,-34.96879717786624,0 138.6334939150787,-34.96879653839039,0 138.6334930505434,-34.96879601453483,0 138.6334920886351,-34.96879562221665,0 138.6334910585809,-34.96879537335619,0 138.6334899916785,-34.96879527551498,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

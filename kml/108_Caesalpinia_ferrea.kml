@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01654">
+			<name>Leopard Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Leopard Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1657</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>108</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Caesalpinia ferrea</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Leopard Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>108</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LEGUMINOSAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1997</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>108</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332104029569,-34.968660950931,0 138.6332071236356,-34.96866112280022,0 138.6332039303903,-34.96866176081336,0 138.633200920246,-34.96866284558476,0 138.6331981846644,-34.96866434415419,0 138.6331958067648,-34.96866621098837,0 138.6331938587983,-34.96866838936457,0 138.6331923999531,-34.96867081309389,0 138.6331914745553,-34.96867340853261,0 138.6331911107229,-34.96867609681964,0 138.6331913195107,-34.96867879627273,0 138.6331920945748,-34.96868142487037,0 138.6331934123655,-34.96868390274396,0 138.6331952328422,-34.96868615460451,0 138.6331975006908,-34.96868811203039,0 138.6332001470038,-34.96868971554618,0 138.6332030913744,-34.96869091642983,0 138.6332062443393,-34.96869167819309,0 138.6332095100973,-34.96869197769015,0 138.6332127894197,-34.96869180582094,0 138.6332159826662,-34.96869116780758,0 138.6332189928114,-34.96869008303585,0 138.6332217283935,-34.96868858446599,0 138.6332241062933,-34.96868671763129,0 138.6332260542594,-34.9686845392546,0 138.6332275131039,-34.96868211552485,0 138.6332284385006,-34.96867952008579,0 138.6332288023318,-34.96867683179864,0 138.6332285935429,-34.96867413234557,0 138.6332278184776,-34.96867150374809,0 138.6332265006861,-34.96866902587486,0 138.6332246802088,-34.96866677401474,0 138.6332224123601,-34.96866481658936,0 138.6332197660474,-34.96866321307406,0 138.6332168216775,-34.96866201219084,0 138.6332136687136,-34.96866125042791,0 138.6332104029569,-34.968660950931,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

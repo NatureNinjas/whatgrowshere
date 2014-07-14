@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01659">
+			<name>Coast Cottonwood, Beach Hibiscus, Norfolk Hibiscus</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Coast Cottonwood, Beach Hibiscus, Norfolk Hibiscus</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1662</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>167</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Hibiscus tiliaceus</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Coast Cottonwood, Beach Hibiscus, Norfolk Hibiscus</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>167</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MALVACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, NT, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>167</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>I12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6323644869966,-34.96888672943611,0 138.6323593877508,-34.96888699665051,0 138.6323544223428,-34.96888798870315,0 138.6323497416439,-34.96888967545106,0 138.6323454878746,-34.96889200564329,0 138.6323417902835,-34.96889490847816,0 138.6323387612202,-34.96889829575459,0 138.632336492721,-34.96890206455189,0 138.6323350537134,-34.96890610035719,0 138.6323344879209,-34.96891028054457,0 138.632334812535,-34.96891447810117,0 138.6323360176926,-34.96891856548638,0 138.6323380667757,-34.96892241850705,0 138.6323408975241,-34.96892592009098,0 138.632344423927,-34.96892896384439,0 138.6323485388363,-34.96893145728425,0 138.6323531172226,-34.9689333246486,0 138.632358019974,-34.96893450919847,0 138.6323630981227,-34.96893497494189,0 138.6323681973715,-34.96893470772746,0 138.6323731627822,-34.96893371567435,0 138.6323778434833,-34.96893202892563,0 138.6323820972538,-34.96892969873234,0 138.6323857948452,-34.96892679589626,0 138.6323888239078,-34.96892340861865,0 138.6323910924052,-34.96891963982029,0 138.6323925314105,-34.96891560401424,0 138.6323930972,-34.96891142382649,0 138.6323927725829,-34.96890722626991,0 138.6323915674226,-34.96890313888515,0 138.6323895183373,-34.96889928586533,0 138.6323866875877,-34.96889578428242,0 138.6323831611846,-34.96889274053022,0 138.632379046276,-34.96889024709157,0 138.6323744678913,-34.96888837972827,0 138.6323695651424,-34.96888719517916,0 138.6323644869966,-34.96888672943611,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

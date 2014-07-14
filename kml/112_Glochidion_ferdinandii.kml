@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01782">
+			<name>Pencil Cedar, Cheese Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pencil Cedar, Cheese Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1785</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>112</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Glochidion ferdinandii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Pencil Cedar, Cheese Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>112</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>EUPHORBIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1931</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>112</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6330499023152,-34.96899649238971,0 138.6330622430491,-34.96900006922782,0 138.6330748757326,-34.96900206447482,0 138.6330873148978,-34.96900240145443,0 138.6330990825139,-34.96900106721683,0 138.6331097263575,-34.96899811303623,0 138.633118837391,-34.96899365244049,0 138.6331260654823,-34.96898785684813,0 138.63313113286,-34.96898094898094,0 138.6331338447879,-34.9689731943046,0 138.6331340970488,-34.96896489082718,0 138.6331318799491,-34.96895635764671,0 138.6331272786916,-34.96894792268843,0 138.6331204701005,-34.96893991010283,0 138.6331117158269,-34.96893262780876,0 138.6331013522925,-34.9689263556603,0 138.6330897777624,-34.96892133469227,0 138.6330774370388,-34.96891775785733,0 138.6330648043681,-34.9689157626111,0 138.6330523652161,-34.9689154256297,0 138.6330405976118,-34.96891675986325,0 138.6330299537769,-34.96891971403814,0 138.6330208427474,-34.9689241746274,0 138.6330136146549,-34.96892997021346,0 138.6330085472711,-34.96893687807554,0 138.6330058353328,-34.96894463274869,0 138.6330055830591,-34.96895293622536,0 138.6330078001455,-34.9689614694076,0 138.6330124013912,-34.96896990436991,0 138.6330192099737,-34.96897791696123,0 138.6330279642434,-34.96898519926181,0 138.6330383277789,-34.96899147141655,0 138.6330499023152,-34.96899649238971,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

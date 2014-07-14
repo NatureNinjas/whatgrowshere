@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01733">
+			<name>Illawarra Flame Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Illawarra Flame Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1736</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2930C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Brachychiton acerifolius</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Illawarra Flame Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2930C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>STERCULIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2930.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332718234853,-34.97027450851066,0 138.6332699700301,-34.9702746056478,0 138.6332681652247,-34.97027496624183,0 138.6332664639068,-34.97027557933629,0 138.6332649177702,-34.9702764263026,0 138.6332635737936,-34.97027748140618,0 138.6332624728129,-34.97027871258819,0 138.6332616482808,-34.9702800824398,0 138.6332611252505,-34.97028154933882,0 138.6332609196139,-34.97028306871421,0 138.6332610376192,-34.97028459440056,0 138.6332614756808,-34.97028608004064,0 138.6332622204886,-34.97028748049404,0 138.6332632494119,-34.97028875320866,0 138.6332645311874,-34.97028985951375,0 138.6332660268691,-34.97029076579474,0 138.6332676910112,-34.97029144451476,0 138.6332694730499,-34.9702918750512,0 138.6332713188387,-34.97029204432248,0 138.6332731722942,-34.97029194718535,0 138.6332749771001,-34.97029158659126,0 138.6332766784183,-34.9702909734967,0 138.633278224555,-34.97029012653023,0 138.6332795685316,-34.97028907142651,0 138.6332806695123,-34.97028784024435,0 138.6332814940441,-34.97028647039258,0 138.6332820170741,-34.97028500349348,0 138.6332822227103,-34.97028348411802,0 138.6332821047046,-34.9702819584317,0 138.6332816666427,-34.97028047279166,0 138.6332809218346,-34.9702790723384,0 138.6332798929111,-34.97027779962389,0 138.6332786111355,-34.97027669331898,0 138.633277115454,-34.97027578703813,0 138.633275451312,-34.97027510831827,0 138.6332736692736,-34.97027467778192,0 138.6332718234853,-34.97027450851066,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

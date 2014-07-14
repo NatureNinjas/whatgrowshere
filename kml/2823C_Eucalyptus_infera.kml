@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01617">
+			<name>Durikai Mallee</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Durikai Mallee</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1618</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2823C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eucalyptus infera</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Durikai Mallee</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2823C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2823.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6307773597701,-34.96478988670904,0 138.6307734718669,-34.96479009041278,0 138.6307696859987,-34.96479084679564,0 138.6307661171973,-34.96479213287535,0 138.6307628738987,-34.96479390957502,0 138.6307600546489,-34.96479612291055,0 138.6307577451095,-34.96479870563094,0 138.6307560154545,-34.9648015792615,0 138.6307549182388,-34.96480465648853,0 138.6307544868007,-34.964807843812,0 138.6307547342493,-34.96481104438672,0 138.6307556530662,-34.96481416096487,0 138.6307572153336,-34.96481709885077,0 138.6307593735828,-34.96481976877821,0 138.6307620622366,-34.96482208962277,0 138.6307651996016,-34.96482399086678,0 138.6307686903506,-34.9648254147418,0 138.6307724284188,-34.96482631798415,0 138.6307763002269,-34.96482667314918,0 138.6307801881318,-34.96482646944541,0 138.6307839740016,-34.96482571306231,0 138.6307875428043,-34.96482442698213,0 138.6307907861036,-34.96482265028185,0 138.6307936053535,-34.96482043694559,0 138.6307959148925,-34.96481785422451,0 138.6307976445465,-34.96481498059332,0 138.6307987417609,-34.96481190336586,0 138.6307991731972,-34.96480871604217,0 138.6307989257469,-34.96480551546748,0 138.6307980069284,-34.9648023988896,0 138.6307964446598,-34.96479946100419,0 138.6307942864098,-34.96479679107735,0 138.6307915977558,-34.96479447023346,0 138.6307884603912,-34.96479256899019,0 138.6307849696432,-34.96479114511574,0 138.6307812315765,-34.96479024187385,0 138.6307773597701,-34.96478988670904,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

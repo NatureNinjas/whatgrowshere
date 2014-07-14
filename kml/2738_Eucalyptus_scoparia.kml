@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01601">
+			<name>Wallangarra White Gum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Wallangarra White Gum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1602</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2738</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eucalyptus scoparia</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Wallangarra White Gum</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2738</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2738</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6306330532868,-34.96638977916904,0 138.6306276261366,-34.96639006350411,0 138.6306223414155,-34.96639111931258,0 138.6306173596969,-34.96639291451428,0 138.6306128323479,-34.96639539456293,0 138.6306088969295,-34.96639848410359,0 138.6306056730175,-34.9664020892622,0 138.6306032585687,-34.96640610049786,0 138.630601726945,-34.9664103959313,0 138.6306011246843,-34.96641484504796,0 138.630601470086,-34.96641931266373,0 138.6306027526555,-34.96642366303231,0 138.6306049334226,-34.96642776397001,0 138.630607946126,-34.96643149087178,0 138.6306116992262,-34.9664347304976,0 138.6306160786872,-34.96643738441301,0 138.6306209514413,-34.96643937198004,0 138.6306261694323,-34.96644063280748,0 138.6306315741139,-34.96644112858565,0 138.6306370012675,-34.96644084425055,0 138.6306422859917,-34.96643978844158,0 138.6306472677126,-34.96643799323895,0 138.6306517950631,-34.96643551318908,0 138.6306557304818,-34.96643242364704,0 138.630658954393,-34.96642881848709,0 138.6306613688399,-34.96642480725024,0 138.6306629004608,-34.96642051181594,0 138.6306635027182,-34.96641606269886,0 138.6306631573132,-34.96641159508313,0 138.6306618747406,-34.96640724471504,0 138.630659693971,-34.96640314377829,0 138.6306566812662,-34.96639941687771,0 138.6306529281657,-34.96639617725325,0 138.6306485487055,-34.96639352333921,0 138.6306436759533,-34.96639153577334,0 138.6306384579651,-34.96639027494676,0 138.6306330532868,-34.96638977916904,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

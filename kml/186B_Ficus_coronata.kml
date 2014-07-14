@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01697">
+			<name>Creek Sandpaper Fig</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Creek Sandpaper Fig</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1700</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>186B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Ficus coronata</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Creek Sandpaper Fig</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>186B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MORACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Vic., NSW, Qld, NT</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>186.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6316578388101,-34.9695078991964,0 138.6316545683904,-34.96950807055391,0 138.6316513838038,-34.96950870678584,0 138.6316483818124,-34.96950978856064,0 138.63164565363,-34.9695112830091,0 138.6316432821512,-34.96951314472321,0 138.6316413394321,-34.96951531713577,0 138.6316398845012,-34.96951773423909,0 138.6316389615659,-34.96952032259078,0 138.6316385986692,-34.96952300354509,0 138.6316388068375,-34.96952569564255,0 138.6316395797458,-34.96952831708518,0 138.6316408939099,-34.96953078822176,0 138.6316427093993,-34.96953303396801,0 138.6316449710516,-34.96953498608807,0 138.6316476101475,-34.96953658526774,0 138.6316505464994,-34.96953778291673,0 138.6316536908877,-34.96953854264505,0 138.6316569477718,-34.96953884136874,0 138.6316602181927,-34.96953867001122,0 138.6316634027803,-34.9695380337791,0 138.6316664047727,-34.96953695200398,0 138.6316691329555,-34.96953545755507,0 138.6316715044345,-34.96953359584045,0 138.6316734471533,-34.96953142342742,0 138.6316749020835,-34.96952900632366,0 138.6316758250178,-34.96952641797166,0 138.6316761879133,-34.9695237370172,0 138.6316759797437,-34.96952104491975,0 138.6316752068343,-34.9695184234773,0 138.6316738926694,-34.96951595234107,0 138.6316720771794,-34.96951370659524,0 138.631669815527,-34.96951175447568,0 138.6316671764314,-34.9695101552965,0 138.6316642400802,-34.96950895764795,0 138.6316610956929,-34.96950819791994,0 138.6316578388101,-34.9695078991964,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

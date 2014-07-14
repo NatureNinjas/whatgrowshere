@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01766">
+			<name>Bismarck Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bismarck Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1769</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3015</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Bismarckia nobilis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Bismarck Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3015</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Madagascar</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1999</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3015</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6334636070419,-34.96876062163543,0 138.6334601606872,-34.96876080226569,0 138.6334568047943,-34.96876147278238,0 138.6334536413302,-34.96876261281222,0 138.633450766415,-34.96876418771598,0 138.6334482674018,-34.96876614964101,0 138.6334462202215,-34.96876843897528,0 138.6334446870768,-34.96877098615853,0 138.6334437145517,-34.96877371379589,0 138.6334433321957,-34.96877653900953,0 138.6334435516266,-34.96877937595676,0 138.6334443661773,-34.96878213843835,0 138.6334457510982,-34.96878474251771,0 138.6334476643089,-34.96878710907117,0 138.6334500476778,-34.96878916619217,0 138.6334528287873,-34.96879085137617,0 138.6334559231348,-34.9687921134196,0 138.6334592367001,-34.96879291397594,0 138.6334626688021,-34.96879322872067,0 138.6334661151581,-34.96879304809039,0 138.6334694710523,-34.96879237757349,0 138.6334726345174,-34.96879123754327,0 138.6334755094332,-34.96878966263902,0 138.6334780084466,-34.96878770071344,0 138.6334800556265,-34.96878541137862,0 138.6334815887704,-34.9687828641949,0 138.6334825612945,-34.96878013655719,0 138.6334829436491,-34.96877731134337,0 138.6334827242168,-34.96877447439617,0 138.6334819096648,-34.96877171191478,0 138.6334805247431,-34.96876910783581,0 138.6334786115316,-34.96876674128284,0 138.6334762281627,-34.96876468416237,0 138.6334734470535,-34.96876299897893,0 138.6334703527068,-34.96876173693595,0 138.6334670391426,-34.96876093637999,0 138.6334636070419,-34.96876062163543,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

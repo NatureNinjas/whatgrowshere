@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01913">
+			<name>Snowwood, Tulip Siris</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Snowwood, Tulip Siris</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1918</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2950</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Pararchidendron pruinosum</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Snowwood, Tulip Siris</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2950</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LEGUMINOSAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2950</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6331278897262,-34.97018884564478,0 138.6331264205554,-34.97018892264048,0 138.6331249899471,-34.97018920846973,0 138.6331236413697,-34.97018969444778,0 138.6331224157988,-34.97019036580843,0 138.633121350473,-34.97019120215272,0 138.6331204777615,-34.97019217806877,0 138.6331198241813,-34.97019326390385,0 138.6331194095911,-34.97019442666542,0 138.6331192465879,-34.97019563102359,0 138.6331193401247,-34.97019684038452,0 138.6331196873593,-34.97019801800237,0 138.6331202777411,-34.97019912809587,0 138.6331210933318,-34.97020013693534,0 138.63312210935,-34.97020101386773,0 138.6331232949246,-34.97020173224788,0 138.6331246140325,-34.97020227024815,0 138.6331260265932,-34.9702026115217,0 138.6331274896866,-34.97020274569907,0 138.6331289588577,-34.97020266870337,0 138.6331303894662,-34.97020238287409,0 138.6331317380438,-34.97020189689597,0 138.6331329636148,-34.97020122553522,0 138.6331340289407,-34.97020038919083,0 138.6331349016521,-34.97019941327469,0 138.6331355552322,-34.97019832743953,0 138.6331359698222,-34.97019716467786,0 138.6331361328251,-34.97019596031968,0 138.6331360392881,-34.97019475095877,0 138.6331356920533,-34.97019357334094,0 138.6331351016713,-34.97019246324751,0 138.6331342860805,-34.97019145440812,0 138.6331332700622,-34.97019057747584,0 138.6331320844877,-34.9701898590958,0 138.63313076538,-34.97018932109561,0 138.6331293528195,-34.97018897982212,0 138.6331278897262,-34.97018884564478,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

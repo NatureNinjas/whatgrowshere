@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01984">
+			<name>Lemon-scented gum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lemon-scented gum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1989</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>WYA33</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td>Walter Young Avenue Corymbia citriodora</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Corymbia citriodora</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Lemon-scented gum</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>WYA33</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>0</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6318881924617,-34.96700069518384,0 138.6318683522877,-34.96700173482606,0 138.6318490328366,-34.9670055947371,0 138.6318308211185,-34.96701215763581,0 138.6318142704855,-34.96702122411235,0 138.6317998838196,-34.96703251868719,0 138.631788098252,-34.9670456981812,0 138.6317792718818,-34.96706036214295,0 138.6317736728949,-34.96707606501609,0 138.6317714714154,-34.96709232967726,0 138.631772734336,-34.96710866193327,0 138.6317774232857,-34.96712456553673,0 138.631785395795,-34.96713955726435,0 138.6317964096244,-34.96715318159959,0 138.6318101301254,-34.96716502457316,0 138.6318261404078,-34.96717472634146,0 138.6318439540066,-34.96718199212036,0 138.6318630296634,-34.96718660114214,0 138.6318827877724,-34.9671884133635,0 138.6319026279917,-34.96718737372071,0 138.631921947484,-34.96718351380286,0 138.6319401592344,-34.96717695089189,0 138.6319567098869,-34.96716788439905,0 138.6319710965572,-34.96715658980594,0 138.6319828821134,-34.96714341029382,0 138.631991708458,-34.96712874631636,0 138.6319973074079,-34.96711304343175,0 138.6319995088438,-34.96709677876476,0 138.631998245878,-34.96708044650929,0 138.6319935568871,-34.96706454291268,0 138.6319855843456,-34.96704955119732,0 138.6319745704966,-34.96703592687835,0 138.6319608499912,-34.96702408392305,0 138.6319448397202,-34.96701438217287,0 138.6319270261471,-34.96700711640968,0 138.6319079505272,-34.96700250739937,0 138.6318881924617,-34.96700069518384,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

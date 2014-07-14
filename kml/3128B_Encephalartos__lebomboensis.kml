@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01813">
+			<name>Lebombo Cycad</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lebombo Cycad</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1816</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3128B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Encephalartos  lebomboensis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Lebombo Cycad</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3128B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ZAMIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>S. Africa</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3128.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6327712344744,-34.96932094768041,0 138.6327700730051,-34.96932100854792,0 138.6327689420213,-34.96932123451293,0 138.6327678758872,-34.96932161870961,0 138.6327669069968,-34.96932214946435,0 138.6327660647893,-34.96932281065043,0 138.6327653748549,-34.96932358217804,0 138.6327648581568,-34.96932444060472,0 138.6327645303945,-34.96932535984761,0 138.6327644015271,-34.96932631197598,0 138.6327644754701,-34.96932726805988,0 138.6327647499767,-34.9693281990492,0 138.6327652167063,-34.96932907665629,0 138.6327658614775,-34.96932987421551,0 138.6327666646992,-34.96933056749342,0 138.632767601966,-34.96933113542512,0 138.6327686447995,-34.96933156075428,0 138.6327697615138,-34.9693318305575,0 138.6327709181779,-34.96933193663693,0 138.6327720796473,-34.96933187576941,0 138.6327732106313,-34.96933164980437,0 138.6327742767655,-34.96933126560764,0 138.632775245656,-34.96933073485285,0 138.6327760878634,-34.96933007366673,0 138.6327767777979,-34.96932930213904,0 138.6327772944959,-34.96932844371231,0 138.632777622258,-34.96932752446937,0 138.6327777511253,-34.96932657234099,0 138.6327776771822,-34.96932561625708,0 138.6327774026754,-34.9693246852678,0 138.6327769359457,-34.96932380766074,0 138.6327762911745,-34.96932301010158,0 138.6327754879527,-34.96932231682373,0 138.6327745506859,-34.96932174889208,0 138.6327735078525,-34.96932132356299,0 138.6327723911384,-34.96932105375981,0 138.6327712344744,-34.96932094768041,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

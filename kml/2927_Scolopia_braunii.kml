@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01910">
+			<name>Flintwood, Mountain Cherry, Brown Birch</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Flintwood, Mountain Cherry, Brown Birch</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1915</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2927</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Scolopia braunii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Flintwood, Mountain Cherry, Brown Birch</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2927</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>FLACOURTIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2927</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6329891033894,-34.97000230784591,0 138.6329871946199,-34.97000240787813,0 138.6329853359508,-34.97000277923082,0 138.6329835838571,-34.97000341062061,0 138.632981991575,-34.97000428286307,0 138.6329806074855,-34.97000536945554,0 138.6329794736432,-34.97000663738248,0 138.6329786244994,-34.97000804811857,0 138.6329780858549,-34.97000955879931,0 138.6329778740762,-34.97001112352348,0 138.6329779955982,-34.97001269474767,0 138.6329784467283,-34.97001422473103,0 138.6329792137593,-34.97001566698583,0 138.6329802733853,-34.97001697768986,0 138.6329815934103,-34.97001811701803,0 138.6329831337257,-34.97001905035243,0 138.63298484753,-34.97001974933415,0 138.6329866827501,-34.97002019272498,0 138.6329885836237,-34.97002036705273,0 138.6329904923937,-34.97002026702052,0 138.6329923510631,-34.97001989566777,0 138.6329941031572,-34.97001926427786,0 138.6329956954394,-34.97001839203525,0 138.632997079529,-34.9700173054426,0 138.6329982133712,-34.97001603751549,0 138.6329990625148,-34.97001462677923,0 138.6329996011588,-34.9700131160984,0 138.6329998129371,-34.9700115513742,0 138.6329996914148,-34.97000998014999,0 138.6329992402843,-34.97000845016671,0 138.632998473253,-34.97000700791202,0 138.6329974136268,-34.97000569720814,0 138.6329960936018,-34.97000455788012,0 138.6329945532865,-34.97000362454591,0 138.6329928394824,-34.97000292556435,0 138.6329910042627,-34.97000248217358,0 138.6329891033894,-34.97000230784591,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

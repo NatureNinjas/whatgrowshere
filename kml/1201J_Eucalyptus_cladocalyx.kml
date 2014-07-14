@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01748">
+			<name>Sugar Gum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sugar Gum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1751</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>1201J</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td>Eucalyptus cladocalyx</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eucalyptus cladocalyx</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Sugar Gum</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>1201J</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1877</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>1201.91</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>B4</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.627373016274,-34.96609512518033,0 138.6273493899951,-34.96609636235867,0 138.6273263836243,-34.96610095804834,0 138.6273046961962,-34.96610877261202,0 138.6272849866701,-34.96611956860902,0 138.6272678539087,-34.96613301800939,0 138.6272538184819,-34.96614871216114,0 138.6272433068501,-34.96616617420651,0 138.6272366384053,-34.96618487357117,0 138.6272340157673,-34.96620424208505,0 138.6272355186263,-34.96622369124604,0 138.6272411013217,-34.96624263010121,0 138.6272505942287,-34.96626048320263,0 138.6272637089122,-34.96627670809196,0 138.6272800468904,-34.96629081178319,0 138.6272991117424,-34.96630236574163,0 138.6273203241917,-34.9663110189049,0 138.6273430397069,-34.96631650835001,0 138.6273665680863,-34.96631866728225,0 138.6273901944294,-34.96631743010318,0 138.6274132008585,-34.96631283440384,0 138.6274348883324,-34.96630501982271,0 138.6274545978863,-34.96629422380268,0 138.6274717306538,-34.96628077437637,0 138.6274857660644,-34.96626508019896,0 138.6274962776599,-34.96624761813127,0 138.6275029460524,-34.96622891875038,0 138.6275055686285,-34.96620955022825,0 138.6275040657055,-34.96619010106799,0 138.6274984829517,-34.96617116222248,0 138.6274889899988,-34.96615330913853,0 138.6274758752877,-34.96613708427222,0 138.6274595373033,-34.9661229806069,0 138.6274404724674,-34.96611142667414,0 138.6274192600545,-34.9661027735332,0 138.6273965445916,-34.96609728410431,0 138.627373016274,-34.96609512518033,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

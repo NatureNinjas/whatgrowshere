@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01725">
+			<name>California Buckeye</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>California Buckeye</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1728</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2193B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Aesculus californica</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>California Buckeye</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2193B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>HIPPOCASTANACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>California</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2193.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6334463476432,-34.96995119934535,0 138.6334443757445,-34.96995130269352,0 138.633442455605,-34.96995168633567,0 138.6334406455671,-34.96995233861499,0 138.6334390006278,-34.96995323971234,0 138.6334375707679,-34.96995436224832,0 138.6334363994328,-34.96995567211527,0 138.633435522213,-34.96995712951355,0 138.6334349657625,-34.96995869016084,0 138.6334347469885,-34.9699603066377,0 138.6334348725387,-34.96996192982827,0 138.6334353385981,-34.96996351041273,0 138.6334361310059,-34.96996500036582,0 138.633437225685,-34.96996635441608,0 138.6334385893742,-34.96996753142137,0 138.6334401806387,-34.96996849561893,0 138.6334419511285,-34.96996921771215,0 138.6334438470483,-34.96996967576056,0 138.6334458107915,-34.96996985584658,0 138.6334477826905,-34.96996975249841,0 138.6334497028305,-34.96996936885621,0 138.6334515128687,-34.96996871657676,0 138.6334531578081,-34.96996781547924,0 138.6334545876681,-34.96996669294308,0 138.6334557590031,-34.96996538307594,0 138.6334566362226,-34.96996392567753,0 138.6334571926728,-34.96996236503011,0 138.6334574114463,-34.96996074855321,0 138.6334572858957,-34.96995912536266,0 138.6334568198359,-34.96995754477825,0 138.6334560274279,-34.96995605482527,0 138.6334549327485,-34.96995470077517,0 138.6334535690592,-34.96995352377007,0 138.6334519777948,-34.96995255957268,0 138.6334502073053,-34.96995183747962,0 138.6334483113859,-34.96995137943132,0 138.6334463476432,-34.96995119934535,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

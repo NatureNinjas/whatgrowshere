@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01653">
+			<name>Evergreen Pear</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Evergreen Pear</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1656</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>780I</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Pyrus kawakamii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Evergreen Pear</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>780I</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ROSACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Taiwan</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1992</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>780.9</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>C7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6279723066911,-34.96715158033324,0 138.6279702910786,-34.96715168588754,0 138.6279683283539,-34.96715207796072,0 138.6279664781535,-34.9671527446398,0 138.6279647966947,-34.96715366566813,0 138.6279633350679,-34.96715481306067,0 138.6279621376837,-34.96715615195454,0 138.6279612409242,-34.96715764166812,0 138.6279606720369,-34.96715923693723,0 138.6279604483071,-34.96716088929041,0 138.6279605765329,-34.96716254852176,0 138.6279610528182,-34.9671641642164,0 138.6279618626913,-34.96716568728218,0 138.6279629815445,-34.96716707144162,0 138.6279643753823,-34.96716827463768,0 138.6279660018533,-34.96716926031183,0 138.6279678115384,-34.96716999851486,0 138.6279697494508,-34.96717046681685,0 138.6279717567084,-34.96717065098868,0 138.6279737723214,-34.96717054543437,0 138.6279757350466,-34.96717015336113,0 138.6279775852473,-34.96716948668191,0 138.6279792667062,-34.96716856565344,0 138.6279807283331,-34.96716741826068,0 138.6279819257171,-34.96716607936664,0 138.6279828224764,-34.9671645896529,0 138.6279833913633,-34.96716299438368,0 138.6279836150926,-34.96716134203043,0 138.6279834868664,-34.96715968279907,0 138.6279830105807,-34.96715806710453,0 138.6279822007073,-34.96715654403883,0 138.6279810818539,-34.96715515987959,0 138.6279796880161,-34.96715395668372,0 138.6279780615451,-34.96715297100974,0 138.6279762518603,-34.96715223280688,0 138.6279743139482,-34.96715176450501,0 138.6279723066911,-34.96715158033324,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

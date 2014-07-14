@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01709">
+			<name>Blackwood</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Blackwood</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1712</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>48C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Acacia melanoxylon</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Blackwood</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>48C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LEGUMINOSAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, WA, Qld, NSW, Vic., Tas.</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>48.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6315678502208,-34.97018118418624,0 138.6315658219759,-34.97018129045548,0 138.6315638469625,-34.97018168502763,0 138.6315619851902,-34.97018235591384,0 138.6315602932282,-34.97018328272954,0 138.6315588224857,-34.97018443731396,0 138.6315576176506,-34.97018578458561,0 138.6315567153312,-34.97018728360832,0 138.631556142944,-34.9701888888351,0 138.6315559178808,-34.9701905514919,0 138.6315560469799,-34.97019222105978,0 138.6315565263187,-34.97019384680973,0 138.6315573413329,-34.97019537934418,0 138.6315584672587,-34.97019677209784,0 138.6315598698853,-34.97019798275255,0 138.6315615065947,-34.97019897452323,0 138.6315633276562,-34.97019971727538,0 138.631565277738,-34.97020018844086,0 138.6315672975876,-34.97020037370353,0 138.631569325833,-34.97020026743431,0 138.6315713008468,-34.97019987286205,0 138.6315731626194,-34.97019920197574,0 138.6315748545817,-34.97019827515985,0 138.6315763253242,-34.97019712057526,0 138.6315775301591,-34.97019577330342,0 138.6315784324783,-34.97019427428053,0 138.6315790048651,-34.97019266905365,0 138.6315792299279,-34.97019100639677,0 138.6315791008284,-34.9701893368289,0 138.6315786214891,-34.97018771107902,0 138.6315778064745,-34.97018617854469,0 138.6315766805486,-34.97018478579123,0 138.6315752779219,-34.97018357513669,0 138.6315736412126,-34.9701825833662,0 138.6315718201513,-34.9701818406142,0 138.6315698700699,-34.97018136944885,0 138.6315678502208,-34.97018118418624,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

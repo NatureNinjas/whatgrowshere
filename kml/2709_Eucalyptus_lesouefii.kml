@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01604">
+			<name>Goldfields Blackbutt</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Goldfields Blackbutt</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1605</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2709</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eucalyptus lesouefii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Goldfields Blackbutt</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2709</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>WA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2709</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6304582413223,-34.96542753432204,0 138.6304555371523,-34.96542767599589,0 138.6304529039494,-34.96542820207418,0 138.6304504217223,-34.96542909657226,0 138.6304481658921,-34.9654303323113,0 138.630446205001,-34.96543187174401,0 138.6304445986298,-34.96543366809549,0 138.6304433955872,-34.96543566678455,0 138.6304426324271,-34.96543780708202,0 138.6304423323377,-34.96544002395611,0 138.6304425044373,-34.96544225004816,0 138.6304431434965,-34.96544441771954,0 138.630444230098,-34.96544646110662,0 138.630445731226,-34.96544831812211,0 138.6304476012695,-34.96544993234153,0 138.6304497834081,-34.96545125471761,0 138.6304522113387,-34.96545224507062,0 138.6304548112897,-34.96545287330917,0 138.630457504263,-34.96545312034453,0 138.630460208434,-34.96545297867066,0 138.6304628416376,-34.96545245259226,0 138.6304653238654,-34.96545155809394,0 138.6304675796959,-34.96545032235459,0 138.6304695405871,-34.96544878292156,0 138.630471146958,-34.96544698656972,0 138.6304723500002,-34.96544498788039,0 138.6304731131596,-34.96544284758269,0 138.6304734132481,-34.9654406307085,0 138.6304732411477,-34.96543840461645,0 138.6304726020877,-34.96543623694521,0 138.6304715154856,-34.96543419355835,0 138.6304700143573,-34.96543233654317,0 138.6304681443137,-34.96543072232408,0 138.6304659621753,-34.96542939994833,0 138.6304635342453,-34.9654284095956,0 138.6304609342949,-34.96542778135729,0 138.6304582413223,-34.96542753432204,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

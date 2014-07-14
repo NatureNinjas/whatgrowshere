@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01672">
+			<name>Dwarf Apple</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dwarf Apple</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1675</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>159C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Angophora hispida</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Dwarf Apple</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>159C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>159.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>I11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6325174137347,-34.96872303434842,0 138.632513824094,-34.96872322246062,0 138.6325103286702,-34.96872392082748,0 138.6325070336698,-34.96872510822949,0 138.6325040392099,-34.96872674858809,0 138.6325014362754,-34.9687287920618,0 138.6324993039552,-34.96873117656075,0 138.6324977070388,-34.96873382963317,0 138.6324966940477,-34.9687366706668,0 138.6324962957613,-34.96873961333829,0 138.6324965242813,-34.96874256823612,0 138.6324973726644,-34.96874544557716,0 138.6324988151327,-34.9687481579349,0 138.6325008078578,-34.9687506228956,0 138.6325032902918,-34.96875276556276,0 138.6325061870072,-34.96875452083244,0 138.6325094099886,-34.96875583537165,0 138.6325128613075,-34.96875666923877,0 138.6325164360971,-34.9687569970971,0 138.6325200257392,-34.96875680898491,0 138.6325235211644,-34.96875611061781,0 138.6325268161658,-34.96875492321538,0 138.6325298106264,-34.96875328285629,0 138.6325324135611,-34.96875123938196,0 138.6325345458809,-34.96874885488243,0 138.6325361427964,-34.96874620180949,0 138.6325371557862,-34.96874336077548,0 138.6325375540713,-34.96874041810376,0 138.6325373255498,-34.96873746320597,0 138.6325364771654,-34.96873458586518,0 138.632535034696,-34.96873187350784,0 138.6325330419702,-34.96872940854765,0 138.6325305595361,-34.96872726588111,0 138.6325276628211,-34.96872551061202,0 138.6325244398406,-34.96872419607332,0 138.6325209885229,-34.96872336220659,0 138.6325174137347,-34.96872303434842,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

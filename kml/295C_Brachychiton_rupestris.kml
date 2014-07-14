@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02011">
+			<name>Bottle Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bottle Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2016</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>295C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Brachychiton rupestris</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Bottle Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>295C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>STERCULIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>295.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>I9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6324937561688,-34.96787118994526,0 138.6324926603321,-34.96787124737252,0 138.6324915932578,-34.96787146057076,0 138.6324905873684,-34.96787182306201,0 138.6324896732272,-34.96787232383218,0 138.63248887861,-34.96787294766563,0 138.6324882276609,-34.96787367560746,0 138.6324877401586,-34.96787448553955,0 138.6324874309157,-34.96787535285256,0 138.6324873093282,-34.96787625119359,0 138.6324873790907,-34.967877153267,0 138.6324876380834,-34.96787803166374,0 138.6324880784369,-34.96787885969421,0 138.6324886867714,-34.96787961219908,0 138.6324894446029,-34.96788026631389,0 138.632490328905,-34.96788080216366,0 138.6324913128088,-34.96788120346691,0 138.6324923664188,-34.96788145803021,0 138.6324934577216,-34.96788155811877,0 138.6324945535584,-34.96788150069148,0 138.6324956206328,-34.96788128749324,0 138.6324966265224,-34.96788092500195,0 138.6324975406636,-34.96788042423174,0 138.6324983352808,-34.96787980039824,0 138.6324989862299,-34.96787907245636,0 138.6324994737321,-34.96787826252419,0 138.632499782975,-34.96787739521116,0 138.6324999045622,-34.96787649687011,0 138.6324998347996,-34.96787559479672,0 138.6324995758068,-34.96787471639996,0 138.6324991354532,-34.96787388836957,0 138.6324985271186,-34.96787313586474,0 138.6324977692871,-34.96787248174999,0 138.6324968849849,-34.96787194590027,0 138.6324959010813,-34.96787154459707,0 138.6324948474714,-34.96787129003383,0 138.6324937561688,-34.96787118994526,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

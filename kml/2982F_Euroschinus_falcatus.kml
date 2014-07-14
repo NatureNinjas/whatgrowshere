@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01907">
+			<name>Ribbonwood,  Blush Cudgerie</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Ribbonwood,  Blush Cudgerie</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1912</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2982F</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Euroschinus falcatus</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Ribbonwood,  Blush Cudgerie</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2982F</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ANACARDIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Qld, NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2982.6</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6330727564803,-34.96994996000377,0 138.6330690431199,-34.96995015461127,0 138.6330654272268,-34.9699508770516,0 138.633062018668,-34.96995210537369,0 138.6330589210106,-34.96995380225567,0 138.6330562283756,-34.96995591613866,0 138.6330540225772,-34.96995838279342,0 138.6330523706375,-34.96996112727189,0 138.6330513227499,-34.96996406618459,0 138.633050910754,-34.96996711023406,0 138.633051147168,-34.96997016692845,0 138.6330520248089,-34.96997314339169,0 138.63305351701,-34.96997594918538,0 138.6330555784315,-34.96997849905689,0 138.6330581464383,-34.96998071552963,0 138.6330611430027,-34.96998253125724,0 138.6330644770757,-34.96998389106965,0 138.6330680473531,-34.96998475364962,0 138.6330717453537,-34.96998509278813,0 138.6330754587156,-34.9699848981806,0 138.6330790746102,-34.96998417574004,0 138.6330824831702,-34.96998294741751,0 138.6330855808281,-34.96998125053494,0 138.6330882734634,-34.96997913665133,0 138.6330904792614,-34.96997666999592,0 138.6330921312002,-34.96997392551688,0 138.6330931790865,-34.96997098660381,0 138.633093591081,-34.96996794255414,0 138.6330933546653,-34.96996488585975,0 138.6330924770229,-34.96996190939677,0 138.6330909848207,-34.96995910360351,0 138.6330889233985,-34.96995655373257,0 138.6330863553916,-34.96995433726044,0 138.6330833588275,-34.96995252153349,0 138.6330800247555,-34.96995116172164,0 138.6330764544794,-34.96995029914206,0 138.6330727564803,-34.96994996000377,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

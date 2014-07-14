@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01918">
+			<name>Illawarra Plum, Plum Pine, Brown Pine</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Illawarra Plum, Plum Pine, Brown Pine</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1923</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2937A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Podocarpus elatus</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Illawarra Plum, Plum Pine, Brown Pine</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2937A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PODOCARPACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2937.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332929733782,-34.97018857119107,0 138.6332915471826,-34.9701886459365,0 138.633290158422,-34.97018892340676,0 138.6332888492931,-34.97018939517113,0 138.6332876595731,-34.97019004689523,0 138.633286625411,-34.9701908587768,0 138.6332857782294,-34.97019180614721,0 138.6332851437693,-34.9701928602211,0 138.6332847413086,-34.97019398897096,0 138.6332845830759,-34.97019515810035,0 138.6332846738789,-34.9701963320858,0 138.6332850109588,-34.97019747525639,0 138.6332855840734,-34.97019855287743,0 138.633286375809,-34.97019953220598,0 138.6332873621091,-34.97020038348568,0 138.6332885130055,-34.97020108085069,0 138.6332897935288,-34.97020160311203,0 138.6332911647709,-34.97020193440102,0 138.6332925850674,-34.9702020646516,0 138.6332940112631,-34.97020198990619,0 138.6332954000239,-34.97020171243587,0 138.633296709153,-34.97020124067146,0 138.6332978988731,-34.97020058894727,0 138.6332989330352,-34.9701997770656,0 138.6332997802169,-34.97019882969507,0 138.6333004146767,-34.97019777562112,0 138.6333008171372,-34.97019664687119,0 138.6333009753697,-34.9701954777418,0 138.6333008845664,-34.97019430375634,0 138.6333005474864,-34.97019316058579,0 138.6332999743717,-34.97019208296481,0 138.633299182636,-34.97019110363631,0 138.6332981963358,-34.97019025235675,0 138.6332970454395,-34.97018955499181,0 138.6332957649163,-34.97018903273056,0 138.6332943936744,-34.97018870144164,0 138.6332929733782,-34.97018857119107,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

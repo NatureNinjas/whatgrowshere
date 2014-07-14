@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01583">
+			<name>Weeping Myall, Boree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Weeping Myall, Boree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1584</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2210D</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Acacia pendula</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Weeping Myall, Boree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2210D</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LEGUMINOSAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Vic., NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>0</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2222.4</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E1</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6295788042744,-34.96447856297522,0 138.6295717917372,-34.96447893032463,0 138.6295649632242,-34.96448029453555,0 138.629558526216,-34.96448261415721,0 138.6295526762978,-34.96448581870913,0 138.6295475912163,-34.96448981082267,0 138.6295434254789,-34.96449446919965,0 138.6295403056597,-34.96449965229771,0 138.6295383265528,-34.96450520263115,0 138.6295375482927,-34.96451095155593,0 138.6295379945266,-34.96451672439395,0 138.6295396516963,-34.9645223457404,0 138.6295424694496,-34.96452764479349,0 138.6295463621709,-34.96453246054414,0 138.6295512115816,-34.96453664666807,0 138.6295568703352,-34.96454007597192,0 138.6295631664929,-34.96454264425795,0 138.6295699087494,-34.96454427348999,0 138.6295768922441,-34.96454491416458,0 138.629583904787,-34.96454454681511,0 138.6295907333052,-34.96454318260335,0 138.6295971703173,-34.96454086298014,0 138.629603020238,-34.9645376584262,0 138.6296081053201,-34.9645336663104,0 138.6296122710561,-34.96452900793113,0 138.6296153908721,-34.9645238248311,0 138.6296173699743,-34.96451827449622,0 138.629618148229,-34.96451252557073,0 138.6296177019894,-34.9645067527328,0 138.6296160448146,-34.96450113138718,0 138.6296132270572,-34.96449583233562,0 138.6296093343336,-34.964491016587,0 138.6296044849223,-34.96448683046538,0 138.6295988261702,-34.96448340116378,0 138.6295925300155,-34.96448083287971,0 138.6295857877638,-34.96447920364908,0 138.6295788042744,-34.96447856297522,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

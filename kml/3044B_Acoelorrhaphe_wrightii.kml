@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01855">
+			<name>Paurotis Palm, Everglades Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Paurotis Palm, Everglades Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1858</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3044B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Acoelorrhaphe wrightii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Paurotis Palm, Everglades Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3044B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Florida, W. Indies, Mexico, C. America</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3044.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332628940183,-34.96887681929922,0 138.633261957617,-34.96887686837621,0 138.6332610457945,-34.96887705055897,0 138.6332601862561,-34.96887736031202,0 138.6332594051184,-34.96887778822363,0 138.6332587261159,-34.96887832129195,0 138.6332581698798,-34.96887894331997,0 138.6332577533109,-34.96887963540767,0 138.6332574890666,-34.96888037652634,0 138.6332573851758,-34.96888114415745,0 138.6332574447951,-34.96888191497693,0 138.633257666113,-34.96888266556378,0 138.633258042405,-34.96888337311184,0 138.6332585622375,-34.96888401612264,0 138.6332592098157,-34.96888457505855,0 138.6332599654633,-34.96888503293663,0 138.6332608062204,-34.96888537584449,0 138.6332617065409,-34.96888559336301,0 138.633262639069,-34.96888567888303,0 138.6332635754704,-34.96888562980605,0 138.633264487293,-34.96888544762327,0 138.6332653468315,-34.9688851378702,0 138.6332661279692,-34.96888470995853,0 138.6332668069717,-34.96888417689015,0 138.6332673632078,-34.96888355486209,0 138.6332677797766,-34.96888286277437,0 138.6332680440208,-34.96888212165568,0 138.6332681479115,-34.96888135402454,0 138.6332680882921,-34.96888058320509,0 138.6332678669742,-34.96887983261822,0 138.6332674906822,-34.9688791250702,0 138.6332669708496,-34.96887848205947,0 138.6332663232713,-34.96887792312358,0 138.6332655676237,-34.96887746524555,0 138.6332647268667,-34.96887712233773,0 138.6332638265463,-34.96887690481923,0 138.6332628940183,-34.96887681929922,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

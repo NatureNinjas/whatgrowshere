@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02002">
+			<name>Eurabbie</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Eurabbie</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2526</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eucalyptus bicostata</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Eurabbie</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2526</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, Vic., NSW,Tas.</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1994</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2526</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E3</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6292379712898,-34.96558631171927,0 138.6292358186562,-34.9655864244755,0 138.6292337225108,-34.96558684323367,0 138.6292317465441,-34.96558755526999,0 138.6292299507947,-34.96558853894958,0 138.6292283898255,-34.9655897643839,0 138.6292271110659,-34.96559119433869,0 138.6292261533701,-34.96559278536558,0 138.6292255458376,-34.96559448912197,0 138.6292253069277,-34.96559625384012,0 138.6292254438996,-34.96559802589997,0 138.6292259525916,-34.96559975145836,0 138.6292268175473,-34.96560137808506,0 138.6292280124856,-34.96560285635588,0 138.6292295010987,-34.96560414135425,0 138.629231238156,-34.96560519403616,0 138.6292331708779,-34.96560598241641,0 138.6292352405395,-34.96560648254038,0 138.6292373842553,-34.96560667921218,0 138.6292395368895,-34.96560656645593,0 138.6292416330352,-34.96560614769767,0 138.6292436090023,-34.96560543566123,0 138.629245404752,-34.96560445198143,0 138.6292469657212,-34.9656032265469,0 138.6292482444807,-34.96560179659187,0 138.6292492021761,-34.96560020556482,0 138.6292498097083,-34.9655985018083,0 138.6292500486177,-34.96559673709008,0 138.6292499116453,-34.96559496503025,0 138.6292494029528,-34.96559323947193,0 138.6292485379966,-34.96559161284538,0 138.6292473430582,-34.96559013457475,0 138.629245854445,-34.96558884957658,0 138.6292441173878,-34.96558779689487,0 138.6292421846662,-34.96558700851484,0 138.629240115005,-34.96558650839097,0 138.6292379712898,-34.96558631171927,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

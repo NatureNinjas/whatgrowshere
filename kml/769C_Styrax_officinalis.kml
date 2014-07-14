@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02005">
+			<name>Snowbell</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Snowbell</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>769C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Styrax officinalis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Snowbell</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>769C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>STYRACACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Mediterranean</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>769.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>C7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6280159421652,-34.96739481156267,0 138.6280142082646,-34.96739490236433,0 138.6280125198601,-34.96739523963884,0 138.628010928253,-34.96739581313827,0 138.6280094818035,-34.96739660543712,0 138.6280082244611,-34.96739759246182,0 138.6280071944297,-34.96739874422212,0 138.6280064230061,-34.96740002572236,0 138.6280059336298,-34.96740139802483,0 138.6280057411702,-34.96740281943282,0 138.6280058514751,-34.96740424675755,0 138.6280062611929,-34.9674056366305,0 138.6280069578745,-34.96740694682107,0 138.6280079203518,-34.96740813751977,0 138.6280091193803,-34.96740917254782,0 138.6280105185281,-34.96741002045643,0 138.6280120752828,-34.96741065548229,0 138.6280137423433,-34.96741105833048,0 138.6280154690566,-34.96741121676066,0 138.6280172029576,-34.96741112595899,0 138.6280188913624,-34.96741078868443,0 138.6280204829698,-34.96741021518491,0 138.6280219294194,-34.96740942288594,0 138.6280231867618,-34.96740843586108,0 138.6280242167931,-34.96740728410065,0 138.6280249882165,-34.96740600260028,0 138.6280254775925,-34.96740463029771,0 138.6280256700518,-34.96740320888969,0 138.6280255597466,-34.96740178156495,0 138.6280251500285,-34.96740039169207,0 138.6280244533465,-34.9673990815016,0 138.6280234908691,-34.96739789080302,0 138.6280222918406,-34.96739685577511,0 138.6280208926929,-34.96739600786664,0 138.6280193359384,-34.9673953728409,0 138.6280176688782,-34.96739496999279,0 138.6280159421652,-34.96739481156267,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

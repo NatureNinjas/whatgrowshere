@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01631">
+			<name>Canary Madrona</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Canary Madrona</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1632</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>820A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Arbutus canariensis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Canary Madrona</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>820A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ERICACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Canary Islands</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>820.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>D8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.628612828257,-34.96741497587292,0 138.6286090468726,-34.96741517391669,0 138.6286053647126,-34.96741590948128,0 138.6286018936572,-34.96741716021691,0 138.628598739173,-34.96741888812071,0 138.628595997107,-34.96742104069115,0 138.6285937507756,-34.96742355252354,0 138.6285920684325,-34.96742634729714,0 138.6285910011949,-34.96742934009421,0 138.6285905814903,-34.96743243998008,0 138.6285908220714,-34.96743555276638,0 138.6285917156281,-34.96743858387261,0 138.6285932350104,-34.96744144120019,0 138.6285953340526,-34.96744403793059,0 138.6285979489763,-34.96744629516345,0 138.6286010003286,-34.96744814431392,0 138.6286043953956,-34.96744952919639,0 138.6286080310198,-34.96745040773193,0 138.6286117967346,-34.96745075322667,0 138.6286155781206,-34.96745055518287,0 138.6286192602821,-34.96744981961805,0 138.6286227313387,-34.96744856888194,0 138.6286258858237,-34.96744684097759,0 138.6286286278898,-34.96744468840645,0 138.6286308742207,-34.96744217657341,0 138.6286325565629,-34.96743938179925,0 138.6286336237991,-34.96743638900178,0 138.6286340435021,-34.96743328911566,0 138.6286338029195,-34.9674301763294,0 138.6286329093612,-34.96742714522339,0 138.6286313899778,-34.96742428789628,0 138.6286292909349,-34.96742169116649,0 138.628626676011,-34.96741943393428,0 138.6286236246591,-34.96741758478446,0 138.628620229593,-34.96741619990258,0 138.6286165939702,-34.96741532136745,0 138.628612828257,-34.96741497587292,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01923">
+			<name>Peanut Tree, Red-fruited Kurrajong</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Peanut Tree, Red-fruited Kurrajong</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1928</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2933</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Sterculia quadrifida</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Peanut Tree, Red-fruited Kurrajong</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2933</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>STERCULIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2933</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.633203030884,-34.97024878597416,0 138.6332012662582,-34.9702488784549,0 138.6331995479501,-34.97024922176616,0 138.6331979281696,-34.97024980547652,0 138.6331964561331,-34.9702506118503,0 138.6331951765675,-34.97025161638625,0 138.6331941283518,-34.97025278856201,0 138.6331933433355,-34.97025409276166,0 138.6331928453709,-34.97025548935774,0 138.6331926495886,-34.97025693591543,0 138.6331927619371,-34.97025838848175,0 138.6331931790029,-34.97025980292125,0 138.6331938881137,-34.97026113625685,0 138.6331948677235,-34.97026234797587,0 138.6331960880673,-34.97026340126082,0 138.6331975120657,-34.97026426410815,0 138.6331990964512,-34.97026491030068,0 138.633200793083,-34.97026532020421,0 138.6332025504097,-34.97026548136392,0 138.6332043150359,-34.97026538888318,0 138.6332060333444,-34.97026504557188,0 138.6332076531251,-34.9702644618614,0 138.6332091251618,-34.97026365548749,0 138.6332104047274,-34.97026265095141,0 138.633211452943,-34.97026147877548,0 138.6332122379591,-34.97026017457571,0 138.6332127359233,-34.97025877797955,0 138.6332129317054,-34.97025733142184,0 138.6332128193565,-34.9702558788555,0 138.6332124022904,-34.97025446441607,0 138.6332116931793,-34.97025313108055,0 138.6332107135694,-34.97025191936166,0 138.6332094932255,-34.97025086607686,0 138.6332080692272,-34.97025000322965,0 138.6332064848419,-34.97024935703728,0 138.6332047882105,-34.97024894713385,0 138.633203030884,-34.97024878597416,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01854">
+			<name>Zamia, Burrawang Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Zamia, Burrawang Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1857</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3037B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Macrozamia johnsonii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Zamia, Burrawang Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3037B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ZAMIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2000</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3037.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332972004139,-34.96886763854548,0 138.6332953580561,-34.96886773510434,0 138.6332935640567,-34.96886809354724,0 138.6332918729259,-34.96886870298301,0 138.6332903360475,-34.96886954489433,0 138.633289000119,-34.96887059370009,0 138.6332879057317,-34.96887181753292,0 138.6332870861381,-34.96887317920723,0 138.6332865662413,-34.9688746373493,0 138.6332863618378,-34.96887614765419,0 138.6332864791386,-34.96887766423206,0 138.6332869145794,-34.96887914100248,0 138.6332876549296,-34.96888053309449,0 138.6332886776942,-34.96888179821005,0 138.6332899517969,-34.96888289790935,0 138.6332914385247,-34.96888379877852,0 138.6332930927042,-34.96888447344509,0 138.633294864074,-34.96888490140965,0 138.6332966988118,-34.96888506966875,0 138.6332985411701,-34.96888497310987,0 138.6333003351697,-34.96888461466695,0 138.6333020263008,-34.96888400523103,0 138.6333035631793,-34.96888316331959,0 138.6333048991079,-34.96888211451366,0 138.6333059934951,-34.96888089068072,0 138.6333068130885,-34.96887952900624,0 138.633307332985,-34.96887807086406,0 138.6333075373881,-34.96887656055912,0 138.633307420087,-34.96887504398126,0 138.6333069846458,-34.96887356721091,0 138.6333062442952,-34.968872175119,0 138.6333052215305,-34.96887091000355,0 138.6333039474278,-34.96886981030443,0 138.6333024607001,-34.9688689094354,0 138.6333008065208,-34.96886823476899,0 138.6332990351513,-34.96886780680452,0 138.6332972004139,-34.96886763854548,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

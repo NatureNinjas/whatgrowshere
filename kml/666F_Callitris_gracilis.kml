@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01624">
+			<name>Southern Cypress Pine, Black Cypress Pine</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Southern Cypress Pine, Black Cypress Pine</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1625</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>666F</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Callitris gracilis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Southern Cypress Pine, Black Cypress Pine</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>666F</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>CUPRESSACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, WA, Vic., NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>666.6</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6297567644013,-34.96702715007324,0 138.6297557646416,-34.96702720244394,0 138.629754791118,-34.9670273969302,0 138.6297538734103,-34.96702772762269,0 138.6297530394026,-34.96702818447352,0 138.6297523144359,-34.96702875360143,0 138.6297517205378,-34.96702941771386,0 138.6297512757537,-34.96703015663203,0 138.6297509935982,-34.96703094790428,0 138.6297508826443,-34.96703176748822,0 138.6297509462633,-34.96703259048124,0 138.6297511825223,-34.96703339187703,0 138.6297515842426,-34.96703414732568,0 138.6297521392182,-34.96703483387321,0 138.6297528305864,-34.96703543065923,0 138.6297536373403,-34.96703591955068,0 138.6297545349672,-34.96703628569286,0 138.629755496193,-34.96703651796072,0 138.6297564918115,-34.96703660929692,0 138.6297574915712,-34.96703655692623,0 138.6297584650949,-34.96703636243994,0 138.6297593828027,-34.96703603174743,0 138.6297602168104,-34.96703557489656,0 138.6297609417772,-34.96703500576857,0 138.6297615356752,-34.96703434165612,0 138.6297619804592,-34.96703360273793,0 138.6297622626147,-34.96703281146563,0 138.6297623735685,-34.96703199188167,0 138.6297623099493,-34.96703116888866,0 138.6297620736902,-34.96703036749288,0 138.6297616719698,-34.96702961204427,0 138.6297611169942,-34.96702892549678,0 138.629760425626,-34.9670283287108,0 138.6297596188721,-34.9670278398194,0 138.6297587212453,-34.96702747367727,0 138.6297577600196,-34.96702724140943,0 138.6297567644013,-34.96702715007324,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

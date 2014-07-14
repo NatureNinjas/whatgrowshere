@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01822">
+			<name>Spiny Fibre Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Spiny Fibre Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1825</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3122E</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Trithrinax brasiliensis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Spiny Fibre Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3122E</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Brazil</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3122.5</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6326055092485,-34.96926153248776,0 138.6326041865296,-34.96926160180393,0 138.6326028985281,-34.96926185913865,0 138.6326016843793,-34.96926229667297,0 138.6326005809744,-34.96926290111259,0 138.6325996218398,-34.96926365409195,0 138.6325988361184,-34.96926453273213,0 138.6325982476839,-34.96926551033609,0 138.6325978744156,-34.96926655719991,0 138.632597727655,-34.96926764151506,0 138.6325978118615,-34.96926873033524,0 138.6325981244765,-34.9692697905772,0 138.6325986560012,-34.96927079002596,0 138.6325993902857,-34.96927169831384,0 138.632600305019,-34.96927248784293,0 138.6326013724076,-34.96927313462383,0 138.6326025600191,-34.96927361900438,0 138.6326038317688,-34.96927392626696,0 138.6326051490152,-34.96927404707548,0 138.6326064717342,-34.9692739777593,0 138.6326077597359,-34.96927372042455,0 138.6326089738849,-34.96927328289019,0 138.6326100772899,-34.96927267845049,0 138.6326110364244,-34.96927192547105,0 138.6326118221458,-34.96927104683079,0 138.6326124105802,-34.96927006922674,0 138.6326127838483,-34.96926902236289,0 138.6326129306087,-34.96926793804771,0 138.632612846402,-34.96926684922756,0 138.6326125337869,-34.96926578898562,0 138.632612002262,-34.96926478953692,0 138.6326112679774,-34.9692638812491,0 138.6326103532441,-34.96926309172006,0 138.6326092858556,-34.96926244493927,0 138.6326080982442,-34.96926196055878,0 138.6326068264946,-34.96926165329627,0 138.6326055092485,-34.96926153248776,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

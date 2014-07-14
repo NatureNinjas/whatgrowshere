@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01620">
+			<name>Flinders Wattle, Notable Wattle</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Flinders Wattle, Notable Wattle</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1621</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>296D</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Acacia notabilis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Flinders Wattle, Notable Wattle</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>296D</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LEGUMINOSAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, WA, NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>295.4</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>I8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6319202719164,-34.96737218351655,0 138.6319157267118,-34.96737242168879,0 138.6319113008004,-34.96737330595673,0 138.6319071286614,-34.96737480945234,0 138.6319033370629,-34.96737688649272,0 138.6319000412107,-34.96737947396807,0 138.6318973412476,-34.96738249325931,0 138.6318953192105,-34.96738585262686,0 138.6318940365383,-34.96738944999805,0 138.6318935322043,-34.96739317606862,0 138.6318938215325,-34.96739691762384,0 138.631894895732,-34.96740056097838,0 138.6318967221638,-34.96740399543081,0 138.6318992453328,-34.96740711662694,0 138.6319023885738,-34.96740982973081,0 138.6319060563812,-34.96741205230607,0 138.6319101373102,-34.96741371682086,0 138.6319145073641,-34.96741477269971,0 138.6319190337607,-34.96741518786023,0 138.6319235789677,-34.96741494968796,0 138.6319280048812,-34.96741406541966,0 138.6319321770219,-34.9674125619234,0 138.6319359686215,-34.96741048488217,0 138.6319392644739,-34.96740789740586,0 138.6319419644364,-34.96740487811367,0 138.6319439864721,-34.9674015187453,0 138.6319452691424,-34.96739792137349,0 138.6319457734741,-34.96739419530262,0 138.6319454841435,-34.96739045374745,0 138.6319444099419,-34.96738681039325,0 138.6319425835084,-34.96738337594147,0 138.6319400603384,-34.9673802547462,0 138.6319369170971,-34.96737754164329,0 138.6319332492904,-34.96737531906898,0 138.6319291683626,-34.967373654555,0 138.6319247983108,-34.96737259867677,0 138.6319202719164,-34.96737218351655,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

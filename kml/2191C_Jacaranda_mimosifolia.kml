@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01720">
+			<name>Jacaranda</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Jacaranda</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1723</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2191C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Jacaranda mimosifolia</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Jacaranda</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2191C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>BIGNONIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Argentina</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2192.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6336144539978,-34.97015098702592,0 138.6336126776153,-34.97015108012906,0 138.6336109478605,-34.97015142573402,0 138.6336093172909,-34.9701520133398,0 138.6336078354509,-34.97015282509225,0 138.6336065473651,-34.9701538363267,0 138.6336054921714,-34.97015501631734,0 138.6336047019316,-34.97015632921072,0 138.6336042006564,-34.97015773511525,0 138.6336040035769,-34.97015919131327,0 138.6336041166814,-34.97016065355892,0 138.6336045365333,-34.9701620774226,0 138.6336052503754,-34.97016341964094,0 138.6336062365182,-34.97016463943131,0 138.6336074649981,-34.97016569973098,0 138.6336088984886,-34.97016656832329,0 138.6336104934335,-34.97016721881647,0 138.6336122013715,-34.97016763144563,0 138.6336139704075,-34.97016779367326,0 138.6336157467904,-34.97016770057011,0 138.6336174765455,-34.97016735496509,0 138.6336191071153,-34.97016676735923,0 138.6336205889556,-34.97016595560666,0 138.6336218770414,-34.97016494437204,0 138.6336229322349,-34.97016376438128,0 138.6336237224746,-34.97016245148775,0 138.6336242237495,-34.97016104558313,0 138.6336244208286,-34.97015958938505,0 138.6336243077237,-34.97015812713942,0 138.6336238878715,-34.9701567032758,0 138.6336231740292,-34.97015536105755,0 138.6336221878862,-34.97015414126732,0 138.6336209594062,-34.97015308096778,0 138.6336195259159,-34.97015221237564,0 138.6336179309711,-34.97015156188257,0 138.6336162230335,-34.97015114925349,0 138.6336144539978,-34.97015098702592,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

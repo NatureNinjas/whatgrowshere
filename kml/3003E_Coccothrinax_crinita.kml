@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01762">
+			<name>Thatch Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Thatch Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1765</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3003E</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Coccothrinax crinita</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Thatch Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3003E</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Cuba</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3003.5</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.633557568728,-34.96876031133019,0 138.633556612621,-34.96876036144241,0 138.6335556816106,-34.96876054746166,0 138.6335548039851,-34.96876086373582,0 138.6335540064106,-34.96876130065513,0 138.6335533131211,-34.96876184494396,0 138.6335527451817,-34.96876248006438,0 138.6335523198491,-34.96876318671861,0 138.6335520500467,-34.9687639434353,0 138.6335519439724,-34.96876472722197,0 138.6335520048493,-34.96876551426371,0 138.6335522308275,-34.96876628064663,0 138.6335526150408,-34.96876700308457,0 138.6335531458152,-34.96876765962661,0 138.6335538070233,-34.96876823032406,0 138.6335545785747,-34.96876869783658,0 138.6335554370261,-34.96876904795902,0 138.633556356294,-34.9687692700531,0 138.6335573084467,-34.96876935737057,0 138.6335582645538,-34.96876930725836,0 138.6335591955642,-34.9687691212391,0 138.6335600731899,-34.96876880496489,0 138.6335608707644,-34.96876836804556,0 138.633561564054,-34.96876782375667,0 138.6335621319933,-34.96876718863619,0 138.6335625573259,-34.96876648198195,0 138.6335628271281,-34.96876572526525,0 138.6335629332023,-34.96876494147855,0 138.6335628723253,-34.96876415443683,0 138.633562646347,-34.96876338805392,0 138.6335622621336,-34.96876266561601,0 138.6335617313592,-34.968762009074,0 138.6335610701511,-34.96876143837658,0 138.6335602985998,-34.9687609708641,0 138.6335594401484,-34.96876062074171,0 138.6335585208807,-34.96876039864765,0 138.633557568728,-34.96876031133019,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

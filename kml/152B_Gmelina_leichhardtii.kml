@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01656">
+			<name>Queensland or White Beech, Grey Teak</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Queensland or White Beech, Grey Teak</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1659</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>152B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Gmelina leichhardtii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Queensland or White Beech, Grey Teak</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>152B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>VERBENACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2003</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>152.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6328756201495,-34.9684838113822,0 138.6328731825535,-34.96848393913032,0 138.6328708089384,-34.96848441337502,0 138.6328685714252,-34.96848521970654,0 138.6328665379996,-34.96848633362498,0 138.6328647704463,-34.96848772128446,0 138.6328633224715,-34.96848934052169,0 138.6328622380709,-34.96849114213697,0 138.6328615501939,-34.96849307138913,0 138.6328612797411,-34.96849506965884,0 138.6328614349301,-34.96849707622969,0 138.6328620110456,-34.96849903013303,0 138.6328629905827,-34.9685008720005,0 138.6328643437786,-34.96850254586788,0 138.6328660295172,-34.96850400087553,0 138.6328679965782,-34.9685051928138,0 138.6328701851935,-34.96850608546622,0 138.6328725288629,-34.96850665170995,0 138.6328749563754,-34.96850687434002,0 138.6328773939721,-34.96850674659187,0 138.6328797675878,-34.96850627234709,0 138.6328820051015,-34.96850546601537,0 138.6328840385273,-34.96850435209667,0 138.6328858060807,-34.96850296443692,0 138.6328872540555,-34.96850134519941,0 138.6328883384555,-34.96849954358391,0 138.632889026332,-34.96849761433159,0 138.6328892967842,-34.96849561606179,0 138.6328891415945,-34.96849360949096,0 138.6328885654783,-34.96849165558771,0 138.6328875859408,-34.96848981372042,0 138.6328862327446,-34.96848813985329,0 138.6328845470059,-34.96848668484591,0 138.632882579945,-34.9684854929079,0 138.6328803913302,-34.96848460025575,0 138.6328780476613,-34.96848403401216,0 138.6328756201495,-34.9684838113822,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

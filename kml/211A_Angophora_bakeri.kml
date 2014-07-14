@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01661">
+			<name>Small-leaved Apple-myrtle</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Small-leaved Apple-myrtle</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1664</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>211A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Angophora bakeri</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Small-leaved Apple-myrtle</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>211A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>211.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>I12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.632027632245,-34.96899292857461,0 138.6320256470535,-34.96899303259831,0 138.6320237139653,-34.96899341880916,0 138.6320218917164,-34.96899407547233,0 138.6320202356747,-34.96899498263543,0 138.6320187961584,-34.96899611273479,0 138.6320176169064,-34.96899743143293,0 138.6320167337495,-34.96899889866187,0 138.6320161735223,-34.96900046984064,0 138.6320159532469,-34.96900209722971,0 138.6320160796161,-34.96900373138175,0 138.6320165487905,-34.96900532264384,0 138.6320173465145,-34.96900682266627,0 138.6320184485495,-34.96900818587169,0 138.6320198214108,-34.96900937083971,0 138.6320214233847,-34.96901034156569,0 138.632023205796,-34.96901106855462,0 138.6320251144872,-34.96901152971729,0 138.6320270914635,-34.96901171104146,0 138.6320290766554,-34.96901160701778,0 138.6320310097441,-34.96901122080688,0 138.6320328319934,-34.96901056414357,0 138.6320344880352,-34.96900965698031,0 138.6320359275516,-34.96900852688076,0 138.6320371068035,-34.96900720818244,0 138.6320379899601,-34.96900574095334,0 138.6320385501869,-34.96900416977449,0 138.632038770462,-34.96900254238532,0 138.6320386440922,-34.96900090823331,0 138.6320381749174,-34.96899931697127,0 138.6320373771931,-34.96899781694896,0 138.6320362751579,-34.96899645374371,0 138.6320349022966,-34.96899526877586,0 138.6320333003228,-34.96899429805008,0 138.6320315179117,-34.9689935710613,0 138.6320296092209,-34.96899310989875,0 138.632027632245,-34.96899292857461,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01693">
+			<name>Swamp Box, Swamp Turpentine</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Swamp Box, Swamp Turpentine</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1696</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>83A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Lophostemon suaveolens</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Swamp Box, Swamp Turpentine</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>83A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2002</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>83.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6318151692687,-34.96986967463826,0 138.6318115984583,-34.96986986173826,0 138.6318081213658,-34.96987055640949,0 138.6318048436407,-34.96987173754462,0 138.6318018648751,-34.96987336925555,0 138.6317992755772,-34.96987540196361,0 138.6317971544214,-34.96987777390597,0 138.6317955658581,-34.96988041301238,0 138.631794558155,-34.969883239095,0 138.6317941619306,-34.96988616628473,0 138.6317943892242,-34.96988910564039,0 138.6317952331296,-34.96989196785117,0 138.6317966680051,-34.96989466595024,0 138.6317986502531,-34.96989711795717,0 138.6318011196436,-34.96989924936897,0 138.6318040011458,-34.96990099542374,0 138.6318072072065,-34.96990230306844,0 138.6318106404111,-34.96990313257098,0 138.6318141964435,-34.9699034587273,0 138.6318177672554,-34.96990327162725,0 138.6318212443492,-34.96990257695584,0 138.6318245220753,-34.96990139582027,0 138.6318275008416,-34.96989976410881,0 138.6318300901397,-34.96989773140018,0 138.6318322112951,-34.96989535945725,0 138.6318337998575,-34.96989272035031,0 138.6318348075595,-34.96988989426732,0 138.6318352037824,-34.9698869670774,0 138.6318349764874,-34.96988402772175,0 138.6318341325807,-34.96988116551119,0 138.6318326977041,-34.96987846741251,0 138.6318307154555,-34.96987601540611,0 138.6318282460648,-34.9698738839949,0 138.631825364563,-34.96987213794073,0 138.6318221585032,-34.96987083029654,0 138.6318187252997,-34.96987000079436,0 138.6318151692687,-34.96986967463826,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

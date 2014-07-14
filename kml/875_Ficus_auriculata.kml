@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01638">
+			<name>Roxburgh Fig, Elephant Ear Fig</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Roxburgh Fig, Elephant Ear Fig</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1639</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>875</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Ficus auriculata</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Roxburgh Fig, Elephant Ear Fig</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>875</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MORACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>China, tropical Asia</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>875</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>C9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6283928888408,-34.96783268835132,0 138.62839159183,-34.96783275627715,0 138.6283903288525,-34.96783300857118,0 138.6283891382833,-34.96783343756756,0 138.628388056297,-34.96783403023147,0 138.6283871157694,-34.96783476855509,0 138.6283863452778,-34.96783563010487,0 138.6283857682334,-34.96783658870307,0 138.6283854021693,-34.96783761522314,0 138.6283852582081,-34.96783867847478,0 138.6283853407241,-34.96783974615164,0 138.6283856472101,-34.96784078581293,0 138.6283861683537,-34.96784176586903,0 138.6283868883201,-34.96784265654141,0 138.6283877852337,-34.96784343076752,0 138.628388831842,-34.96784406502281,0 138.6283899963445,-34.96784454003576,0 138.6283912433583,-34.96784484137337,0 138.6283925349935,-34.96784495987964,0 138.6283938320045,-34.9678448919538,0 138.6283950949822,-34.96784463965975,0 138.6283962855516,-34.96784421066332,0 138.628397367538,-34.96784361799935,0 138.6283983080656,-34.96784287967564,0 138.6283990785571,-34.96784201812577,0 138.6283996556014,-34.96784105952751,0 138.6284000216654,-34.96784003300741,0 138.6284001656263,-34.96783896975573,0 138.6284000831101,-34.96783790207887,0 138.628399776624,-34.96783686241762,0 138.6283992554802,-34.96783588236158,0 138.6283985355137,-34.96783499168924,0 138.6283976386002,-34.96783421746321,0 138.6283965919918,-34.96783358320801,0 138.6283954274896,-34.96783310819513,0 138.6283941804759,-34.96783280685755,0 138.6283928888408,-34.96783268835132,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

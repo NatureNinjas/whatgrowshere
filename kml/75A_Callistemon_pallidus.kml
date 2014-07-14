@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01700">
+			<name>Lemon Bottlebrush</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Lemon Bottlebrush</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1703</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>75A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Callistemon pallidus</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Lemon Bottlebrush</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>75A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Qld, Vic., NSW, Tas.</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2002</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>75.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6318575628232,-34.96995386534303,0 138.6318543126364,-34.96995403564412,0 138.6318511477526,-34.96995466794106,0 138.6318481643354,-34.96995574302179,0 138.6318454530342,-34.96995722822054,0 138.6318430962304,-34.96995907841032,0 138.6318411655345,-34.9699612373741,0 138.6318397196096,-34.96996363951284,0 138.6318388023896,-34.96996621183882,0 138.6318384417435,-34.96996887619321,0 138.6318386486297,-34.96997155162095,0 138.631839416762,-34.96997415683058,0 138.631840722801,-34.96997661266405,0 138.6318425270637,-34.96997884450211,0 138.6318447747282,-34.96998078453146,0 138.6318473975007,-34.96998237380529,0 138.6318503156893,-34.96998356403429,0 138.6318534406263,-34.96998431905391,0 138.6318566773622,-34.96998461592328,0 138.6318599275502,-34.96998444562216,0 138.631863092435,-34.96998381332506,0 138.6318660758531,-34.96998273824401,0 138.6318687871549,-34.96998125304481,0 138.6318711439587,-34.96997940285455,0 138.6318730746543,-34.96997724389028,0 138.6318745205785,-34.96997484175112,0 138.6318754377977,-34.96997226942484,0 138.6318757984425,-34.96996960507029,0 138.6318755915551,-34.96996692964254,0 138.6318748234218,-34.96996432443311,0 138.6318735173819,-34.96996186859998,0 138.6318717131187,-34.96995963676235,0 138.631869465454,-34.96995769673349,0 138.6318668426819,-34.96995610746015,0 138.631863924494,-34.96995491723155,0 138.6318607995578,-34.96995416221225,0 138.6318575628232,-34.96995386534303,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

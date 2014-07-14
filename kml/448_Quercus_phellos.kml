@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01696">
+			<name>Willow Oak</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Willow Oak</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1699</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>448</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Quercus phellos</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Willow Oak</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>448</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>FAGACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>USA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>448</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6310889788549,-34.96904750710957,0 138.6310870600054,-34.96904760764192,0 138.6310851915149,-34.96904798093122,0 138.6310834301565,-34.96904861563522,0 138.6310818294482,-34.96904949246877,0 138.6310804380266,-34.96905058478977,0 138.6310792981694,-34.96905185940855,0 138.6310784445106,-34.96905327759653,0 138.6310779029883,-34.96905479626278,0 138.6310776900562,-34.96905636926335,0 138.6310778121842,-34.96905794880346,0 138.6310782656616,-34.96905948688956,0 138.6310790367098,-34.96906093678773,0 138.6310801019007,-34.96906225444348,0 138.6310814288692,-34.96906339982053,0 138.6310829772959,-34.96906433811716,0 138.6310847001327,-34.96906504082371,0 138.6310865450321,-34.96906548658877,0 138.6310884559377,-34.96906566186802,0 138.6310903747876,-34.96906556133564,0 138.6310922432785,-34.96906518804628,0 138.6310940046372,-34.96906455334219,0 138.6310956053457,-34.96906367650846,0 138.6310969967674,-34.9690625841873,0 138.6310981366244,-34.96906130956834,0 138.6310989902829,-34.96905989138022,0 138.631099531805,-34.96905837271389,0 138.6310997447367,-34.96905679971324,0 138.6310996226082,-34.96905522017315,0 138.6310991691304,-34.96905368208709,0 138.6310983980819,-34.96905223218904,0 138.6310973328909,-34.96905091453345,0 138.6310960059223,-34.96904976915656,0 138.6310944574957,-34.9690488308601,0 138.6310927346591,-34.9690481281537,0 138.6310908897601,-34.96904768238873,0 138.6310889788549,-34.96904750710957,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

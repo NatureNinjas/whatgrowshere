@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01891">
+			<name>Scrub Beefwood</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Scrub Beefwood</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1896</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2980</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Stenocarpus salignus</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Scrub Beefwood</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2980</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PROTEACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2980</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6331540914867,-34.970048634253,0 138.6331527288032,-34.97004870566848,0 138.6331514018871,-34.97004897078134,0 138.6331501510563,-34.97004942153626,0 138.6331490143165,-34.97005004423732,0 138.633148026207,-34.97005081996402,0 138.6331472167511,-34.97005172514635,0 138.6331466105435,-34.97005273228076,0 138.6331462260037,-34.97005381076603,0 138.6331460748157,-34.97005492783286,0 138.6331461615733,-34.97005604953982,0 138.6331464836404,-34.97005714180438,0 138.6331470312312,-34.97005817143863,0 138.6331477877073,-34.97005910715765,0 138.6331487300837,-34.97005992053011,0 138.6331498297267,-34.97006058684206,0 138.6331510532243,-34.97006108584795,0 138.633152363401,-34.97006140238576,0 138.6331537204479,-34.97006152683765,0 138.6331550831316,-34.97006145542215,0 138.6331564100478,-34.97006119030927,0 138.6331576608789,-34.97006073955428,0 138.6331587976187,-34.97006011685316,0 138.6331597857282,-34.97005934112638,0 138.6331605951841,-34.97005843594396,0 138.6331612013915,-34.97005742880946,0 138.6331615859312,-34.97005635032416,0 138.633161737119,-34.97005523325728,0 138.6331616503612,-34.97005411155032,0 138.6331613282939,-34.97005301928578,0 138.633160780703,-34.97005198965161,0 138.6331600242268,-34.97005105393265,0 138.6331590818504,-34.97005024056029,0 138.6331579822074,-34.97004957424844,0 138.6331567587099,-34.97004907524261,0 138.6331554485334,-34.97004875870486,0 138.6331540914867,-34.970048634253,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

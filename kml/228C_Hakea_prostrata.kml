@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01677">
+			<name>Harsh Hakea</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Harsh Hakea</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1680</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>228C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Hakea prostrata</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Harsh Hakea</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>228C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PROTEACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>WA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>228.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6318926195234,-34.96855975625952,0 138.6318884646291,-34.96855997397266,0 138.6318844187834,-34.96856078229074,0 138.631880604917,-34.96856215665344,0 138.6318771389124,-34.96856405530149,0 138.6318741260824,-34.96856642054544,0 138.6318716579702,-34.96856918051859,0 138.6318698095681,-34.96857225136061,0 138.6318686370391,-34.96857553976552,0 138.6318681760099,-34.96857894581682,0 138.6318684404886,-34.96858236602344,0 138.6318694224393,-34.96858569646406,0 138.6318710920261,-34.96858883594493,0 138.6318733985195,-34.96859168907449,0 138.6318762718378,-34.96859416916184,0 138.6318796246768,-34.96859620085072,0 138.6318833551621,-34.96859772240925,0 138.6318873499447,-34.96859868760561,0 138.6318914876452,-34.96859906711281,0 138.6318956425415,-34.96859884939964,0 138.631899688389,-34.96859804108127,0 138.6319035022567,-34.96859666671803,0 138.6319069682622,-34.96859476806927,0 138.6319099810924,-34.96859240282453,0 138.6319124492042,-34.96858964285059,0 138.6319142976051,-34.96858657200789,0 138.6319154701325,-34.96858328360246,0 138.6319159311599,-34.96857987755088,0 138.6319156666791,-34.96857645734431,0 138.6319146847266,-34.96857312690399,0 138.6319130151383,-34.96856998742366,0 138.6319107086441,-34.96856713429479,0 138.6319078353256,-34.96856465420827,0 138.6319044824871,-34.96856262252017,0 138.6319007520029,-34.96856110096233,0 138.631896757222,-34.96856013576647,0 138.6318926195234,-34.96855975625952,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

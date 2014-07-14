@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01637">
+			<name>Montpellier Maple</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Montpellier Maple</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1638</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>874B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Acer monspessulanum</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Montpellier Maple</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>874B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ACERACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Mediterranean</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>874.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>D8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6289817133158,-34.96768515795185,0 138.6289804535499,-34.96768522393348,0 138.6289792268414,-34.9676854689892,0 138.628978070463,-34.96768588567313,0 138.6289770195508,-34.96768646132456,0 138.6289761060363,-34.96768717845259,0 138.6289753576759,-34.96768801526765,0 138.6289747972084,-34.96768894634356,0 138.6289744416633,-34.96768994339006,0 138.6289743018436,-34.96769097611235,0 138.6289743819976,-34.96769201313172,0 138.62897467969,-34.96769302293889,0 138.6289751858756,-34.96769397485132,0 138.628975885174,-34.96769483994566,0 138.6289767563376,-34.96769559193646,0 138.6289777728964,-34.96769620797485,0 138.6289789039628,-34.96769666934279,0 138.62898011517,-34.96769696202189,0 138.628981369716,-34.96769707711923,0 138.628982629482,-34.96769701113758,0 138.6289838561908,-34.96769676608181,0 138.6289850125692,-34.96769634939784,0 138.6289860634815,-34.96769577374634,0 138.6289869769962,-34.96769505661823,0 138.6289877253564,-34.96769421980309,0 138.6289882858238,-34.96769328872713,0 138.6289886413688,-34.96769229168061,0 138.6289887811883,-34.96769125895828,0 138.6289887010341,-34.9676902219389,0 138.6289884033415,-34.96768921213179,0 138.6289878971559,-34.96768826021939,0 138.6289871978573,-34.96768739512511,0 138.6289863266937,-34.96768664313439,0 138.628985310135,-34.96768602709607,0 138.6289841790686,-34.96768556572819,0 138.6289829678616,-34.96768527304914,0 138.6289817133158,-34.96768515795185,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

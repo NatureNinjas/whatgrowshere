@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01628">
+			<name>Dragon Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Dragon Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1629</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>316A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Dracaena draco</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Dragon Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>316A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>DRACAENACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Cape Verde Islands</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>316.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6306477599603,-34.96796560291804,0 138.6306463866512,-34.96796567486513,0 138.6306450493828,-34.96796594202542,0 138.6306437887872,-34.96796639628132,0 138.6306426431672,-34.96796702383058,0 138.6306416473317,-34.9679678056054,0 138.6306408315387,-34.96796871785189,0 138.6306402205757,-34.967969732852,0 138.6306398330066,-34.96797081976544,0 138.6306396806072,-34.96797194556687,0 138.6306397680084,-34.96797307604943,0 138.6306400925544,-34.96797417686392,0 138.6306406443841,-34.9679752145627,0 138.6306414067304,-34.96797615761579,0 138.6306423564299,-34.96797697736902,0 138.6306434646263,-34.96797764891456,0 138.6306446976477,-34.96797815184787,0 138.6306460180294,-34.96797847088755,0 138.6306473856522,-34.96797859633973,0 138.6306487589616,-34.96797852439264,0 138.6306500962302,-34.96797825723235,0 138.6306513568259,-34.96797780297636,0 138.6306525024461,-34.96797717542705,0 138.6306534982815,-34.96797639365216,0 138.6306543140744,-34.96797548140557,0 138.6306549250373,-34.96797446640537,0 138.6306553126063,-34.96797337949188,0 138.6306554650054,-34.9679722536904,0 138.6306553776041,-34.96797112320787,0 138.6306550530579,-34.96797002239342,0 138.630654501228,-34.96796898469467,0 138.6306537388816,-34.96796804164166,0 138.6306527891822,-34.96796722188852,0 138.6306516809858,-34.96796655034306,0 138.6306504479645,-34.96796604740985,0 138.630649127583,-34.96796572837022,0 138.6306477599603,-34.96796560291804,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

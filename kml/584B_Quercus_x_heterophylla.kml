@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01684">
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td> </td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1687</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>584B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Quercus x heterophylla</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>584B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>FAGACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>C. &amp; NE USA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>584.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6295308579408,-34.96956399909107,0 138.629526916606,-34.96956420553231,0 138.6295230786981,-34.969564972216,0 138.6295194608298,-34.96956627584682,0 138.6295161729281,-34.96956807681465,0 138.6295133148944,-34.969570320398,0 138.6295109735684,-34.96957293842679,0 138.6295092200903,-34.96957585135357,0 138.6295081077386,-34.96957897067051,0 138.6295076703115,-34.96958220159883,0 138.6295079211003,-34.96958544596839,0 138.6295088524848,-34.96958860520066,0 138.6295104361656,-34.96959158330397,0 138.6295126240232,-34.9695942897901,0 138.6295153495809,-34.96959664242385,0 138.6295185300239,-34.96959856972158,0 138.6295220687161,-34.96960001312328,0 138.629525858136,-34.96960092877192,0 138.6295297831439,-34.96960128884594,0 138.6295337244805,-34.96960108240468,0 138.6295375623901,-34.96960031572075,0 138.6295411802597,-34.96959901208946,0 138.6295444681621,-34.96959721112097,0 138.629547326196,-34.96959496753689,0 138.6295496675215,-34.96959234950739,0 138.6295514209987,-34.96958943657999,0 138.6295525333489,-34.9695863172626,0 138.6295529707742,-34.96958308633404,0 138.6295527199837,-34.9695798419645,0 138.6295517885975,-34.96957668273251,0 138.6295502049156,-34.96957370462969,0 138.6295480170571,-34.96957099814418,0 138.6295452914992,-34.96956864551115,0 138.6295421110567,-34.96956671821415,0 138.6295385723655,-34.96956527481308,0 138.6295347829471,-34.96956435916486,0 138.6295308579408,-34.96956399909107,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

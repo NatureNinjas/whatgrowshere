@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01897">
+			<name>Water Gum, Kanooka, Kanuka</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Water Gum, Kanooka, Kanuka</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1902</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2981G</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Tristaniopsis laurina</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Water Gum, Kanooka, Kanuka</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2981G</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Vic., NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2981.7</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6331970116834,-34.9700944816652,0 138.633195904685,-34.97009453968106,0 138.6331948267431,-34.97009475505009,0 138.6331938106102,-34.9700951212284,0 138.6331928871612,-34.97009562708988,0 138.6331920844546,-34.97009625726416,0 138.6331914268801,-34.97009699260374,0 138.6331909344178,-34.97009781076566,0 138.633190622031,-34.97009868689052,0 138.6331904992114,-34.97009959435767,0 138.6331905696908,-34.97010050559424,0 138.6331908313278,-34.97010139291274,0 138.6331912761725,-34.97010222935244,0 138.6331918907087,-34.97010298949855,0 138.633192656264,-34.97010365025441,0 138.6331935495774,-34.97010419154327,0 138.633194543506,-34.97010459691837,0 138.6331956078497,-34.97010485406256,0 138.633196710269,-34.97010495516268,0 138.6331978172676,-34.9701048971468,0 138.6331988952097,-34.97010468177775,0 138.6331999113426,-34.97010431559938,0 138.6332008347917,-34.97010380973787,0 138.6332016374984,-34.97010317956352,0 138.6332022950728,-34.9701024442239,0 138.633202787535,-34.97010162606193,0 138.6332030999217,-34.97010074993704,0 138.6332032227411,-34.97009984246985,0 138.6332031522616,-34.9700989312333,0 138.6332028906245,-34.97009804391481,0 138.6332024457797,-34.97009720747514,0 138.6332018312434,-34.9700964473291,0 138.6332010656881,-34.97009578657329,0 138.6332001723747,-34.97009524528449,0 138.6331991784462,-34.97009483990944,0 138.6331981141026,-34.97009458276528,0 138.6331970116834,-34.9700944816652,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

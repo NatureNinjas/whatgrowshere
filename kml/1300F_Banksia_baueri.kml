@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01933">
+			<name>Woolly Banksia, Possum Banksia, Teddy Bear Banksia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Woolly Banksia, Possum Banksia, Teddy Bear Banksia</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1938</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>1300F</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Banksia baueri</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Woolly Banksia, Possum Banksia, Teddy Bear Banksia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>1300F</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PROTEACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>WA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>1300.6</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>F15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6303354313454,-34.97036597277395,0 138.6303312024459,-34.97036619430171,0 138.6303270845249,-34.97036701694157,0 138.6303232027032,-34.97036841569801,0 138.6303196749283,-34.97037034807054,0 138.6303166083895,-34.97037275534508,0 138.630314096262,-34.9703755643778,0 138.6303122148756,-34.97037868981775,0 138.6303110213956,-34.9703820367,0 138.6303105520849,-34.97038550333129,0 138.6303108212037,-34.97038898437977,0 138.6303118205748,-34.97039237407554,0 138.6303135198332,-34.97039556942441,0 138.6303158673476,-34.97039847333729,0 138.6303187917901,-34.97040099758024,0 138.630322204303,-34.97040306545533,0 138.6303260011989,-34.97040461413123,0 138.6303300671107,-34.97040559655216,0 138.630334278498,-34.97040598286773,0 138.6303385073996,-34.97040576133994,0 138.6303426253224,-34.97040493869981,0 138.6303465071455,-34.97040353994279,0 138.6303500349213,-34.97040160756951,0 138.6303531014604,-34.97039920029417,0 138.6303556135873,-34.97039639126057,0 138.6303574949725,-34.97039326581994,0 138.630358688451,-34.97038991893715,0 138.6303591577596,-34.97038645230563,0 138.6303588886388,-34.97038297125716,0 138.6303578892658,-34.97037958156171,0 138.630356190006,-34.97037638621339,0 138.6303538424907,-34.97037348230123,0 138.630350918048,-34.97037095805914,0 138.6303475055356,-34.97036889018487,0 138.6303437086409,-34.97036734150967,0 138.6303396427307,-34.97036635908927,0 138.6303354313454,-34.97036597277395,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

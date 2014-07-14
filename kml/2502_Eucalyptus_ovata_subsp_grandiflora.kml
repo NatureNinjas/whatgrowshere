@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01999">
+			<name>Large-flowered Swamp Gum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Large-flowered Swamp Gum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2502</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eucalyptus ovata subsp. grandiflora</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Large-flowered Swamp Gum</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2502</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYRTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, Vic. NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1993</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2502</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>D2</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6289666923853,-34.96503331527219,0 138.6289644913604,-34.96503343055964,0 138.6289623480928,-34.96503385873012,0 138.6289603277045,-34.9650345867739,0 138.6289584915838,-34.96503559256973,0 138.6289568955206,-34.96503684555707,0 138.6289555880104,-34.96503830766447,0 138.6289546087811,-34.96503993446659,0 138.6289539875861,-34.96504167653388,0 138.6289537433003,-34.96504348093449,0 138.6289538833461,-34.96504529284264,0 138.6289544034683,-34.96504705720443,0 138.6289552878633,-34.96504872041059,0 138.6289565096592,-34.96505023192545,0 138.6289580317324,-34.96505154582238,0 138.6289598078355,-34.96505262217931,0 138.6289617840024,-34.96505342829158,0 138.6289639001883,-34.96505393966596,0 138.628966092094,-34.96505414076459,0 138.6289682931194,-34.96505402547713,0 138.6289704363875,-34.96505359730655,0 138.6289724567763,-34.96505286926261,0 138.6289742928971,-34.96505186346658,0 138.6289758889604,-34.96505061047903,0 138.6289771964705,-34.96504914837141,0 138.6289781756995,-34.96504752156909,0 138.628978796894,-34.96504577950166,0 138.6289790411793,-34.96504397510098,0 138.6289789011329,-34.96504216319283,0 138.6289783810102,-34.96504039883114,0 138.6289774966148,-34.96503873562512,0 138.6289762748187,-34.96503722411048,0 138.6289747527454,-34.96503591021376,0 138.6289729766425,-34.96503483385707,0 138.6289710004759,-34.96503402774496,0 138.6289688842905,-34.96503351637071,0 138.6289666923853,-34.96503331527219,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

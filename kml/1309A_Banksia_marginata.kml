@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01935">
+			<name>Silver Banksia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Silver Banksia</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1940</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>1309A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Banksia marginata</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Silver Banksia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>1309A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PROTEACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, Vic., Tas., NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1992</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>1309.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>F14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6301657144265,-34.97015810366112,0 138.6301665872264,-34.97015714781372,0 138.6301672608653,-34.97015608841026,0 138.6301677176282,-34.97015495331033,0 138.6301679455036,-34.97015377236412,0 138.6301679384987,-34.97015257662751,0 138.630167696798,-34.97015139754528,0 138.6301672267574,-34.97015026612424,0 138.6301665407379,-34.97014921211785,0 138.6301656567799,-34.97014826324378,0 138.6301645981294,-34.97014744445496,0 138.6301633926261,-34.97014677728338,0 138.6301620719717,-34.97014627927399,0 138.6301606708958,-34.97014596352314,0 138.6301592262432,-34.97014583833423,0 138.6301578289454,-34.97014590105168,0 138.6301564605639,-34.97014614213759,0 138.6301551544929,-34.97014655570845,0 138.6301539426063,-34.97014713167133,0 138.6301528544796,-34.97014785597023,0 138.6301519166675,-34.97014871092911,0 138.6301511520568,-34.97014967568326,0 138.6301505793074,-34.97015072668855,0 138.6301502123968,-34.97015183829583,0 138.6301487747901,-34.97015088432856,0 138.6301471843453,-34.97015011201815,0 138.630145474674,-34.97014953768611,0 138.6301436819072,-34.97014917347003,0 138.6301418439321,-34.97014902706705,0 138.6301397146119,-34.97014913298076,0 138.6301376368511,-34.97014953072088,0 138.6301356692504,-34.97015020906964,0 138.6301338673034,-34.97015114889505,0 138.6301322818318,-34.97015232369056,0 138.6301309575517,-34.97015370032251,0 138.6301299318129,-34.97015523996474,0 138.630129233545,-34.97015689919363,0 138.6301288824419,-34.97015863121268,0 138.6301288884058,-34.97016038717251,0 138.6301292512689,-34.97016211754844,0 138.6301299607968,-34.97016377353743,0 138.6301309969782,-34.97016530843435,0 138.6301323305891,-34.9701666789494,0 138.6301339240165,-34.97016784642889,0 138.6301357323199,-34.9701687779455,0 138.6301377044984,-34.97016944722702,0 138.6301397849291,-34.97016983539716,0 138.630141914936,-34.97016993150806,0 138.630144034445,-34.97016973284907,0 138.630146083678,-34.9701692450231,0 138.630146068059,-34.97017147375591,0 138.6301465225221,-34.97017367090589,0 138.6301474332771,-34.97017576980344,0 138.6301487726886,-34.97017770676033,0 138.6301505001139,-34.97017942300221,0 138.6301525631365,-34.970180866452,0 138.630154899157,-34.97018199331017,0 138.6301574372917,-34.97018276938368,0 138.6301601005245,-34.97018317112367,0 138.630162808043,-34.97018318633981,0 138.6301654776913,-34.97018281457039,0 138.6301680284624,-34.97018206709631,0 138.6301703829565,-34.97018096659859,0 138.6301724697298,-34.97017954647048,0 138.6301742254618,-34.97017784980374,0 138.6301755968773,-34.97017592808158,0 138.6301765423625,-34.97017383961596,0 138.6301770332279,-34.97017164777868,0 138.630177054579,-34.97016941907804,0 138.6301766057678,-34.97016722114095,0 138.6301757004132,-34.97016512066088,0 138.6301743659867,-34.97016318137405,0 138.6301726429798,-34.9701614621255,0 138.6301705836748,-34.97016001508349,0 138.6301682505587,-34.97015888415655,0 138.6301657144265,-34.97015810366112,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

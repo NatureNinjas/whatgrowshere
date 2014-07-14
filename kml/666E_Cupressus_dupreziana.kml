@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01626">
+			<name>Saharan Cypress, Moroccan Cypress</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Saharan Cypress, Moroccan Cypress</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1627</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>666E</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Cupressus dupreziana</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Saharan Cypress, Moroccan Cypress</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>666E</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>CUPRESSACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Central Sahara</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2006</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>666.5</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>F7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6298860794046,-34.96706433302698,0 138.6298848430552,-34.96706439779229,0 138.6298836391506,-34.96706463830427,0 138.6298825042709,-34.9670650472551,0 138.6298814728988,-34.96706561221902,0 138.6298805763721,-34.96706631602993,0 138.6298798419311,-34.96706713730282,0 138.6298792918916,-34.96706805108379,0 138.6298789429663,-34.96706902960805,0 138.6298788057571,-34.96707004314364,0 138.629878884433,-34.96707106089477,0 138.6298791766035,-34.96707205193764,0 138.6298796733911,-34.96707298615988,0 138.6298803597012,-34.96707383517558,0 138.6298812146806,-34.96707457318791,0 138.6298822123513,-34.96707517777268,0 138.6298833223994,-34.96707563055989,0 138.6298845110968,-34.96707591779183,0 138.6298857423254,-34.9670760307411,0 138.629886978675,-34.9670759659758,0 138.6298881825798,-34.96707572546381,0 138.6298893174596,-34.96707531651291,0 138.6298903488318,-34.96707475154892,0 138.6298912453586,-34.96707404773795,0 138.6298919797994,-34.96707322646498,0 138.6298925298387,-34.96707231268396,0 138.6298928787639,-34.96707133415966,0 138.629893015973,-34.96707032062404,0 138.6298929372969,-34.9670693028729,0 138.6298926451263,-34.96706831183008,0 138.6298921483386,-34.96706737760789,0 138.6298914620284,-34.96706652859222,0 138.629890607049,-34.96706579057998,0 138.6298896093783,-34.96706518599528,0 138.6298884993303,-34.96706473320814,0 138.6298873106331,-34.96706444597621,0 138.6298860794046,-34.96706433302698,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

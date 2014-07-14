@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01937">
+			<name>Menzies Banksia, Firewood Banksia</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Menzies Banksia, Firewood Banksia</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1942</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>1328</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Banksia menziesii  (dwarf cultivar)</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Menzies Banksia, Firewood Banksia</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>1328</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PROTEACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>cultivar</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1995</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>1328</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>F15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6305093536336,-34.9697268054541,0 138.6305056137549,-34.96972700137298,0 138.6305019720229,-34.96972772889672,0 138.6304985390896,-34.96972896591988,0 138.6304954192631,-34.96973067485616,0 138.6304927073374,-34.96973280378043,0 138.6304904857132,-34.96973528800642,0 138.6304888218934,-34.96973805205223,0 138.6304877664324,-34.96974101193373,0 138.6304873513998,-34.96974407771646,0 138.6304875894063,-34.96974715624815,0 138.6304884732202,-34.96975015398919,0 138.6304899759874,-34.96975297985471,0 138.6304920520472,-34.9697555479822,0 138.6304946383194,-34.96975778034037,0 138.6304976562217,-34.96975960910016,0 138.6305010140564,-34.96976097869553,0 138.6305046097974,-34.96976184751207,0 138.63050833419,-34.96976218915115,0 138.6305120740703,-34.96976199323226,0 138.6305157158037,-34.96976126570828,0 138.6305191487382,-34.96976002868468,0 138.6305222685654,-34.96975831974781,0 138.6305249804912,-34.96975619082289,0 138.630527202115,-34.96975370659626,0 138.6305288659339,-34.96975094254989,0 138.6305299213937,-34.96974798266798,0 138.6305303364247,-34.96974491688505,0 138.6305300984166,-34.96974183835338,0 138.6305292146012,-34.96973884061258,0 138.6305277118328,-34.9697360147475,0 138.6305256357724,-34.96973344662059,0 138.6305230494999,-34.96973121426305,0 138.6305200315981,-34.96972938550394,0 138.6305166737644,-34.9697280159091,0 138.6305130780246,-34.96972714709298,0 138.6305093536336,-34.9697268054541,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01632">
+			<name>Oriental Strawberry Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Oriental Strawberry Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1633</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>820B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Arbutus andrachne</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Oriental Strawberry Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>820B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ERICACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>E. Mediterranean</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1968</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>820.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>C7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6287220052233,-34.96742202645564,0 138.6287190108036,-34.96742218328611,0 138.6287160949585,-34.96742276577096,0 138.6287133462847,-34.96742375621167,0 138.628710848299,-34.96742512451421,0 138.6287086769016,-34.96742682910343,0 138.6287068980691,-34.96742881818625,0 138.6287055658507,-34.96743103132544,0 138.628704720725,-34.96743340127588,0 138.6287043883708,-34.96743585602783,0 138.6287045788866,-34.96743832099493,0 138.6287052864836,-34.96744072128038,0 138.6287064896621,-34.96744298395272,0 138.628708151864,-34.96744504026176,0 138.6287102225842,-34.96744682772762,0 138.6287126389048,-34.967448292039,0 138.6287153274072,-34.96744938870353,0 138.6287182064027,-34.96745008439961,0 138.6287211884143,-34.96745035798883,0 138.628724182835,-34.96745020115831,0 138.628727098681,-34.96744961867333,0 138.6287298473556,-34.96744862823233,0 138.6287323453417,-34.96744725992942,0 138.6287345167392,-34.96744555533979,0 138.6287362955714,-34.96744356625655,0 138.6287376277892,-34.96744135311701,0 138.6287384729141,-34.9674389831663,0 138.6287388052673,-34.96743652841421,0 138.6287386147505,-34.96743406344714,0 138.6287379071525,-34.96743166316186,0 138.6287367039733,-34.9674294004898,0 138.628735041771,-34.96742734418113,0 138.6287329710507,-34.96742555671567,0 138.6287305547303,-34.96742409240472,0 138.6287278662285,-34.96742299574054,0 138.6287249872339,-34.96742230004472,0 138.6287220052233,-34.96742202645564,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

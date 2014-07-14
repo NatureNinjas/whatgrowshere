@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01899">
+			<name>Native Elderberry, Yellow Elderberry</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Native Elderberry, Yellow Elderberry</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1904</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2979A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Sambucus australasica</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Native Elderberry, Yellow Elderberry</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2979A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ADOXACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Vic., NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2979.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6330326874486,-34.97009147616585,0 138.6330306668002,-34.97009158206178,0 138.6330286991891,-34.97009197518079,0 138.6330268444,-34.97009264357813,0 138.6330251587899,-34.97009356694491,0 138.6330236935751,-34.97009471722512,0 138.6330224932754,-34.97009605946807,0 138.6330215943613,-34.97009755289039,0 138.633021024146,-34.97009915211522,0 138.6330207999551,-34.9701008085509,0 138.6330209286005,-34.9701024718675,0 138.6330214061735,-34.97010409152599,0 138.6330222181632,-34.97010561831387,0 138.6330233398979,-34.97010700584042,0 138.6330247372941,-34.97010821194635,0 138.6330263678927,-34.97010919998476,0 138.6330281821487,-34.97010993993458,0 138.6330301249369,-34.97011040931279,0 138.6330321372267,-34.97011059385758,0 138.6330341578756,-34.97011048796165,0 138.6330361254872,-34.97011009484258,0 138.6330379802766,-34.9701094264451,0 138.6330396658869,-34.97010850307814,0 138.6330411311018,-34.97010735279776,0 138.6330423314013,-34.97010601055462,0 138.6330432303151,-34.97010451713214,0 138.6330438005301,-34.97010291790719,0 138.6330440247205,-34.97010126147143,0 138.6330438960746,-34.97009959815485,0 138.6330434185012,-34.97009797849641,0 138.6330426065111,-34.97009645170871,0 138.6330414847762,-34.97009506418231,0 138.63304008738,-34.97009385807655,0 138.6330384567816,-34.97009287003834,0 138.6330366425258,-34.97009213008868,0 138.633034699738,-34.97009166071059,0 138.6330326874486,-34.97009147616585,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

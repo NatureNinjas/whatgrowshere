@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01650">
+			<name>Chinese Flame Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Chinese Flame Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1653</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>810A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Koelreuteria bipinnata</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Chinese Flame Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>810A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>SAPINDACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>China</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>810.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>D7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6290064317356,-34.96726232865467,0 138.6290035590423,-34.96726247911712,0 138.6290007617311,-34.96726303793128,0 138.6289981247967,-34.96726398811793,0 138.6289957283612,-34.96726530080613,0 138.6289936452389,-34.96726693611049,0 138.6289919387245,-34.96726884434317,0 138.6289906606696,-34.9672709675235,0 138.6289898499071,-34.96727324113972,0 138.6289895310719,-34.96727559610916,0 138.6289897138515,-34.9672779608773,0 138.6289903926923,-34.9672802635918,0 138.6289915469683,-34.96728243428591,0 138.6289931416071,-34.96728440700412,0 138.6289951281567,-34.9672861218064,0 138.6289974462567,-34.96728752658931,0 138.6290000254728,-34.96728857866923,0 138.6290027874368,-34.96728924607923,0 138.6290056482278,-34.96728950854038,0 138.629008520922,-34.96728935807794,0 138.6290113182342,-34.96728879926361,0 138.6290139551691,-34.96728784907673,0 138.6290163516051,-34.96728653638816,0 138.6290184347275,-34.96728490108342,0 138.6290201412416,-34.96728299285037,0 138.629021419296,-34.9672808696697,0 138.6290222300577,-34.96727859605326,0 138.6290225488921,-34.96727624108368,0 138.6290223661115,-34.96727387631558,0 138.6290216872698,-34.96727157360119,0 138.6290205329931,-34.96726940290736,0 138.6290189383539,-34.96726743018949,0 138.6290169518042,-34.96726571538761,0 138.6290146337045,-34.96726431060506,0 138.6290120544888,-34.96726325852547,0 138.6290092925257,-34.96726259111568,0 138.6290064317356,-34.96726232865467,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

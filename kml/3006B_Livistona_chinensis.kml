@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01771">
+			<name>Chinese Fan Palm, Chinese Fountain Palm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Chinese Fan Palm, Chinese Fountain Palm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1774</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>3006B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Livistona chinensis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Chinese Fan Palm, Chinese Fountain Palm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>3006B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PALMAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Japan, China</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>3006.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6335315394485,-34.96861674568425,0 138.6335296133261,-34.96861684663751,0 138.6335277377619,-34.96861722138241,0 138.6335259697438,-34.96861785853245,0 138.6335243629923,-34.96861873872816,0 138.6335229663277,-34.96861983522528,0 138.6335218221868,-34.96862111470725,0 138.6335209653338,-34.96862253829772,0 138.6335204218038,-34.96862406274161,0 138.6335202081118,-34.96862564171945,0 138.6335203307505,-34.96862722725482,0 138.6335207859938,-34.96862877117204,0 138.6335215600093,-34.96863022655989,0 138.633522629279,-34.96863154919723,0 138.6335239613136,-34.96863269889634,0 138.63352551564,-34.96863364072421,0 138.6335272450307,-34.96863434606386,0 138.633529096939,-34.96863479348387,0 138.6335310150957,-34.96863496938966,0 138.6335329412185,-34.96863486843634,0 138.6335348167831,-34.96863449369141,0 138.6335365848014,-34.96863385654127,0 138.6335381915531,-34.96863297634538,0 138.6335395882179,-34.9686318798481,0 138.6335407323587,-34.96863060036594,0 138.6335415892114,-34.96862917677534,0 138.633542132741,-34.96862765233134,0 138.6335423464327,-34.96862607335343,0 138.6335422237935,-34.96862448781809,0 138.6335417685498,-34.96862294390095,0 138.633540994534,-34.96862148851318,0 138.6335399252641,-34.968620165876,0 138.6335385932295,-34.96861901617706,0 138.6335370389032,-34.96861807434937,0 138.6335353095128,-34.96861736900988,0 138.6335334576048,-34.96861692158996,0 138.6335315394485,-34.96861674568425,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

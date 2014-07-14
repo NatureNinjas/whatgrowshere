@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01686">
+			<name>Chinese Elm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Chinese Elm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1689</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>634C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Ulmus parvifolia ‘Yarralumla’</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Chinese Elm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>634C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ULMACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>cultivar</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2004</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>634.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E13</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6301012597418,-34.96949808837107,0 138.6300922270797,-34.96949856153159,0 138.6300834314577,-34.96950031864306,0 138.630075140126,-34.96950330631666,0 138.6300676050122,-34.96950743377347,0 138.6300610550668,-34.96951257560303,0 138.6300556893064,-34.96951857557358,0 138.6300516707671,-34.96952525137925,0 138.6300491215505,-34.96953240017918,0 138.6300481191134,-34.96953980476081,0 138.6300486939149,-34.96954724013974,0 138.6300508284903,-34.96955448039579,0 138.6300544579821,-34.96956130553728,0 138.6300594721102,-34.96956750818567,0 138.6300657185232,-34.96957289987648,0 138.6300730074269,-34.96957731678577,0 138.6300811173515,-34.96958062470776,0 138.630089801881,-34.96958272313283,0 138.6300987971398,-34.96958354830122,0 138.6301078298113,-34.9695830751406,0 138.6301166254418,-34.9695813180277,0 138.6301249167802,-34.96957833035157,0 138.630132451898,-34.96957420289137,0 138.6301390018444,-34.96956906105802,0 138.6301443676024,-34.96956306108373,0 138.6301483861364,-34.9695563852748,0 138.6301509353454,-34.9695492364725,0 138.6301519377734,-34.96954183188965,0 138.6301513629625,-34.96953439651082,0 138.6301492283785,-34.96952715625621,0 138.6301455988801,-34.96952033111726,0 138.6301405847479,-34.96951412847223,0 138.6301343383341,-34.9695087367852,0 138.6301270494328,-34.96950431987968,0 138.6301189395134,-34.96950101196094,0 138.6301102549916,-34.96949891353828,0 138.6301012597418,-34.96949808837107,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

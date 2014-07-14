@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02010">
+			<name>Weeping Pittosporum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Weeping Pittosporum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2015</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>273</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Pittosporum angustifolium</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Weeping Pittosporum</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>273</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PITTOSPORACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, WA, Vic., NSW, Qld, NT</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1985</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>273</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6313574280494,-34.96746752810359,0 138.6313561178969,-34.96746759675038,0 138.6313548421293,-34.96746785163376,0 138.6313536395102,-34.96746828500926,0 138.6313525465805,-34.96746888370898,0 138.6313515965485,-34.96746962954172,0 138.6313508182801,-34.96747049984574,0 138.631350235423,-34.96747146817731,0 138.6313498656867,-34.96747250511416,0 138.6313497203056,-34.96747357914951,0 138.6313498036971,-34.96747465764928,0 138.6313501133272,-34.96747570784388,0 138.6313506397881,-34.96747669782361,0 138.6313513670837,-34.96747759750848,0 138.6313522731151,-34.96747837956199,0 138.6313533303533,-34.96747902022187,0 138.6313545066746,-34.96747950002195,0 138.631355766337,-34.96747980438376,0 138.6313570710664,-34.9674799240594,0 138.6313583812191,-34.96747985541265,0 138.6313596569869,-34.96747960052921,0 138.6313608596062,-34.96747916715367,0 138.6313619525359,-34.96747856845386,0 138.631362902568,-34.96747782262106,0 138.6313636808362,-34.96747695231694,0 138.6313642636933,-34.9674759839853,0 138.6313646334294,-34.9674749470484,0 138.6313647788103,-34.96747387301305,0 138.6313646954187,-34.96747279451324,0 138.6313643857883,-34.96747174431872,0 138.6313638593273,-34.967470754339,0 138.6313631320317,-34.96746985465422,0 138.6313622260002,-34.96746907260077,0 138.631361168762,-34.96746843194102,0 138.6313599924408,-34.96746795214099,0 138.6313587327786,-34.96746764777925,0 138.6313574280494,-34.96746752810359,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01885">
+			<name>Small-leaved Tamarind</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Small-leaved Tamarind</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1890</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2990D</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Diploglottis campbellii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Small-leaved Tamarind</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2990D</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>SAPINDACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2990.4</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332192508719,-34.96995927806309,0 138.6332173611719,-34.96995937709963,0 138.6332155210727,-34.9699597447461,0 138.6332137864848,-34.96996036983174,0 138.6332122101127,-34.96996123336366,0 138.6332108398537,-34.96996230910386,0 138.6332097173425,-34.96996356436657,0 138.6332088766859,-34.96996496101126,0 138.6332083434269,-34.96996645660155,0 138.6332081337684,-34.96996800569476,0 138.6332082540806,-34.96996956122241,0 138.633208700708,-34.96997107592065,0 138.6332094600802,-34.96997250376612,0 138.6332105091239,-34.96997380137438,0 138.6332118159644,-34.96997492931833,0 138.6332133408942,-34.96997585332593,0 138.6332150375789,-34.96997654532169,0 138.6332168544658,-34.96997698427963,0 138.6332187363494,-34.96997715686227,0 138.6332206260499,-34.96997705782573,0 138.6332224661494,-34.96997669017921,0 138.6332242007377,-34.96997606509347,0 138.6332257771099,-34.96997520156138,0 138.6332271473689,-34.969974125821,0 138.63322826988,-34.96997287055815,0 138.6332291105364,-34.96997147391331,0 138.633229643795,-34.96996997832291,0 138.6332298534532,-34.96996842922965,0 138.6332297331405,-34.96996687370198,0 138.6332292865127,-34.96996535900382,0 138.6332285271402,-34.96996393115848,0 138.6332274780964,-34.96996263355034,0 138.6332261712558,-34.96996150560656,0 138.6332246463261,-34.96996058159911,0 138.6332229496416,-34.96995988960352,0 138.6332211327552,-34.96995945064568,0 138.6332192508719,-34.96995927806309,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

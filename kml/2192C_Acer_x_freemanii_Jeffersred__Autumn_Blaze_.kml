@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01722">
+			<name>Maple ‘Autumn Blaze’</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Maple ‘Autumn Blaze’</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1725</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2192C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Acer x freemanii ‘Jeffersred’  Autumn Blaze ®</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Maple ‘Autumn Blaze’</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2192C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ACERACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>cultivar</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2192.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>K15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6335992421548,-34.96992438952756,0 138.633596015494,-34.9699245586426,0 138.6335928735286,-34.96992518640882,0 138.6335899117257,-34.96992625375187,0 138.6335872200781,-34.9699277282411,0 138.6335848803701,-34.96992956507488,0 138.6335829636926,-34.96993170844207,0 138.6335815282828,-34.96993409321744,0 138.633580617755,-34.96993664694085,0 138.6335802597752,-34.96993929201877,0 138.6335804652204,-34.96994194808183,0 138.6335812278483,-34.96994453442686,0 138.633582524487,-34.96994697246912,0 138.6335843157387,-34.96994918812985,0 138.6335865471773,-34.96995111408739,0 138.6335891510015,-34.96995269182239,0 138.6335920480956,-34.96995387339619,0 138.6335951504325,-34.96995462290725,0 138.6335983637496,-34.96995491758203,0 138.6336015904116,-34.96995474846697,0 138.6336047323781,-34.96995412070057,0 138.6336076941818,-34.9699530533572,0 138.63361038583,-34.96995157886751,0 138.633612725538,-34.96994974203324,0 138.6336146422153,-34.96994759866561,0 138.6336160776243,-34.96994521388983,0 138.6336169881512,-34.96994266016609,0 138.6336173461298,-34.96994001508801,0 138.6336171406834,-34.969937359025,0 138.6336163780544,-34.96993477268012,0 138.6336150814149,-34.9699323346382,0 138.6336132901626,-34.96993011897788,0 138.633611058724,-34.96992819302084,0 138.6336084549,-34.96992661528632,0 138.6336055578067,-34.96992543371291,0 138.6336024554707,-34.96992468420218,0 138.6335992421548,-34.96992438952756,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

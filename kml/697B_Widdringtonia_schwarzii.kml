@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01652">
+			<name>Willowmore Cedar, Baviaans Cedar, Willowmore Cypress</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Willowmore Cedar, Baviaans Cedar, Willowmore Cypress</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1655</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>697B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Widdringtonia schwarzii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Willowmore Cedar, Baviaans Cedar, Willowmore Cypress</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>697B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>CUPRESSACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>South Africa</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2012</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>697.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6292671843298,-34.96721279568798,0 138.6292641088672,-34.96721295677762,0 138.6292611141091,-34.96721355504271,0 138.6292582910494,-34.96721457230526,0 138.6292557254653,-34.96721597765627,0 138.6292534953109,-34.9672177283949,0 138.6292516683483,-34.96721977132586,0 138.6292503000888,-34.9672220443757,0 138.6292494321063,-34.96722447847903,0 138.629249090774,-34.96722699967684,0 138.6292492864633,-34.96722953136382,0 138.6292500132281,-34.96723199661591,0 138.6292512489863,-34.96723432052771,0 138.62925295619,-34.96723643248831,0 138.6292550829665,-34.96723826832681,0 138.6292575646951,-34.96723977226222,0 138.6292603259694,-34.96724089859816,0 138.6292632828896,-34.96724161311148,0 138.6292663456112,-34.96724189409203,0 138.6292694210748,-34.96724173300238,0 138.629272415834,-34.96724113473712,0 138.6292752388945,-34.96724011747427,0 138.629277804479,-34.96723871212287,0 138.6292800346335,-34.96723696138382,0 138.6292818615958,-34.96723491845242,0 138.6292832298547,-34.96723264540218,0 138.6292840978363,-34.96723021129861,0 138.6292844391676,-34.96722769010066,0 138.6292842434772,-34.96722515841368,0 138.6292835167114,-34.96722269316176,0 138.6292822809524,-34.96722036925026,0 138.6292805737483,-34.96721825729003,0 138.6292784469716,-34.96721642145197,0 138.6292759652434,-34.96721491751701,0 138.6292732039697,-34.96721379118144,0 138.6292702470503,-34.96721307666839,0 138.6292671843298,-34.96721279568798,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

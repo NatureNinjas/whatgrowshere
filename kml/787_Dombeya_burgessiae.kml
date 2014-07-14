@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01645">
+			<name>Pink Dombeya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pink Dombeya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1646</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>787</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Dombeya burgessiae</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Pink Dombeya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>787</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>BYTTNERIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>S. Africa</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1998</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>787</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>C7</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6282227205325,-34.96702308161753,0 138.6282282692851,-34.96702539428647,0 138.6282342074943,-34.96702691641831,0 138.6282403702967,-34.96702760575384,0 138.6282465865937,-34.967027443155,0 138.6282526838014,-34.967026433136,0 138.6282584926423,-34.9670246037381,0 138.6282638518449,-34.96702200575111,0 138.6282686126208,-34.9670187113033,0 138.6282726427964,-34.96701481185878,0 138.6282758304814,-34.96701041567827,0 138.6282780871758,-34.9670056448135,0 138.628279350227,-34.96700063171842,0 138.6282795845689,-34.96699551557219,0 138.6282787836958,-34.96699043841484,0 138.6282769698423,-34.96698554120398,0 138.6282741933671,-34.96698095990134,0 138.6282705313536,-34.966976821698,0 138.6282660854709,-34.96697324148323,0 138.6282609791503,-34.9669703186548,0 138.6282553541592,-34.96696813435938,0 138.6282493666645,-34.96696674923977,0 138.6282431828975,-34.96696620175107,0 138.6282370601271,-34.96696649702616,0 138.628231078751,-34.96696761369416,0 138.6282254002614,-34.96696952160586,0 138.6282201779728,-34.96697216924929,0 138.6282155528826,-34.96697548514033,0 138.6282116498645,-34.96697937975261,0 138.6282085742968,-34.96698374793489,0 138.6282064092175,-34.96698847174982,0 138.6282052130819,-34.96699342365832,0 138.6281994505502,-34.96699107977099,0 138.6281932819572,-34.96698959290149,0 138.6281868937553,-34.96698900799196,0 138.6281805929133,-34.96698932867025,0 138.628174450202,-34.96699052710266,0 138.6281686447225,-34.96699256834683,0 138.6281633457432,-34.96699539288687,0 138.628158707765,-34.96699891836857,0 138.6281548660157,-34.96700304200058,0 138.6281519325084,-34.96700764355147,0 138.6281499927744,-34.96701258885525,0 138.6281491033703,-34.96701773372321,0 138.6281492902282,-34.96702292814796,0 138.6281505479003,-34.9670280206772,0 138.6281528397171,-34.96703286282956,0 138.628156098857,-34.96703731342376,0 138.6281602302943,-34.96704124269505,0 138.6281651135699,-34.96704453607879,0 138.6281706063036,-34.96704709755066,0 138.6281765483452,-34.96704885242651,0 138.6281827664443,-34.96704974953988,0 138.6281890793015,-34.96704976273385,0 138.6281953028542,-34.96704889162373,0 138.6282012556443,-34.96704716160824,0 138.6282067641075,-34.96704462312899,0 138.6282116676353,-34.96704135019973,0 138.6282158232569,-34.96703743824835,0 138.628219109808,-34.96703300133456,0 138.6282214314638,-34.96702816882425,0 138.6282227205325,-34.96702308161753,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

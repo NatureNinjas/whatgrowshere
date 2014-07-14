@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02017">
+			<name>Leopard Ash, Broad-leaved Leopard Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Leopard Ash, Broad-leaved Leopard Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2022</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>174</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Flindersia collina</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Leopard Ash, Broad-leaved Leopard Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>174</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>RUTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Qld, NSW</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2005</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>174</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6318683717867,-34.96928966097696,0 138.6318664595599,-34.96928976117415,0 138.6318645975209,-34.96929013318587,0 138.6318628422467,-34.96929076570875,0 138.6318612470705,-34.96929163952386,0 138.6318598604607,-34.96929272808083,0 138.6318587245489,-34.9692939983044,0 138.6318578738492,-34.96929541159943,0 138.6318573342097,-34.96929692502376,0 138.631857122027,-34.9692984925927,0 138.6318572437482,-34.96930006667646,0 138.631857695675,-34.96930159944733,0 138.6318584640758,-34.96930304433284,0 138.631859525603,-34.96930435743084,0 138.6318608480028,-34.96930549884356,0 138.6318623910948,-34.96930643388965,0 138.6318641079927,-34.96930713415829,0 138.6318659465296,-34.96930757837215,0 138.6318678508424,-34.96930775303395,0 138.6318697630696,-34.96930765283677,0 138.631871625109,-34.96930728082498,0 138.6318733803835,-34.96930664830199,0 138.6318749755599,-34.96930577448672,0 138.6318763621697,-34.96930468592958,0 138.6318774980814,-34.96930341570585,0 138.6318783487808,-34.96930200241064,0 138.6318788884201,-34.96930048898623,0 138.6318791006023,-34.96929892141725,0 138.6318789788807,-34.96929734733347,0 138.6318785269536,-34.96929581456266,0 138.6318777585525,-34.96929436967729,0 138.631876697025,-34.96929305657942,0 138.6318753746252,-34.96929191516691,0 138.6318738315333,-34.96929098012095,0 138.6318721146356,-34.96929027985247,0 138.6318702760991,-34.96928983563872,0 138.6318683717867,-34.96928966097696,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

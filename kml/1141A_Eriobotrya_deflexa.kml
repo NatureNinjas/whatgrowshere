@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01630">
+			<name>Bronze Loquat</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bronze Loquat</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1631</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>1141A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Eriobotrya deflexa</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Bronze Loquat</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>1141A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ROSACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Taiwan, China, S. Vietnam</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>1141.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6309385410949,-34.9679625347959,0 138.630937310899,-34.96796259924833,0 138.6309361129885,-34.96796283857061,0 138.6309349837615,-34.96796324549111,0 138.6309339575288,-34.96796380764573,0 138.6309330654722,-34.96796450795369,0 138.6309323346962,-34.96796532513649,0 138.6309317874051,-34.96796623436448,0 138.6309314402281,-34.96796720801117,0 138.6309313037139,-34.96796821649288,0 138.6309313820106,-34.96796922916731,0 138.630931672739,-34.96797021526491,0 138.6309321670657,-34.96797114482361,0 138.6309328499706,-34.96797198959922,0 138.6309337007042,-34.96797272392367,0 138.6309346934172,-34.96797332548488,0 138.6309357979467,-34.96797377600471,0 138.630936980732,-34.96797406179434,0 138.6309382058347,-34.96797417417015,0 138.6309394360308,-34.96797410971777,0 138.6309406339414,-34.96797387039543,0 138.6309417631685,-34.9679734634749,0 138.6309427894012,-34.96797290132022,0 138.6309436814579,-34.96797220101218,0 138.6309444122339,-34.96797138382932,0 138.6309449595249,-34.96797047460127,0 138.6309453067018,-34.96796950095453,0 138.6309454432158,-34.96796849247282,0 138.6309453649189,-34.96796747979838,0 138.6309450741903,-34.96796649370079,0 138.6309445798635,-34.96796556414214,0 138.6309438969585,-34.9679647193666,0 138.630943046225,-34.96796398504221,0 138.6309420535119,-34.96796338348106,0 138.6309409489826,-34.96796293296131,0 138.6309397661975,-34.96796264717174,0 138.6309385410949,-34.9679625347959,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

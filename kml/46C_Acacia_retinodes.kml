@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01708">
+			<name>Wirilda, Swamp Wattle, Silver Wattle</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Wirilda, Swamp Wattle, Silver Wattle</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1711</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>46C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Acacia retinodes</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Wirilda, Swamp Wattle, Silver Wattle</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>46C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LEGUMINOSAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>46.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6315096259189,-34.97015582958709,0 138.631507818584,-34.970155924281,0 138.6315060586826,-34.97015627587689,0 138.6315043996883,-34.97015687369169,0 138.6315028920089,-34.97015769956111,0 138.6315015814544,-34.97015872839152,0 138.6315005078454,-34.97015992892248,0 138.6314997038028,-34.97016126467641,0 138.6314991937573,-34.97016269506714,0 138.6314989932062,-34.97016417663297,0 138.6314991082432,-34.97016566435729,0 138.631499535373,-34.97016711303632,0 138.6315002616175,-34.9701684786527,0 138.6315012649101,-34.97016971971284,0 138.6315025147663,-34.97017079850778,0 138.6315039732098,-34.97017168225886,0 138.6315055959266,-34.97017234411374,0 138.6315073336112,-34.9701727639623,0 138.631509133465,-34.97017292904764,0 138.6315109408003,-34.97017283435373,0 138.6315127007021,-34.97017248275777,0 138.6315143596966,-34.97017188494286,0 138.6315158673762,-34.97017105907329,0 138.6315171779307,-34.97017003024271,0 138.6315182515397,-34.97016882971164,0 138.631519055582,-34.97016749395757,0 138.6315195656272,-34.97016606356673,0 138.631519766178,-34.97016458200086,0 138.6315196511405,-34.97016309427656,0 138.6315192240105,-34.97016164559759,0 138.6315184977657,-34.97016027998131,0 138.6315174944729,-34.97015903892129,0 138.6315162446167,-34.9701579601265,0 138.6315147861733,-34.97015707637557,0 138.6315131634566,-34.97015641452083,0 138.6315114257723,-34.97015599467235,0 138.6315096259189,-34.97015582958709,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01922">
+			<name>Deep Yellow Wood, Tulip Satinwood</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Deep Yellow Wood, Tulip Satinwood</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1927</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2932</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Rhodosphaera rhodanthema</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Deep Yellow Wood, Tulip Satinwood</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2932</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ANACARDIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2007</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2932</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6332338324993,-34.97024499187294,0 138.6332307122228,-34.97024515540159,0 138.6332276738473,-34.97024576245795,0 138.6332248096921,-34.97024679459685,0 138.6332222067833,-34.97024822045732,0 138.6332199442087,-34.97024999671535,0 138.6332180907156,-34.97025206940023,0 138.6332167026215,-34.9702543755345,0 138.6332158221029,-34.97025684504747,0 138.6332154759139,-34.97025940290423,0 138.6332156745735,-34.9702619713856,0 138.6332164120454,-34.97026447244963,0 138.633217665922,-34.97026683010268,0 138.633219398105,-34.97026897270865,0 138.6332215559628,-34.97027083516558,0 138.6332240739301,-34.97027236088356,0 138.6332268754996,-34.97027350350446,0 138.6332298755471,-34.97027422831027,0 138.6332329829177,-34.97027451327815,0 138.6332361031953,-34.97027434974947,0 138.6332391415718,-34.97027374269297,0 138.6332420057277,-34.97027271055374,0 138.6332446086371,-34.97027128469287,0 138.6332468712118,-34.97026950843439,0 138.6332487247046,-34.97026743574907,0 138.6332501127981,-34.9702651296144,0 138.6332509933158,-34.97026266010116,0 138.6332513395036,-34.97026010224425,0 138.633251140843,-34.97025753376288,0 138.63325040337,-34.97025503269904,0 138.6332491494926,-34.97025267504628,0 138.6332474173092,-34.97025053244071,0 138.6332452594512,-34.97024866998424,0 138.6332427414842,-34.9702471442667,0 138.6332399399153,-34.9702460016462,0 138.6332369398687,-34.97024527684064,0 138.6332338324993,-34.97024499187294,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

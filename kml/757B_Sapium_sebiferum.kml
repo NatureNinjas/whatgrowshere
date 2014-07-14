@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01634">
+			<name>Chinese Tallow Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Chinese Tallow Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1635</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>757B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Sapium sebiferum</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Chinese Tallow Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>757B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>EUPHORBIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>China, Japan</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2010</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>757.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>D8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6287996665197,-34.9676437204643,0 138.6287976508953,-34.96764382603192,0 138.6287956881619,-34.96764421811815,0 138.6287938379561,-34.96764488480962,0 138.6287921564955,-34.96764580584929,0 138.6287906948705,-34.96764695325186,0 138.6287894974917,-34.96764829215405,0 138.6287886007409,-34.96764978187404,0 138.6287880318655,-34.96765137714739,0 138.6287878081503,-34.9676530295026,0 138.628787936393,-34.96765468873366,0 138.628788412697,-34.96765630442568,0 138.62878922259,-34.96765782748668,0 138.6287903414639,-34.96765921163918,0 138.6287917353222,-34.96766041482647,0 138.6287933618133,-34.96766140049024,0 138.6287951715171,-34.96766213868162,0 138.6287971094465,-34.96766260697102,0 138.6287991167187,-34.96766279112968,0 138.6288011323435,-34.96766268556207,0 138.6288030950773,-34.96766229347576,0 138.6288049452834,-34.96766162678417,0 138.6288066267442,-34.96766070574432,0 138.6288080883693,-34.96765955834158,0 138.628809285748,-34.96765821943918,0 138.6288101824985,-34.96765672971905,0 138.6288107513736,-34.96765513444555,0 138.6288109750882,-34.96765348209028,0 138.628810846845,-34.96765182285926,0 138.6288103705407,-34.96765020716731,0 138.6288095606473,-34.96764868410644,0 138.6288084417733,-34.96764729995407,0 138.6288070479149,-34.96764609676699,0 138.6288054214239,-34.96764511110341,0 138.6288036117204,-34.9676443729122,0 138.6288016737913,-34.96764390462293,0 138.6287996665197,-34.9676437204643,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

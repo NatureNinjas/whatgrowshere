@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01678">
+			<name>Mitchell’s Caper or Native Orange</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Mitchell’s Caper or Native Orange</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1681</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>222</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Capparis mitchellii</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Mitchell’s Caper or Native Orange</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>222</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>CAPPARACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, WA, Vic., NSW, NT, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1981</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>222</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6316198194337,-34.9686451949021,0 138.6316173034034,-34.96864532673416,0 138.631614853407,-34.96864581621165,0 138.6316125438866,-34.96864664846205,0 138.6316104450156,-34.96864779819783,0 138.6316086205672,-34.96864923048491,0 138.6316071259765,-34.96865090180396,0 138.6316060066556,-34.9686527613728,0 138.6316052966147,-34.9686547526894,0 138.6316050174279,-34.96865681524864,0 138.6316051775784,-34.96865888638064,0 138.6316057722,-34.96866090315518,0 138.6316067832255,-34.96866280429352,0 138.6316081799354,-34.96866453203054,0 138.6316099198914,-34.96866603386985,0 138.6316119502259,-34.96866726417878,0 138.631614209248,-34.96866818557498,0 138.6316166283186,-34.96866877006233,0 138.6316191339355,-34.96866899988144,0 138.6316216499666,-34.96866886804936,0 138.6316240999635,-34.96866837857175,0 138.6316264094845,-34.96866754632118,0 138.6316285083557,-34.96866639658511,0 138.6316303328042,-34.96866496429774,0 138.6316318273948,-34.96866329297841,0 138.6316329467153,-34.96866143340931,0 138.6316336567556,-34.96865944209252,0 138.6316339359416,-34.96865737953323,0 138.6316337757904,-34.9686553084012,0 138.6316331811681,-34.96865329162679,0 138.6316321701421,-34.96865139048865,0 138.6316307734319,-34.96864966275186,0 138.6316290334758,-34.96864816091285,0 138.6316270031416,-34.96864693060424,0 138.6316247441199,-34.96864600920828,0 138.6316223250498,-34.9686454247211,0 138.6316198194337,-34.9686451949021,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

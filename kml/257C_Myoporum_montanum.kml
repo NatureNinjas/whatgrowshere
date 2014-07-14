@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01623">
+			<name>Western Boobialla, Water Bush</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Western Boobialla, Water Bush</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1624</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>257C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Myoporum montanum</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Western Boobialla, Water Bush</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>257C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>MYOPORACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, WA, Vic., NSW, Qld, NT</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2011</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>257.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>I8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6323272665113,-34.96764837405584,0 138.6323260858222,-34.9676484359285,0 138.6323249361221,-34.96764866563416,0 138.6323238523443,-34.96764905619339,0 138.6323228674187,-34.96764959573922,0 138.6323220112718,-34.96765026787783,0 138.6323213099172,-34.96765105218663,0 138.6323207846653,-34.96765192483478,0 138.6323204514754,-34.96765285930735,0 138.6323203204714,-34.96765382721083,0 138.6323203956339,-34.96765479913598,0 138.6323206746791,-34.96765574555133,0 138.6323211491282,-34.96765663770056,0 138.6323218045654,-34.96765744847613,0 138.6323226210757,-34.96765815324306,0 138.6323235738498,-34.96765873058732,0 138.6323246339379,-34.96765916296664,0 138.6323257691301,-34.96765943724336,0 138.632326944934,-34.96765954508373,0 138.6323281256233,-34.96765948321109,0 138.6323292753234,-34.96765925350537,0 138.6323303591014,-34.96765886294611,0 138.632331344027,-34.96765832340022,0 138.632332200174,-34.96765765126155,0 138.6323329015285,-34.96765686695269,0 138.6323334267804,-34.96765599430446,0 138.6323337599701,-34.96765505983188,0 138.6323338909739,-34.96765409192838,0 138.6323338158113,-34.96765312000323,0 138.632333536766,-34.96765217358789,0 138.6323330623168,-34.96765128143871,0 138.6323324068794,-34.9676504706632,0 138.6323315903692,-34.96764976589635,0 138.6323306375952,-34.96764918855214,0 138.6323295775071,-34.96764875617289,0 138.632328442315,-34.96764848189621,0 138.6323272665113,-34.96764837405584,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01552">
+			<name>Cyprian Cedar</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cyprian Cedar</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1552</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>1052</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Cedrus libani subsp. brevifolia</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Cyprian Cedar</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>1052</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PINACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Cyprus</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1998</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>1052</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>A5</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6272413075822,-34.96635141497298,0 138.627237941653,-34.96635159122383,0 138.6272346640388,-34.96635224594571,0 138.627231574328,-34.96635335924524,0 138.6272287664001,-34.96635489729537,0 138.6272263255725,-34.96635681336332,0 138.6272243260084,-34.96635904923025,0 138.6272228284636,-34.96636153696058,0 138.6272218784403,-34.9663642009659,0 138.6272215048045,-34.96636696030172,0 138.6272217189091,-34.96636973112706,0 138.6272225142484,-34.96637242925182,0 138.6272238666569,-34.96637497269479,0 138.627225735042,-34.96637728417471,0 138.627228062634,-34.96637929345847,0 138.6272307787102,-34.96638093949493,0 138.6272338007439,-34.96638217227012,0 138.6272370369122,-34.96638295432673,0 138.6272403888856,-34.96638326190239,0 138.6272437548161,-34.96638308565155,0 138.6272470324315,-34.96638243092946,0 138.6272501221432,-34.96638131762955,0 138.6272529300717,-34.96637977957894,0 138.6272553708994,-34.96637786351051,0 138.6272573704632,-34.96637562764304,0 138.6272588680072,-34.96637313991223,0 138.6272598180295,-34.9663704759066,0 138.627260191664,-34.96636771657062,0 138.6272599775583,-34.96636494574526,0 138.6272591822176,-34.96636224762073,0 138.6272578298083,-34.9663597041781,0 138.6272559614226,-34.96635739269864,0 138.6272536338304,-34.96635538341544,0 138.6272509177546,-34.96635373737948,0 138.6272478957216,-34.96635250460476,0 138.6272446595544,-34.96635172254848,0 138.6272413075822,-34.96635141497298,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

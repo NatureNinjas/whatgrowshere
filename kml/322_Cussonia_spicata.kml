@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01627">
+			<name>Cabbage Tree</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cabbage Tree</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1628</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>322</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Cussonia spicata</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Cabbage Tree</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>322</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ARALIACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>S. Africa to Zambia</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1976</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>322</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>G8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6306846375507,-34.96752071946089,0 138.6306782467045,-34.96752105427969,0 138.6306720235783,-34.96752229754927,0 138.6306661572584,-34.96752441149359,0 138.63066082599,-34.96752733188158,0 138.6306561917607,-34.96753096997878,0 138.6306523953793,-34.96753521524354,0 138.630649552197,-34.96753993868573,0 138.6306477486024,-34.96754499678603,0 138.6306470393972,-34.96755023585665,0 138.6306474461305,-34.96755549671113,0 138.6306489564438,-34.96756061950108,0 138.6306515244474,-34.96756544857303,0 138.630655072114,-34.96756983719808,0 138.6306594916495,-34.96757365202995,0 138.6306646487688,-34.96757677715686,0 138.6306703867751,-34.96757911762331,0 138.630676531322,-34.96758060231532,0 138.6306828957104,-34.96758118612124,0 138.6306892865613,-34.96758085130242,0 138.6306955096918,-34.96757960803214,0 138.630701376015,-34.96757749408651,0 138.6307067072855,-34.96757457369687,0 138.6307113415153,-34.96757093559774,0 138.6307151378954,-34.96756669033111,0 138.6307179810751,-34.96756196688727,0 138.6307197846658,-34.9675569087858,0 138.6307204938664,-34.96755166971458,0 138.6307200871286,-34.96754640886014,0 138.6307185768109,-34.96754128607092,0 138.6307160088039,-34.96753645700023,0 138.6307124611354,-34.96753206837688,0 138.6307080415994,-34.96752825354687,0 138.6307028844814,-34.96752512842186,0 138.6306971464776,-34.96752278795704,0 138.6306910019346,-34.96752130326621,0 138.6306846375507,-34.96752071946089,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

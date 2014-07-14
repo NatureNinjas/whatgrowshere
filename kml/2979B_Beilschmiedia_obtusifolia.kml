@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01900">
+			<name>Blush Walnut, Hard Bollygum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Blush Walnut, Hard Bollygum</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1905</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2979B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Beilschmiedia obtusifolia</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Blush Walnut, Hard Bollygum</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2979B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LAURACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2979.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6330501839816,-34.97007427834044,0 138.6330488923315,-34.97007434603203,0 138.6330476345841,-34.97007459732402,0 138.6330464489556,-34.97007502458098,0 138.6330453714706,-34.97007561482099,0 138.633044434868,-34.97007635010984,0 138.633043667606,-34.97007720810623,0 138.6330430929974,-34.97007816274029,0 138.6330427285014,-34.97007918500602,0 138.6330425851932,-34.97008024384235,0 138.6330426674269,-34.9700813070771,0 138.6330429727041,-34.97008234240442,0 138.6330434917489,-34.97008331836641,0 138.6330442087906,-34.97008420530895,0 138.6330451020422,-34.97008497628273,0 138.6330461443627,-34.97008560786213,0 138.6330473040815,-34.97008608085689,0 138.6330485459614,-34.9700863808953,0 138.6330498322685,-34.97008649886089,0 138.6330511239189,-34.97008643116926,0 138.6330523816664,-34.97008617987726,0 138.633053567295,-34.97008575262024,0 138.6330546447801,-34.97008516238017,0 138.6330555813827,-34.97008442709124,0 138.6330563486446,-34.9700835690948,0 138.6330569232532,-34.97008261446065,0 138.633057287749,-34.97008159219488,0 138.633057431057,-34.9700805333585,0 138.6330573488231,-34.97007947012375,0 138.6330570435457,-34.97007843479647,0 138.6330565245007,-34.97007745883455,0 138.633055807459,-34.97007657189208,0 138.6330549142074,-34.97007580091836,0 138.633053871887,-34.97007516933905,0 138.6330527121682,-34.97007469634436,0 138.6330514702885,-34.97007439630599,0 138.6330501839816,-34.97007427834044,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

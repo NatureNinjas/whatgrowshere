@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02018">
+			<name>Bennett’s Ash</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Bennett’s Ash</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2023</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>174A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Flindersia bennettiana</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Bennett’s Ash</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>174A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>RUTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>174.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6318601844781,-34.96921173189893,0 138.6318577656837,-34.96921185863938,0 138.6318554103721,-34.96921232920106,0 138.6318531901085,-34.96921312928615,0 138.6318511723542,-34.96921423458448,0 138.6318494184177,-34.96921561151217,0 138.6318479815916,-34.96921721823194,0 138.631846905533,-34.96921900592445,0 138.6318462229375,-34.96922092027159,0 138.6318459545453,-34.96922290310685,0 138.6318461085116,-34.96922489418288,0 138.6318466801581,-34.96922683300174,0 138.6318476521157,-34.96922866065346,0 138.6318489948519,-34.96923032160575,0 138.6318506675684,-34.96923176539138,0 138.6318526194406,-34.96923294814166,0 138.6318547911618,-34.9692338339193,0 138.6318571167454,-34.9692343958104,0 138.6318595255296,-34.96923461674216,0 138.6318619443247,-34.96923449000169,0 138.6318642996369,-34.96923401943993,0 138.631866519901,-34.96923321935464,0 138.6318685376556,-34.96923211405607,0 138.6318702915921,-34.96923073712812,0 138.6318717284181,-34.96922913040807,0 138.6318728044763,-34.96922734271533,0 138.6318734870713,-34.96922542836802,0 138.6318737554628,-34.96922344553266,0 138.6318736014958,-34.96922145445665,0 138.6318730298488,-34.96921951563788,0 138.6318720578907,-34.96921768798636,0 138.6318707151541,-34.96921602703432,0 138.6318690424376,-34.96921458324896,0 138.6318670905655,-34.96921340049894,0 138.6318649188447,-34.96921251472153,0 138.6318625932617,-34.9692119528306,0 138.6318601844781,-34.96921173189893,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

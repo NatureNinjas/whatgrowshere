@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01554">
+			<name>Pin Bush, Needle Hakea, Silver Needle bush</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Pin Bush, Needle Hakea, Silver Needle bush</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1554</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>230C</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Hakea leucoptera</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Pin Bush, Needle Hakea, Silver Needle bush</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>230C</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PROTEACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>SA, WA, NT, Vic., NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1977</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>230.3</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H11</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6317123046653,-34.96864182464996,0 138.6317069030141,-34.96864210768356,0 138.6317016431317,-34.96864315854391,0 138.631696684837,-34.96864494530117,0 138.631692178785,-34.96864741366574,0 138.6316882618899,-34.96865048863756,0 138.6316850531644,-34.96865407678531,0 138.6316826501042,-34.96865806908495,0 138.6316811257251,-34.96866234423256,0 138.6316805263447,-34.96866677232996,0 138.6316808701749,-34.96867121883167,0 138.631682146769,-34.96867554863298,0 138.6316843173383,-34.96867963017509,0 138.6316873159312,-34.9686833394423,0 138.6316910514371,-34.9686865637304,0 138.6316954103547,-34.96868920507092,0 138.6317002602403,-34.96869118320807,0 138.6317054537325,-34.96869243803704,0 138.6317108330296,-34.96869293143047,0 138.6317162346842,-34.96869264839685,0 138.6317214945696,-34.968691597536,0 138.6317264528667,-34.9686898107778,0 138.6317309589201,-34.96868734241206,0 138.6317348758155,-34.96868426743887,0 138.6317380845401,-34.96868067928978,0 138.6317404875984,-34.96867668698895,0 138.6317420119748,-34.9686724118405,0 138.6317426113521,-34.96866798374269,0 138.6317422675183,-34.968663537241,0 138.6317409909213,-34.96865920744019,0 138.6317388203497,-34.96865512589904,0 138.6317358217553,-34.96865141663301,0 138.631732086249,-34.96864819234627,0 138.6317277273323,-34.96864555100705,0 138.6317228774486,-34.9686435728711,0 138.6317176839592,-34.96864231804297,0 138.6317123046653,-34.96864182464996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

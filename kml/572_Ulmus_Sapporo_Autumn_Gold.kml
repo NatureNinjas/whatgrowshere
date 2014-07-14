@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01681">
+			<name>Sapporo Autumn Gold Elm</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Sapporo Autumn Gold Elm</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1684</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>572</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Ulmus ‘Sapporo Autumn Gold’</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Sapporo Autumn Gold Elm</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>572</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>ULMACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>cultivar</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2001</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>572</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>E12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6298198524326,-34.96904248413483,0 138.6298144927847,-34.96904276488117,0 138.6298092737853,-34.96904380748113,0 138.6298043540111,-34.96904558025597,0 138.6297998829467,-34.96904802934073,0 138.6297959964431,-34.96905108032136,0 138.6297928125897,-34.96905464049537,0 138.6297904281263,-34.96905860168879,0 138.6297889155038,-34.96906284354272,0 138.6297883206825,-34.9690672371707,0 138.6297886617359,-34.96907164907455,0 138.6297899283014,-34.96907594520076,0 138.6297920818952,-34.9690799950138,0 138.6297950570817,-34.969083675462,0 138.6297987634611,-34.96908687471679,0 138.6298030884172,-34.96908949557039,0 138.6298079005383,-34.96909145838939,0 138.6298130536104,-34.96909270353452,0 138.6298183910601,-34.9690931931726,0 138.6298237507112,-34.96909291242624,0 138.6298289697135,-34.96909186982575,0 138.6298338894902,-34.96909009705006,0 138.6298383605559,-34.96908764796405,0 138.6298422470599,-34.9690845969821,0 138.6298454309125,-34.96908103680676,0 138.629847815374,-34.96907707561223,0 138.6298493279938,-34.96907283375746,0 138.629849922812,-34.96906844012905,0 138.6298495817553,-34.96906402822527,0 138.6298483151867,-34.9690597320995,0 138.6298461615905,-34.9690556822874,0 138.6298431864028,-34.96905200184038,0 138.629839480023,-34.96904880258691,0 138.6298351550676,-34.96904618173465,0 138.6298303429484,-34.96904421891679,0 138.6298251898789,-34.96904297377251,0 138.6298198524326,-34.96904248413483,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

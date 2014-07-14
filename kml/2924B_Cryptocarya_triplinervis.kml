@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01902">
+			<name>Brown Laurel,  Three-veined Cryptocarya</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Brown Laurel,  Three-veined Cryptocarya</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1907</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2924B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Cryptocarya triplinervis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Brown Laurel,  Three-veined Cryptocarya</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2924B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>LAURACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2924.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J15</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6330218295747,-34.97007335602141,0 138.6330208126408,-34.97007340931571,0 138.6330198223989,-34.97007360716111,0 138.6330188889371,-34.97007394354623,0 138.6330180406182,-34.97007440825012,0 138.6330173032179,-34.97007498715302,0 138.6330166991417,-34.97007566266526,0 138.6330162467442,-34.97007641426171,0 138.6330159597713,-34.97007721910556,0 138.6330158469424,-34.97007805274198,0 138.6330159116859,-34.97007888984135,0 138.6330161520345,-34.97007970496887,0 138.6330165606855,-34.9700804733573,0 138.633017125222,-34.97008117165952,0 138.6330178284911,-34.97008177865796,0 138.6330186491241,-34.9700822759093,0 138.6330195621866,-34.97008264830482,0 138.6330205399357,-34.97008288452943,0 138.6330215526629,-34.97008297740556,0 138.633022569597,-34.97008292411127,0 138.633023559839,-34.97008272626584,0 138.6330244933008,-34.97008238988072,0 138.6330253416198,-34.97008192517679,0 138.6330260790201,-34.97008134627384,0 138.6330266830963,-34.97008067076155,0 138.6330271354937,-34.97007991916505,0 138.6330274224666,-34.97007911432117,0 138.6330275352953,-34.97007828068476,0 138.6330274705517,-34.97007744358537,0 138.6330272302029,-34.97007662845784,0 138.6330268215519,-34.97007586006947,0 138.6330262570154,-34.9700751617673,0 138.6330255537463,-34.97007455476889,0 138.6330247331133,-34.97007405751759,0 138.6330238200508,-34.97007368512214,0 138.6330228423018,-34.97007344889757,0 138.6330218295747,-34.97007335602141,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

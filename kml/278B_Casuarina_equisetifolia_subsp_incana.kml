@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_02019">
+			<name>Coast Sheoak</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Coast Sheoak</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>2024</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>278B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Casuarina equisetifolia subsp. incana</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Coast Sheoak</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>278B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>CASUARINACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Qld, NSW, New Caledonia</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1960</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>278.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H8</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6316648671063,-34.96757453936996,0 138.6316591150443,-34.96757484076892,0 138.6316535139481,-34.9675759598151,0 138.631648234004,-34.96757786250685,0 138.6316434356402,-34.96758049103188,0 138.6316392646525,-34.96758376552388,0 138.6316358477744,-34.9675875864891,0 138.6316332888258,-34.96759183782955,0 138.6316316655594,-34.96759639037043,0 138.6316310272973,-34.96760110578516,0 138.631631393433,-34.96760584079826,0 138.6316327528418,-34.96761045153876,0 138.6316350642189,-34.9676147979116,0 138.6316382573345,-34.96761874785438,0 138.6316422351673,-34.96762218135006,0 138.631646876853,-34.96762499407353,0 138.6316520413562,-34.96762710056156,0 138.6316575717561,-34.96762843680947,0 138.6316633000141,-34.96762896221605,0 138.6316690520799,-34.96762866081703,0 138.6316746531795,-34.96762754177028,0 138.6316799331264,-34.96762563907752,0 138.6316847314918,-34.9676230105511,0 138.6316889024798,-34.96761973605756,0 138.631692319357,-34.96761591509082,0 138.6316948783035,-34.96761166374907,0 138.6316965015668,-34.96760711120722,0 138.6316971398252,-34.96760239579199,0 138.6316967736857,-34.96759766077892,0 138.6316954142735,-34.96759305003904,0 138.6316931028936,-34.96758870366723,0 138.6316899097764,-34.9675847537258,0 138.6316859319433,-34.96758132023164,0 138.6316812902585,-34.96757850750969,0 138.6316761257574,-34.967576401023,0 138.6316705953606,-34.96757506477604,0 138.6316648671063,-34.96757453936996,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

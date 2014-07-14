@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01663">
+			<name>Wild Plum, Black Apple</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Wild Plum, Black Apple</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1666</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>213</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Planchonella australis</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Wild Plum, Black Apple</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>213</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>SAPOTACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>1930</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>213</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>H12</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6317608700755,-34.96890587942689,0 138.6317562341601,-34.96890612233825,0 138.6317517199168,-34.96890702422744,0 138.6317474645084,-34.96890855769102,0 138.6317435972334,-34.96891067613551,0 138.6317402355968,-34.9689133151931,0 138.6317374817403,-34.96891639467739,0 138.6317354193385,-34.96891982101985,0 138.6317341110565,-34.96892349011284,0 138.6317335966457,-34.96892729047288,0 138.6317338917365,-34.96893110662793,0 138.6317349873627,-34.96893482262607,0 138.6317368502345,-34.96893832555853,0 138.6317394237495,-34.9689415089905,0 138.6317426297127,-34.96894427619496,0 138.6317463707127,-34.96894654309172,0 138.631750533081,-34.96894824080223,0 138.6317549903461,-34.96894931774241,0 138.6317596070761,-34.96894974118994,0 138.6317642429939,-34.96894949827856,0 138.6317687572395,-34.96894859638901,0 138.6317730126496,-34.96894706292473,0 138.6317768799257,-34.96894494447935,0 138.6317802415625,-34.96894230542078,0 138.6317829954184,-34.9689392259355,0 138.6317850578188,-34.96893579959218,0 138.6317863660989,-34.96893213049854,0 138.6317868805072,-34.9689283301382,0 138.631786585414,-34.96892451398317,0 138.6317854897854,-34.96892079798543,0 138.6317836269119,-34.96891729505362,0 138.6317810533959,-34.96891411162253,0 138.6317778474324,-34.9689113444191,0 138.6317741064331,-34.96890907752331,0 138.6317699440662,-34.96890737981367,0 138.6317654868032,-34.96890630287409,0 138.6317608700755,-34.96890587942689,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

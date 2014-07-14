@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01641">
+			<name>Cape Ebony, Black Ebony</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Cape Ebony, Black Ebony</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1642</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>914B</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Euclea pseudebenus</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Cape Ebony, Black Ebony</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>914B</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>EBENACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>S. Africa</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2009</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>914.2</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>B9</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6274782351073,-34.96796523258432,0 138.6274765925676,-34.9679653185932,0 138.6274749931252,-34.96796563808648,0 138.6274734853782,-34.96796618135652,0 138.6274721151387,-34.96796693189641,0 138.627470924041,-34.96796786690128,0 138.6274699482757,-34.96796895796157,0 138.627469217491,-34.96797017192592,0 138.6274687538916,-34.96797147190865,0 138.6274685715635,-34.96797281841046,0 138.6274686760469,-34.96797417051858,0 138.627469064167,-34.96797548714985,0 138.627469724131,-34.96797672829914,0 138.6274706358862,-34.96797785625471,0 138.6274717717295,-34.96797883674426,0 138.6274730971488,-34.96797963997603,0 138.6274745718718,-34.96798024154428,0 138.62747615109,-34.96798062317062,0 138.6274777868195,-34.96798077325954,0 138.6274794293595,-34.96798068725067,0 138.6274810288022,-34.96798036775734,0 138.6274825365495,-34.96797982448718,0 138.627483906789,-34.96797907394718,0 138.6274850978869,-34.96797813894219,0 138.6274860736521,-34.96797704788179,0 138.6274868044365,-34.96797583391732,0 138.6274872680357,-34.96797453393452,0 138.6274874503635,-34.96797318743268,0 138.6274873458798,-34.96797183532456,0 138.6274869577594,-34.96797051869332,0 138.6274862977952,-34.96796927754411,0 138.6274853860399,-34.96796814958866,0 138.6274842501966,-34.96796716909925,0 138.6274829247774,-34.9679663658676,0 138.6274814500545,-34.96796576429946,0 138.6274798708365,-34.9679653826732,0 138.6274782351073,-34.96796523258432,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

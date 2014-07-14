@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="WaiteTreeID_2014_App_Joined_19062014" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+  <name>WaiteTreeID_2014_App_Joined_19062014</name>
+  <Snippet maxLines="0"></Snippet>
+  <Style id="PolyStyle00">
+    <LabelStyle>
+      <color>00000000</color>
+      <scale>0</scale>
+    </LabelStyle>
+    <LineStyle>
+      <color>ff0000e6</color>
+    </LineStyle>
+    <PolyStyle>
+      <color>00f0f0f0</color>
+    </PolyStyle>
+  </Style>
+  <Folder id="FeatureLayer0">
+    <name>WaiteTreeID_2014_App_Joined_19062014</name>
+    <Snippet maxLines="0"></Snippet>
+	<Placemark id="ID_01888">
+			<name>Hairy or Rough-fruited Pittosporum</name>
+			<Snippet maxLines="0"></Snippet>
+			<description><![CDATA[<html xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:msxsl="urn:schemas-microsoft-com:xslt">
+
+<head>
+
+<META http-equiv="Content-Type" content="text/html">
+
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+</head>
+
+<body style="margin:0px 0px 0px 0px;overflow:auto;background:#FFFFFF;">
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-collapse:collapse;padding:3px 3px 3px 3px">
+
+<tr style="text-align:center;font-weight:bold;background:#9CBCE2">
+
+<td>Hairy or Rough-fruited Pittosporum
+
+
+
+
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<table style="font-family:Arial,Verdana,Times;font-size:12px;text-align:left;width:100%;border-spacing:0px; padding:3px 3px 3px 3px">
+
+<tr>
+
+<td>FID</td>
+
+<td>1893</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Tree_ID</td>
+
+<td>2994A</td>
+
+</tr>
+
+<tr>
+
+<td>Correct</td>
+
+<td>Yes</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Acc</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>Commt</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Scientific</td>
+
+<td>Pittosporum revolutum</td>
+
+</tr>
+
+<tr>
+
+<td>CommonName</td>
+
+<td>Hairy or Rough-fruited Pittosporum</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>TreeID</td>
+
+<td>2994A</td>
+
+</tr>
+
+<tr>
+
+<td>FAMILY</td>
+
+<td>PITTOSPORACEAE</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Distrib</td>
+
+<td>Vic., NSW, Qld</td>
+
+</tr>
+
+<tr>
+
+<td>YearPlant</td>
+
+<td>2008</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Num</td>
+
+<td>2994.1</td>
+
+</tr>
+
+<tr>
+
+<td>Grid</td>
+
+<td>J14</td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NRBTrees</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NRBT_Point</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>NatTrustLi</td>
+
+<td></td>
+
+</tr>
+
+<tr>
+
+<td>NT_Num</td>
+
+<td></td>
+
+</tr>
+
+<tr bgcolor="#D4E4F3">
+
+<td>Habitat</td>
+
+<td></td>
+
+</tr>
+
+</table>
+
+</td>
+
+</tr>
+
+</table>
+
+</body>
+
+</html>]]></description>
+			<styleUrl>#PolyStyle00</styleUrl>
+			<MultiGeometry>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<coordinates>
+								138.6331729427577,-34.96997045992439,0 138.633171645714,-34.9699705279001,0 138.633170382715,-34.9699707802431,0 138.6331691921363,-34.96997120928603,0 138.6331681101529,-34.96997180199264,0 138.6331671696404,-34.96997254035382,0 138.6331663991758,-34.96997340193489,0 138.6331658221693,-34.96997436055712,0 138.6331654561529,-34.9699753870933,0 138.6331653122479,-34.96997645035259,0 138.6331653948267,-34.96997751802843,0 138.6331657013803,-34.96997855768002,0 138.633166222594,-34.96997953771811,0 138.6331669426313,-34.96998042836467,0 138.6331678396141,-34.9699812025579,0 138.633168886288,-34.96998183677432,0 138.6331700508504,-34.96998231174356,0 138.6331712979166,-34.96998261303393,0 138.6331725895951,-34.96998273149088,0 138.633173886639,-34.96998266351513,0 138.6331751496382,-34.96998241117213,0 138.6331763402171,-34.96998198212916,0 138.6331774222005,-34.9699813894225,0 138.633178362713,-34.96998065106121,0 138.6331791331775,-34.96997978948007,0 138.6331797101839,-34.96997883085777,0 138.6331800762002,-34.96997780432155,0 138.633180220105,-34.96997674106224,0 138.633180137526,-34.96997567338639,0 138.6331798309723,-34.96997463373482,0 138.6331793097583,-34.96997365369679,0 138.633178589721,-34.9699727630503,0 138.6331776927381,-34.96997198885716,0 138.6331766460643,-34.96997135464082,0 138.633175481502,-34.96997087967164,0 138.633174234436,-34.96997057838131,0 138.6331729427577,-34.96997045992439,0 
+							</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</MultiGeometry>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>
