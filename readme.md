@@ -1,7 +1,8 @@
 # 'WHAT GROWS HERE?' UNLEASHED
 
 This project is part of the [Adelaide 2014 GovHack Open Data competition](http://www.govhack.org/locations/south-australia/)
-[You can vote for our prject here.](http://hackerspace.govhack.org/content/what-grows-here)
+
+* [You can vote for our prject here.](http://hackerspace.govhack.org/content/what-grows-here)
 
 The Nature Ninjas present:
 
