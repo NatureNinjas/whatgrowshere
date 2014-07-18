@@ -42,7 +42,7 @@ $responseDetails = $curl -> get('http://biocache.ala.org.au/ws/occurrences/searc
 ?>
 <div class="species">
 <?php if(count($selected )> 0): ?>
-<div class="item-title">Bird sightings within <?php echo $rad.'km'; ?> radius of your location.</div>
+<div class="item-title">Bird sightings within <?php echo $rad.'km'; ?> radius of your <a href="<?php echo Helpers::googleMapsUri($lat, $lon) ?>" target="_blank">location.</a></div>
 <div class="item-summary"><?php echo count($responseDetails ->facetResults[1]->fieldResult) ?> bird species found.</div>
 <?php endif; ?>
 <?php

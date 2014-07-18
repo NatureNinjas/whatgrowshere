@@ -5,6 +5,7 @@
  */
 
 @include_once ('Connector.php');
+@include_once ('Helpers.php');
 
 $error = true;
 
