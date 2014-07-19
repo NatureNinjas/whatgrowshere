@@ -8,6 +8,7 @@ $lon = (!empty($_GET['lon'])) ? $_GET['lon'] : "138.59994";
 $lat = (!empty($_GET['lat'])) ? $_GET['lat'] : "-34.928726";
 $rad = "5"; //km
 
+echo $lon . ";" . $lat;
 //Theme class
 require_once('./Theme/Image.php');
 
@@ -35,7 +36,7 @@ foreach ($response as $value) {
 $responseDetails = $curl -> get('http://biocache.ala.org.au/ws/occurrences/search', 
 	array('q' => $species, 
 		'fq' => 'kingdom:ANIMALIA', 
-		'radius' => $rad,
+		'lat' => $lat,
 		'lon' => $lon,
 		'radius' => $rad));
 //get full item details
