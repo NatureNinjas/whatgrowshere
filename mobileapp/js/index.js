@@ -185,9 +185,10 @@ function display_detail(i){
 	//alert(networkState);
 	if(networkState!=Connection.NONE){
 	****/
-	var networkState = navigator.connection.type;
+	/*var networkState = navigator.connection.type;
 	//alert(networkState);
-	if(networkState!=Connection.NONE){
+	if(networkState!=Connection.NONE){ */
+	if(1){
 		var t = new Date().getTime();
 		$("#itemdetail").append('<div id="external-photo">Loading photo...</div><div id="external-bird">Loading more information...</div>');
 		var url="http://whatgrowshere.com.au/api/index.php?bname="+searchResult[i].Botanical_name+"&template=images.binomial,wikipedia&t="+t;
