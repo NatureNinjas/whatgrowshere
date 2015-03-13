@@ -2,7 +2,11 @@
 
 This project is part of the [Adelaide 2014 GovHack Open Data competition](http://www.govhack.org/locations/south-australia/)
 
-* [You can vote for our project here.](http://hackerspace.govhack.org/content/what-grows-here)
+* ~~ [You can vote for our project here.](http://hackerspace.govhack.org/content/what-grows-here) ~~
+
+The national GovHack Red Carpet Awards were held on 10th August and ‘What Grows Here?’ received the [GovHack People’s Choice Award](http://www.govhack.org/2014-winners/). 
+
+Our surprise and delight in winning this award was topped off a week later at the South Australian Unleashed Awards where we received the top prize [Unleashed Premiers Award](http://uladl.com/unleashed-2014-winners/) and the [Unleashed Building on Science, Research and Environmental Data Award](http://uladl.com/unleashed-2014-winners/).
 
 ## The Nature Ninjas present:
 
