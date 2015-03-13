@@ -2,7 +2,7 @@
 
 This project is part of the [Adelaide 2014 GovHack Open Data competition](http://www.govhack.org/locations/south-australia/)
 
-* ~~ [You can vote for our project here.](http://hackerspace.govhack.org/content/what-grows-here) ~~
+* <del> [You can vote for our project here.](http://hackerspace.govhack.org/content/what-grows-here) </del>
 
 The national GovHack Red Carpet Awards were held on 10th August and ‘What Grows Here?’ received the [GovHack People’s Choice Award](http://www.govhack.org/2014-winners/). 
 
